@@ -1,0 +1,9 @@
+#title:Temporary Book
+#
+#author:DwarfyAssassin
+#
+#types:all
+#
+#By Sir Lazuli (SirLazuli)
+#
+This is a temporary book to stop crashes.
