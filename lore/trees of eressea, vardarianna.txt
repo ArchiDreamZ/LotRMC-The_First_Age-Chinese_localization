@@ -1,11 +1,16 @@
-#title:The Trees of Eressëa: Vardarianna
+#title:埃瑞西亚之树:瓦尔妲瑞安娜
 #
-#author:Aldandur
+#author:阿尔丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
+树干坚挺树枝长，绿叶欲滴嫩枝上。
+花如九天亮银星，树似众神耀女王。
+树上苍穹星闪烁，穹下巨树花琳琅。
+芳香沁人绕树飞，飞入大地进心房。
+不知何处花落下，密林深处隐人堂。
 Stately limbs and slender twigs,
 Leaves on graceful tender sprigs,
 Flowers like a silver star,

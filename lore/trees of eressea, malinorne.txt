@@ -1,11 +1,22 @@
-#title:The Trees of Eressëa: Malinornë
+#title:埃瑞西亚之树:瑁利诺尼
 #
-#author:Aldandur
+#author:阿尔丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
+（翻译累了！我要用机翻！）
+
+高大的树木长出美丽的树瑁利诺尼
+那是在阿瓦隆尼的避风港周围绽放的。
+银柱升起闪烁的屋檐，
+使树皮丝柔和淡绿色的叶子。
+
+夏天消逝时，黄金就是叶子
+冬季寒冷的日子里的黄金。
+顺着寒冷的春天风，金色的叶子飘落，
+簇生的金缕梅的气味。
 Tall grows the fair tree Malinornë,
 That blooms round the haven of Avallónë.
 Silver pillars raise shimmering eaves,

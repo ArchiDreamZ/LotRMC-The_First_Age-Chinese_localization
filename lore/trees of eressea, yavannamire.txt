@@ -1,11 +1,15 @@
-#title:The Trees of Eressëa: Yavannamírë
+#title:埃瑞西亚之树:雅凡娜弥瑞
 #
-#author:Aldandur
+#author:阿尔丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
+红果成熟甚香甜，长在雅凡娜根前。
+葱绿芬芳飘林外，湛蓝甜美上海山。
+绝胜凡间酒后果，更超仙界饭时参。
+最爱圆果欲滴蜜，摘于绿叶红树间。
 Sweet is the swelling crimson fruit,
 Grown from Yavannamírë’s root.
 Fair-scented groves of verdant trees,

@@ -1,11 +1,13 @@
-#title:The Trees of Eressëa: Taniquelassë
+#title:埃瑞西亚之树:塔尼魁拉赛
 #
-#author:Aldandur
+#author:阿尔丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
+参天巨树魁拉赛，山间枝蔓总徘徊，卵石之上高塔白。
+细枝落叶覆山白，魁提尔峰到天外，秋风萧瑟冬风来。
 Taniquelassë, towering tall tree,
 Climbing the steep slopes, branching in splendour. 
 Tower of mountains, among the loose scree,

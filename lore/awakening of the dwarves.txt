@@ -1,7 +1,33 @@
-#title: Awakening of the Dwarves
-#author: Dwálin of Belegost
+#title: 矮人的觉醒
+#author:贝烈格斯特的格瓦林
 #types: blue_mountains
 #By MightyBolg
-Aulë, the Smith of the Valar created the Seven Fathers of the Dwarves from whom all other Dwarves are descended, deep beneath an unknown mountain somewhere in Middle-earth. However, Aulë did not have the divine power to grant independent life to any creation, and the dwarves were bound to his will. Ilúvatar came and reprimanded Aulë, who confessed his desire to create more living things, but in repentance lifted his hammer to destroy the dwarves. Even as the blow was about to land, the dwarves cowered and begged for mercy, as Ilúvatar had taken pity and given true life to the creations of his child, including them in His plan for Arda. However, Ilúvatar did not wish them to wake before the Elves, whom he intended to be the first-born. Ilúvatar granted the Dwarves life, and therefore they are known as the Adopted Children of Ilúvatar, but he bade Aulë lay them to sleep in their chamber deep beneath the mountain, and they were to awake after the Awakening of the Elves with their wives.
-After the Awakening of the Elves, the Dwarves awoken in different places in Middle-Earth. Dwálin Father of the Broadbeams and Úri Father of the Firebeards awoke at Mount Dolmed in the Blue Mountains, Thélor Father of Ironfists and Thúlin Father of the Stiffbeards awoke in the Mirror Halls in the Southern Orocarni Mountains. Malin Father of the Stonefoots and Druin Father of the Blacklocks awoke in the Northern Orocarni Mountains. And finally the Eldest Dúrin Father of the Longbeards awoke at Mount Gundabad in the Misty Mountains. This was how the Dwarves came to be, these seven dwarves all had a title as a reason. Dúrin travelled south with his wife and discovered his kingdom of Khazad-Dûm, he was known as the 
-Deathless as he lived longer than a normal dwarf, at the mighty age of 2,395, he was the Oldest dwarf ever known to be. Thelor, was extremely wealthy, he traded with the other dwarven clans and mined beneath the surface of the mountains, he made his own halls out of shining crystals, made up of diamond, emerald, ruby and sapphire, he was known as the Rich. Dwálin was a resilient dwarf, he would not let his people down, he lived not far from Ossiriand and talked to the Elves often. Dwálin was a good and noble king who built his city of Belegost proudly. He was known as the Wise. Úri, was a stubborn dwarf who would only care for gold. He built Nogrod on his own with a little help with the Dwarves of Belegost. At one time Melkors fire-drakes were flying over the Ered Luin, one of them attacked Belegost and it scarred the King with burns on his eye. Thus naming himself, the Scarred. Malin, was a joyful dwarf who led his people northwads in the First Age, he travelled on wards to his kingdom and made it. Malin had heard a great roar once and decided to investigate he never returned. Seven years later his friend Druin found him frozen in the ice. He was named the Cold. Druin was a great king, he ruled under a golden throne and one of the most mightiest kingdoms of the Dwarves, he succeeded his dwarves, he was called the Proud. Thúlin ventured to Forodwaith once, he was a fierce warrior and carried a giant spear called Drâeclór, he returned with many gifts for his people, he was known as the Swift. The Dwarves race would carry on for generations, the dwarves would be a magnificent race and would bring greatness to all. I have just had my first son, Azaghâl, I know he will show honour, but I don't know if Úri's son, Naugladur will.
+维拉的铁匠奥力创造了矮人七祖，所有其他矮人都因他们而生。
+然而，奥力没有赋予独立生命的力量，而矮人则束缚了他的意志。
+伊露维塔来谴责奥力，奥力承认了自己创造矮人的愿望，在悔恨中想举锤杀死矮人。
+在灭亡即将降临，矮人屈服并乞求怜悯。伊露维塔怜悯他们，便为矮人赋予了真实的生命。
+伊露维塔赋予了矮人生命，因此他们被称为伊露维塔的养子，
+但是，伊露维塔不希望他们在他的长子精灵之前醒来。
+于是奥力让矮人七祖在深山下沉睡，在精灵醒来之后便苏醒。
+精灵觉醒后，矮人在中土的不同地方醒来。
+宽梁之父的德瓦林和火须之父乌力在蓝山的多米德山中醒来，
+铁拳之父瑟罗尔和硬须之父瑟林在欧罗卡尼山南部的镜厅中醒来。
+石脚之父马林和黑锁之父的德罗因在欧罗卡尼山脉北部醒来。
+最后，长须之父都林在迷雾山脉的贡达巴山醒来。
+矮人就是这样由来。
+都林与妻子一起向南旅行，发现了他的卡扎都姆王国。
+他的生命比普通的矮人更长，享年2395岁，是已知的最长寿的矮人。
+瑟罗尔非常有钱，他与其他矮人氏族进行交易并在山下开采。
+他用闪亮的水晶制成自己的大厅，这些水晶是由钻石，祖母绿，红宝石和蓝宝石组成的，他成为最富的人。
+德瓦林是个韧性十足的矮人，他不会让自己的人民失望，他住在离欧西瑞安德不远的地方，经常与精灵交谈。
+德瓦林是一位善良而高尚的国王，他自豪地建造了他的贝烈格斯特t城。他被称为智者。
+乌力是一个固执的矮人，只关心黄金。在贝烈格斯特矮人的帮助下，他独自建立了诺格罗德。
+一次，米尔寇的大火在埃瑞德路因上空燃烧，烧到了贝烈格斯特，烧伤了国王的眼睛。
+因此他给自己命名为“受伤者”。
+马林是一个快乐的矮人，他在第一时间就带领他的人民向北方狂奔，他旅行到他未来的王国并取得了成功。
+马林曾听到一次巨大的吼声，并决定调查。
+他再也没有回来。七年后，他的朋友德罗因发现他被冰冻了。
+德罗因是位伟大的国王，他统治着金色宝座，是矮人最强大的王国之一，他是矮人的骄傲。
+瑟林曾经冒险到弗洛德地区，他是一个勇猛的战士，使用名为德莱克罗尔的巨大长矛。
+矮人种族将延续下去，矮人种族将是一个伟大的种族。
+我刚刚有了我的第一个儿子阿扎格哈尔，我知道他会有出息，但是我不知道乌力的儿子瑙格拉督尔是否会这样。

@@ -1,11 +1,15 @@
-#title:The Trees of Eressëa: Nessamelda
+#title:埃瑞西亚之树:奈沙美尔达
 #
-#author:Aldandur
+#author:阿尔丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
+林间独徘徊，奈沙入眼来。
+风吹叶耳语，水抚石牙白。
+嫩枝密似网，暗香清如海。
+细抚树周身，何物胜此柏？
 Circling glades and meadows fair,
 Nessamelda the green grows there.
 Whispering songs and rustling leaves,

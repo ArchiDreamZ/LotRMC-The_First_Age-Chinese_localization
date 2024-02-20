@@ -1,11 +1,15 @@
-#title:The Trees of Eressëa: Oiolairë
+#title:埃瑞西亚之树:欧幽莱瑞
 #
-#author:Aldandur
+#author:阿尔丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
+欧幽莱瑞绿而宽，海边枝蔓总流连。
+海风吹拂树梢摇，阳光照耀绿叶展。
+咸水浸泡更精神，沙地覆盖愈灿烂。
+不畏水火金木土，要留翠绿在人间。
 Oiolairë grows green and wide,
 Spreading branches along the seaside.
 Glossy leaves in sea-breeze sway,
