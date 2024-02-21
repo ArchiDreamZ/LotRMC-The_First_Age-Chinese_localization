@@ -110,6 +110,8 @@ entity.lotrfa.AngbandOrcFireThrower.name=Angband Orc Fire-thrower
 lotr.unit.AngbandOrc_Warg=Warg Rider
 lotr.unit.AngbandOrcArcher_Warg=Warg Rider Archer
 lotr.unit.AngbandBannerBearer_Warg=Warg Rider Banner Bearer
+entity.lotrfa.AngbandSlaver.name=Angband Orc Slaver
+entity.lotrfa.AngbandSlave.name=Angband Slave
 
 entity.lotrfa.AnfauglithOrc.name=Anfauglith Orc
 entity.lotrfa.AnfauglithOrcArcher.name=Anfauglith Orc Archer
@@ -155,6 +157,9 @@ entity.lotrfa.BelegostCommander.name=Belegost Commander
 entity.lotrfa.BelegostSmith.name=Belegost Smith
 entity.lotrfa.BelegostDwarf.name=Belegost Dwarf
 entity.lotrfa.BelegostBannerBearer.name=Belegost Banner Bearer
+entity.lotrfa.BelegostDragonguard.name=Belegost Dragonguard
+entity.lotrfa.BelegostCaptain.name=Belegost Captain
+entity.lotrfa.NogrodCaptain.name=Nogrod Captain
 
 entity.lotrfa.BorBartender.name=House Bór Bartender
 entity.lotrfa.BorFarmer.name=House Bór Farmer
@@ -248,6 +253,9 @@ entity.lotrfa.UlfangBrewer.name=House Ulfang Brewer
 lotr.unit.UlfangWarrior_Horse=House Ulfang Rider
 lotr.unit.UlfangArcher_Horse=Mounted House Ulfang Archer
 lotr.unit.UlfangBannerBearer_Horse=Mounted House Ulfang Banner Bearer
+entity.lotrfa.UlfangSlaver.name=Ulfang Slaver
+entity.lotrfa.UlfangSlave.name=Ulfang Slave
+
 
 container.lotr.pettyDwarvenForge=Petty-dwarven Forge
 container.lotr.crafting.falathrim=Falathrim Crafting
@@ -282,6 +290,14 @@ item.nargothrondBedItem.name=Nargothrond Bed
 
 item.pettyDwarfSteel.name=Petty-dwarven Steel Ingot
 item.angbandSteel.name=Angband Steel Ingot
+
+item.belegostDragonguardHelmet.name=Dragonguard Helmet
+item.belegostDragonguardChestplate.name=Dragonguard Chestplate
+item.belegostDragonguardLeggings.name=Dragonguard Leggings
+item.belegostDragonguardBoots.name=Dragonguard Boots
+item.belegostDragonguardPolearm.name=Belegost Polearm
+item.belegostCrossbow.name=Belegost Crossbow
+
 
 item.pettyDwarfSword.name=Petty-dwarven Sword
 item.pettyDwarfWarhammer.name=Petty-dwarven Warhammer
@@ -674,7 +690,13 @@ lotrfa.structure.AngbandOutpost.name=Angband Outpost
 lotrfa.structure.AngbandFort.name=Angband Fortress
         
 lotrfa.structure.BelegostDwarfHouse.name=Belegost House
-        
+lotrfa.structure.BelegostSmithy.name=Belegost Smithy
+lotrfa.structure.BelegostTower.name=Belegost Tower
+lotrfa.structure.NogrodDwarfHouse.name=Nogrod House
+lotrfa.structure.NogrodSmithy.name=Nogrod Smithy
+lotrfa.structure.NogrodTower.name=Nogrod Tower
+lotrfa.structure.EredLuinMineEntrance.name=Blue Mountains Mine Entrance 
+     
 lotrfa.structure.BrethilTower.name=Brethil Tower
 lotrfa.structure.BrethilHutVillage.name=Brethil Village Hut
 lotrfa.structure.BrethilHutCaptain.name=Brethil Captain Hut
@@ -703,21 +725,22 @@ lotrfa.structure.DoriathCamp.name=Doriath Camp
 lotrfa.structure.DoriathTent.name=Doriath Tent
 lotrfa.structure.DoriathHouse.name=Doriath House
 lotrfa.structure.DoriathTower.name=Doriath Tower
+lotrfa.structure.DoriathMerchantStall.name=Doriath Merchant Stall
         
 lotrfa.structure.FalathrimMerchantStall.name=Falathrim Merchant Stall
 lotrfa.structure.FalathrimSmithy.name=Falathrim Smithy
 lotrfa.structure.FalathrimHouse.name=Falathrim House
 lotrfa.structure.FalathrimTurret.name=Falathrim Turret
 
-lotrfa.structure.FeanorianCamp.name=Fëanorian War Camp
-lotrfa.structure.FeanorianForge.name=Fëanorian Smithy
-lotrfa.structure.FeanorianHall.name=Fëanorian Hall
-lotrfa.structure.FeanorianHillTower.name=Chalk Fëanorian Tower
-lotrfa.structure.FeanorianTower.name=Fëanorian Tower
-lotrfa.structure.FeanorianTent.name=Fëanorian Tent
-lotrfa.structure.FeanorianCaptainTent.name=Fëanorian Captain Tent
-lotrfa.structure.FeanorianHouse.name=Fëanorian House
-lotrfa.structure.FeanorianStable.name=Fëanorian Stable
+lotrfa.structure.FeanorianCamp.name=Feanorian Camp
+lotrfa.structure.FeanorianForge.name=Feanorian Smithy
+lotrfa.structure.FeanorianHall.name=Feanorian Hall
+lotrfa.structure.FeanorianHillTower.name=Chalk=Feanorian Tower
+lotrfa.structure.FeanorianTower.name=Feanorian Tower
+lotrfa.structure.FeanorianTent.name=Feanorian Tent
+lotrfa.structure.FeanorianCaptainTent.name=Feanorian Captain Tent
+lotrfa.structure.FeanorianHouse.name=Feanorian House
+lotrfa.structure.FeanorianStable.name=Feanorian Stable
         
 lotrfa.structure.GardhBorenCamp.name=House Bór Camp
 lotrfa.structure.GardhBorenWatchtower.name=House Bór Watchtower
@@ -741,8 +764,11 @@ lotrfa.structure.HithlumHouse.name=Hithlum House
 
 lotrfa.structure.LaegrimHouseSimple.name=Laegrim House
 lotrfa.structure.LaegrimForge.name=Laegrim Smithy
-lotrfa.structure.LaegrimHideout.name=Laegrim Hideout
-        
+lotrfa.structure.LaegrimCamp.name=Laegrim Camp
+lotrfa.structure.LaegrimMerchantStall.name=Laegrim Merchant Stall
+lotrfa.structure.LaegrimTent.name=Laegrim Tent
+lotrfa.structure.LaegrimCaptainTent.name=Laegrim Captain Tent
+
 lotrfa.structure.NargothrondHall.name=Nargothrond Hall
 lotrfa.structure.NargothrondHouse.name=Nargothrond House
 lotrfa.structure.NargothrondForge.name=Nargothrond Smithy
@@ -1406,6 +1432,18 @@ tile.wallMossy1.laegrim.name=Mossy Laegrim Brick Wall
 tile.wallMossy1.nargothrond.name=Mossy Nargothrond Brick Wall
 tile.wallMossy1.tolInGaurhoth.name=Mossy Tol-in-Gaurhoth Brick Wall
 
+tile.falathrimGate.name=Falathrim Gate
+tile.feanorianGate.name=Feanorian Gate
+tile.gondolinGate.name=Gondolin Gate
+tile.laegrimGate.name=Laegrim Gate
+tile.nogrodGate.name=Nogrod Gate
+tile.belegostGate.name=Belegost Gate
+tile.angbandGate.name=Angband Gate
+tile.doriathGate.name=Doriath Gate
+tile.tolingaurhothGate.name=Tol-In-Gaurhoth Gate
+tile.hithlumGate.name=Hithlum Gate
+tile.nargothrondGate.name=Nargothrond Gate
+
 tile.stairsAngband.name=Angband Brick Stairs
 tile.stairsBrethil.name=Brethil Brick Stairs
 tile.stairsDorLomin.name=Dor-lómin Brick Stairs
@@ -1691,6 +1729,7 @@ lotr.achievement.category.WEST_BELERIAND=West Beleriand
 lotr.achievement.category.AMON_RUDH=Amon Rûdh
 lotr.achievement.category.EAST_BELERIAND=East Beleriand
 lotr.achievement.category.DOR_NA_DAERACHAS=Dor-na-Daerachas
+lotr.achievement.category.TAURNUFUIN=Tol-in-Gaurhoth
 
 lotr.achievement.enterBlueMountains.title=Firebeards and Broadbeams
 lotr.achievement.enterBlueMountains.desc=Enter the Blue Mountains
@@ -1877,6 +1916,11 @@ lotr.achievement.tradeGondolinTrader.title=Treasures of Tumladen
 lotr.achievement.tradeGondolinTrader.desc=Trade with a Gondolinian Trader
 lotr.achievement.tradeGondolinLord.title=Spear-men of Gondolin
 lotr.achievement.tradeGondolinLord.desc=Hire a unit from a Gondolinian Lord
+
+lotr.achievement.hireUlfangSlave.title=Ulfang Enslavement
+lotr.achievement.hireUlfangSlave.desc=Hire a slave from an Ulfang Slaver
+lotr.achievement.hireAngbandSlave.title=Angband Enslavement
+lotr.achievement.hireAngbandSlave.desc=Hire a slave from an Angband Slaver
 
 lotr.achievement.useDorLominTable.title=Dor-lómin Crafter
 lotr.achievement.useDorLominTable.desc=Craft an item on the Dor-lómin Crafting Table
@@ -2214,6 +2258,8 @@ lotr.biome.southBeleriandWoodlands.name=South Beleriand Woodlands
 lotr.biome.frozenTundra.name=Snowy Tundra
 lotr.biome.forodwaithFoothills.name=Dor-na-Daerachas Mountains Foothills
 lotr.biome.beleriandIsland.name=Island
+lotr.biome.dryRiverVale.name=Dry River Vale
+lotr.biome.echoriathVale.name=Echoriath
 
 
 lotr.waypoint.RIVILS_WELL=Rivil's Well
@@ -2223,7 +2269,7 @@ lotr.waypoint.OROD_NA_THON.info=A mountain in Dorthonion, mentioned in Treebeard
 lotr.waypoint.LADROS_WASTELAND=Ladros Wasteland
 lotr.waypoint.LADROS_WASTELAND.info=Once the fief of the people of House Bëor, it is now a desolate wasteland.
 lotr.waypoint.MOUNT_DOLMED_FA=Mount Dolmed
-lotr.waypoint.MOUNT_DOLMED.info=Said to be the awakening-place of two Fathers of the Dwarves, this mountain is a holy site of both the Firebeard and Broadbeam clans.
+lotr.waypoint.MOUNT_DOLMED_FA.info=Said to be the awakening-place of two Fathers of the Dwarves, this mountain is a holy site of both the Firebeard and Broadbeam clans.
 lotr.waypoint.CROSSING_TAEGLIN=Crossings of Taeglin
 lotr.waypoint.CROSSING_TAEGLIN.info=A crossing on the river Taeglin, along the road running from Minas Tirith to Nargothrond.
 lotr.waypoint.SARN_ATHRAD=Sarn Athrad
@@ -2427,3 +2473,28 @@ lotrfa.gui.STRScan.boxlist.back=Back
 lotrfa.gui.STRScan.boxlist.back.desc=Go back to the main structure scanner menu.
 lotrfa.gui.STRScan.boxlist.coordinate.background.0=Point A (x, y, z)
 lotrfa.gui.STRScan.boxlist.coordinate.background.1=Point B (x, y, z)
+
+lotr.road.OldSouthRoad=The Old South Road
+lotr.road.OldSouthRoad2=The Old South Road
+lotr.road.PassSirion=The Orc Road
+lotr.road.Brithiach=Brithiach Road
+lotr.road.Brithiach2=Brithiach Road
+lotr.road.NorthDoriath=The Northern Road
+lotr.road.PassAglon=The Pass of Aglon
+lotr.road.Himlad=The Crossroads of Himlad
+lotr.road.Himring=Himring’s Road 
+lotr.road.MaglorGap=Maglor’s Passage
+lotr.road.Helevorn=Caranthir’s Road
+lotr.road.DwarfRoad=Dwarf Road
+lotr.road.DwarfRoad2=Dwarf Road
+lotr.road.DwarfRoad3=Nogrod-Belegost
+lotr.road.Menegroth=Menegroth-Estolad
+lotr.road.Menegroth2=Menegroth-Talath Dirnen
+lotr.road.FenSerech=The Orc Road
+lotr.road.Dorthonion=Desolate Road 
+lotr.road.Dorthonion2=Desolate Road 
+lotr.road.Ladros=Desolate Road
+lotr.road.Lothlann=The Forest Road
+lotr.road.Falas=Brithombar-Talath Dirnen
+lotr.road.Falas2=Eglarest-Talah Dirnen
+lotr.road.BaradNimras= Barad Nimras-Brithombar
