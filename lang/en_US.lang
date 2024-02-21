@@ -204,9 +204,12 @@ entity.lotrfa.TolInGaurhothBerserker.name=Tol-in-Gaurhoth Berserker
 entity.lotrfa.TolInGaurhothOrcCaptain.name=Tol-in-Gaurhoth Orc Commander
 entity.lotrfa.TolInGaurhothBannerBearer.name=Tol-in-Gaurhoth Banner Bearer
 entity.lotrfa.TolInGaurhothTrader.name=Tol-in-Gaurhoth Trader
+entity.lotrfa.TolInGaurhothWerewolf.name=Werewolf
 lotr.unit.TolInGaurhothOrc_Warg=Warg Rider
 lotr.unit.TolInGaurhothOrcArcher_Warg=Warg Rider Archer
 lotr.unit.TolInGaurhothBannerBearer_Warg=Warg Rider Banner Bearer
+lotr.unit.TolInGaurhothBannerBearer=Warg Rider Banner Bearer
+
 
 entity.lotrfa.NanDungorthebSpider.name=Nan Dungortheb Spider
 
@@ -1743,6 +1746,8 @@ lotr.achievement.killAngbandOrc.title=Angband Orc Slayer
 lotr.achievement.killAngbandOrc.desc=Kill an Angband Orc
 lotr.achievement.killBoldog.title=Boldog Slayer
 lotr.achievement.killBoldog.desc=Kill a Boldog
+lotr.achievement.killWerewolf.title=Werewolf Slayer
+lotr.achievement.killWerewolf.desc=Kill a Werwolf
 lotr.achievement.killAnfauglithOrc.title=Anfauglith Orc Slayer
 lotr.achievement.killAnfauglithOrc.desc=Kill a Anfauglith Orc
 lotr.achievement.tradeTormentedElf.title=Lost Souls
