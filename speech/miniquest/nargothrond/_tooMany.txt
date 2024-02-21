@@ -1,7 +1,1 @@
-Thank you, #. But you already have too much to do.
-Our years are long, #, but that does not mean we like to wait. Already you have much to do.
-Have you helped the others yet? I would not burden you even more with my idle requests.
-You have already made promises to others of my kin, #.
-Go and finish your tasks for the other Elven-folk first, #. Then you may help me, if you wish.
-I do not wish to delay your labours ever longer. Go and finish them first.
-You are busy indeed, #. I would not pile your duties even higher.
+﻿谢了, #. 但你有好多事得做。我们的时间还很长， #, 但我们也不能老是浪费。你真还有好多事得做。你帮没帮过别人？我不会再用小事麻烦你了，但你已经对我的亲人许下了诺言， #.先办完他们的事罢， #. 之后你才能有时间来帮我，额，要是你想的话。我不拖你的时间了，去干你的工作吧。你真挺忙的， #. 我就不再把你弄得更忙了。
