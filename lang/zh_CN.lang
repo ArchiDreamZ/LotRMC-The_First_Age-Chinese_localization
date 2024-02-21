@@ -2,6 +2,8 @@
 
 chat.lotrfa.update.client=%s 发现一个可获取的 LOTR：FristAge 更新！ 版本: %s
 
+lotr.achievement.category.TAURNAFUIN=托尔-因-皋惑斯
+
 lotr.road.Falas=法拉斯路
 lotr.road.OldSouthRoad=老南路
 lotr.road.NorthDoriath=多瑞亚斯北路
@@ -414,7 +416,7 @@ item.dorLominHorseArmor.name=多尔罗明马铠
 
 item.brethilSword.name=布瑞希尔剑
 item.brethilDagger.name=布瑞希尔匕首
-item.brethilDaggerPoisoned.name=毒 =布瑞希尔匕首
+item.brethilDaggerPoisoned.name=毒布瑞希尔匕首
 item.brethilSpear.name=布瑞希尔矛
 item.brethilBattleaxe.name=布瑞希尔战斧
 item.brethilPike.name=布瑞希尔矛
@@ -547,7 +549,7 @@ item.angbandSword.name=安格班剑
 item.angbandDagger.name=安格班匕首
 item.angbandDaggerPoisoned.name=毒安格班匕首
 item.angbandSpear.name=安格班矛
-item.angbandPike.name=安格班矛
+item.angbandPike.name=安格班长矛
 item.angbandShovel.name=安格班锹
 item.angbandPickaxe.name=安格班镐
 item.angbandAxe.name=安格班斧
@@ -641,6 +643,7 @@ item.structureSpawner.name=建筑
 item.rowanBerries.name=花楸浆果
 
 lotrfa.structure.TolInGaurhothWargPit.name=托尔-因-皋惑斯座狼坑
+lotrfa.structure.TolInGaurhothAltar.name=托尔-因-皋惑斯祭坛
 lotrfa.structure.DorNaDaerachasCamp.name=多尔-纳-达尔阿喀斯营
 lotrfa.structure.UtumnoRemnantCamp.name=乌图姆诺营
 lotrfa.structure.UtumnoRemnantWargPit.name=乌图姆诺座狼坑
@@ -685,12 +688,13 @@ lotrfa.structure.GardhBorenCamp.name=波尔家族营
 
 lotrfa.structure.UlfangCampfire.name=乌方家族营火
 lotrfa.structure.UlfangHillFort.name=乌方家族山区堡
+lotrfa.structure.UlfangHouse.name=乌方家族山区堡
 lotrfa.structure.UlfangWatchtower.name=乌方家族岗楼
 lotrfa.structure.UlfangMerchantStall.name=乌方家族商摊
 
-lotrfa.structure.BRETHILTower.name=布瑞希尔塔
-lotrfa.structure.BRETHILMerchantStall.name=布瑞希尔商摊
-lotrfa.structure.BRETHILHouse.name=布瑞希尔宅
+lotrfa.structure.BrethilTower.name=布瑞希尔塔
+lotrfa.structure.BrethilMerchantStall.name=布瑞希尔商摊
+lotrfa.structure.BrethilHouse.name=布瑞希尔宅
 
 lotrfa.structure.LaegrimHouse.name=绿精灵宅
 lotrfa.structure.LaegrimForge.name=绿精灵铁匠铺
@@ -709,8 +713,8 @@ lotr.dimension.MiddleEarth.evil=黑暗势力
 lotr.dimension.MiddleEarth.neutral=中立
 
 lotr.faction.ANGBAND.name=安格班
-lotr.faction.ANGBAND.entity=安格班大营
-lotr.faction.ANGBAND.subtitle=魔苟斯的大营
+lotr.faction.ANGBAND.entity=安格班的怪物
+lotr.faction.ANGBAND.subtitle=魔苟斯的怪物
 lotr.faction.ANGBAND.achieveRank=达到 %s 安格班结盟值 
 lotr.faction.ANGBAND.achieveRankPledge=宣誓效忠并达到 %s 安格班结盟值 
 lotr.faction.ANGBAND.rank.commander=指挥官
@@ -1017,7 +1021,7 @@ lotr.faction.PETTY_DWARF.rank.guest=客人
 lotr.faction.PETTY_DWARF.rank.guest.f=密姆的来宾
 
 lotr.faction.TOL_IN_GAURHOTH.name=托尔-因-皋惑斯
-lotr.faction.TOL_IN_GAURHOTH.entity=托尔-因-皋惑斯大营
+lotr.faction.TOL_IN_GAURHOTH.entity=托尔-因-皋惑斯的怪物
 lotr.faction.TOL_IN_GAURHOTH.subtitle=妖狼之岛
 lotr.faction.TOL_IN_GAURHOTH.achieveRank=达到 %s 托尔-因-皋惑斯 
 lotr.faction.TOL_IN_GAURHOTH.achieveRankPledge=宣誓效忠并达到 %s 托尔-因-皋惑斯 
