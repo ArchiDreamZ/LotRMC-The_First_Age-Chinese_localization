@@ -1,23 +1,18 @@
-#title:埃瑞西亚之树:瓦尔妲瑞安娜
+#title:赞托尔埃瑞西亚之木: 维达列安达
 #
-#author:阿尔丹杜尔
+#author:阿勒丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
-树干坚挺树枝长，绿叶欲滴嫩枝上。
-花如九天亮银星，树似众神耀女王。
-树上苍穹星闪烁，穹下巨树花琳琅。
-芳香沁人绕树飞，飞入大地进心房。
-不知何处花落下，密林深处隐人堂。
-Stately limbs and slender twigs,
-Leaves on graceful tender sprigs,
-Flowers like a silver star,
-Vardarianna of the Valar.
-Stars in night sky glimmering,
-Stars below them shimmering.
-Pleasant fragrance wandring round,
-Lingering over leafy ground,
-Falling from the starry blooms,
-In the forest’s vaulted rooms.
+庄美的树干上绕着细长的枝条,
+典雅的嫩枝上点缀光洁的叶片,
+沁人的芳香四溢,
+流连在这繁枝茂叶中,
+而绽放的花朵像一抹银星,
+这即是维拉的维达列安达.
+林外的夜空散落着繁星,
+它的枝丫却耀如黎明.
+密林形成的高耸拱顶中,
+它的落叶即是那流星.

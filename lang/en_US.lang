@@ -12,7 +12,7 @@ chat.lotrfa.wrongHeight=You can't perform this action below height %s
 
 entity.lotrfa.BlackSwan.name=Black Swan
 entity.lotrfa.Melkor.name=Melkor
-entity.lotrfa.UlmoImage.name=Ulmo
+entity.lotrfa.UlmoImage.name=Ulmo's Specter
 
 entity.lotrfa.PettyDwarfAxeThrower.name=Petty-dwarf Axe-thrower
 entity.lotrfa.PettyDwarfCommander.name=Petty-dwarf Chieftain
@@ -177,6 +177,10 @@ entity.lotrfa.BelegostBannerBearer.name=Belegost Banner Bearer
 entity.lotrfa.BelegostDragonguard.name=Belegost Dragonguard
 entity.lotrfa.BelegostCaptain.name=Belegost Captain
 entity.lotrfa.NogrodCaptain.name=Nogrod Captain
+entity.lotrfa.NogrodSoldier.name=Nogrod Soldier
+entity.lotrfa.NogrodRanger.name=Nogrod Ranger
+entity.lotrfa.NogrodBannerBearer.name=Nogrod Banner Bearer
+lotr.unit.NogrodSoldier_Boar=Boar Rider
 
 entity.lotrfa.BorBartender.name=House Bór Bartender
 entity.lotrfa.BorFarmer.name=House Bór Farmer
@@ -187,6 +191,7 @@ entity.lotrfa.BorSmith.name=House Bór Smith
 entity.lotrfa.BorCaptain.name=House Bór Captain
 entity.lotrfa.BorMan.name=House Bór Villager
 entity.lotrfa.BorSoldier.name=House Bór Soldier
+entity.lotrfa.BorKnifeThrower.name=House Bór Knife Thrower
 entity.lotrfa.BorArcher.name=House Bór Archer
 entity.lotrfa.BorBlacksmith.name=House Bór Blacksmith
 entity.lotrfa.BorLevyman.name=House Bór Levy
@@ -222,6 +227,8 @@ entity.lotrfa.TolInGaurhothWraith.name=Tol-in-Gaurhoth Wraith
 entity.lotrfa.TolInGaurhothOrc.name=Tol-in-Gaurhoth Orc
 entity.lotrfa.TolInGaurhothOrcArcher.name=Tol-in-Gaurhoth Orc Archer
 entity.lotrfa.TolInGaurhothOrcCrossbower.name=Tol-in-Gaurhoth Orc Crossbower
+entity.lotrfa.TolInGaurhothMorgulLieutenant.name=Lieutenant of Sauron 
+entity.lotrfa.TolInGaurhothStonemason.name=Tol-in-Gaurhoth Stonemason
 entity.lotrfa.TolInGaurhothBerserker.name=Tol-in-Gaurhoth Berserker
 entity.lotrfa.TolInGaurhothOrcCaptain.name=Tol-in-Gaurhoth Orc Commander
 entity.lotrfa.TolInGaurhothBannerBearer.name=Tol-in-Gaurhoth Banner Bearer
@@ -291,6 +298,7 @@ container.lotr.crafting.doriath=Doriath Crafting
 container.lotr.crafting.laegrim=Laegrim Crafting
 container.lotr.crafting.gondolin=Gondolin Crafting
 container.lotr.crafting.tolInGaurhoth=Tol-in-Gaurhoth Crafting
+container.lotr.crafting.nogrod=Nogrod Crafting
 
 item.lotr:bossTrophy.angbandBalrog.name=Extinguished Balrog Head
 
@@ -326,9 +334,24 @@ item.belegostDragonguardPolearm.name=Belegost Polearm
 item.belegostCrossbow.name=Belegost Crossbow
 
 item.nogrodHelmet.name=Nogrod Helmet
+item.nogrodCommanderHelmet.name=Nogrod Commander Helmet
 item.nogrodChestplate.name=Nogrod Chestplate
 item.nogrodLeggings.name=Nogrod Leggings
 item.nogrodBoots.name=Nogrod Boots
+item.nogrodBattleaxe.name=Nogrod Battleaxe
+item.nogrodSword.name=Nogrod Sword
+item.nogrodLongspear.name=Nogrod Longspear
+item.nogrodSpear.name=Nogrod Spear
+item.nogrodWarhammer.name=Nogrod Warhammer
+item.nogrodDagger.name=Nogrod Dagger
+item.nogrodDaggerPoisoned.name=Poisoned Nogrod Dagger
+
+item.dwarvenHornBow.name=Dwarven-Horn Bow
+
+item.nogrodRangerHelmet.name=Nogrod Ranger Hood
+item.nogrodRangerChestplate.name=Nogrod Ranger Tunic
+item.nogrodRangerLeggings.name=Nogrod Ranger Leggings
+item.nogrodRangerBoots.name=Nogrod Ranger Boots
 
 item.pettyDwarfSword.name=Petty-dwarven Sword
 item.pettyDwarfWarhammer.name=Petty-dwarven Warhammer
@@ -351,6 +374,7 @@ item.pettyDwarfBoarArmor.name=Petty-dwarven Boar Armor
 
 item.gondolinBow.name=Gondolinian Bow
 item.gondolinSword.name=Gondolinian Sabre
+item.gondolinSabre.name=Gondolinian Sabre
 item.gondolinWarhammer.name=Gondolinian Warhammer
 item.gondolinSpear.name=Gondolinian Spear
 item.gondolinLongspear.name=Gondolinian Longspear
@@ -1276,6 +1300,22 @@ lotr.shields.ALIGNMENT_NOGROD.desc=Awarded for reaching +1000 alignment with the
 lotr.shields.SUPPORTER.name=Supporter's Shield
 lotr.shields.SUPPORTER.desc=Awarded for supporting the First Age Mod
 lotrfa.title.supporter=FA Supporter
+lotrfa.title.angband=Angband
+lotrfa.title.dornadaerachas=Dor-na-Daerachas
+lotrfa.title.houseUlfang=House Ulfang
+lotrfa.title.tolInGaurhoth=Tol-in-Gaurhoth
+lotrfa.title.brethil=Brethil
+lotrfa.title.houseBor=House Bór
+lotrfa.title.hithlum=Hithlum
+lotrfa.title.feanorians=Fëanorians
+lotrfa.title.nargothrond=Nargothrond
+lotrfa.title.pettydwarves=Petty Dwarves
+lotrfa.title.laegrim=Laegrim
+lotrfa.title.dorlomin=Dor-lómin
+lotrfa.title.doriath=Doriath
+lotrfa.title.gondolin=Gondolin
+lotrfa.title.goblin=Goblin
+
 
 lotr.shields.TRANSLATOR_FA.name=First Age Translator's Shield
 lotr.shields.TRANSLATOR_FA.desc=Awarded to those who helped translate the submod into other languages.
@@ -1319,11 +1359,11 @@ tile.aeglos.name=Aeglos
 tile.seregon.name=Seregon
 
 tile.graniteRough.name=Granite
-tile.graniteSmooth.name=Smooth Granite
+tile.graniteSmooth.name=Polished Granite
 tile.andesiteRough.name=Andesite
-tile.andesiteSmooth.name=Smooth Andesite
+tile.andesiteSmooth.name=Polished Andesite
 tile.dioriteRough.name=Diorite
-tile.dioriteSmooth.name=Smooth Diorite
+tile.dioriteSmooth.name=Polished Diorite
 
 tile.craftingTableBrethil.name=Brethil Crafting Table
 tile.craftingTableDorLomin.name=Dor-lómin Crafting Table
@@ -1335,6 +1375,7 @@ tile.craftingTableHouseBor.name=House Bor Crafting Table
 tile.craftingTableHouseUlfang.name=House Ulfang Crafting Table
 tile.craftingTableAngband.name=Angband Crafting Table
 tile.craftingTableFeanorian.name=Feanorian Crafting Table
+tile.craftingTableNogrod.name=Nogrod Crafting Table
 
 tile.brick1.angband.name=Angband Brick
 tile.brick1.brethil.name=Brethil Brick
@@ -1638,9 +1679,42 @@ tile.slabSingleGravel.1.name=Angband Gravel Slab
 tile.slabSingleDirt.0.name=Angband Dirt Slab
 tile.angbandIronOre.0.name=Angband Iron Ore
 tile.angbandIronOre.1.name=Angband Iron Ore
-tile.angbandNauriteOre.name=Angband Durnaur Ore
+tile.angbandNauriteOre.name=Angband Durnor Ore
 
 tile.angbandFireJar.name=Angband Hellfire
+
+tile.stairsGranite.name=Granite Stairs
+tile.stairsGraniteSmooth.name=Polished Granite Stairs
+tile.slabSingleGranite.0.name=Granite Slab
+tile.slabSingleGranite.1.name=Polished Granite Slab
+tile.slabSingleGranite.2.name=Diorite Granite Slab
+tile.slabSingleGranite.3.name=Smooth Granite Slab
+tile.slabSingleGranite.4.name=Cracked Granite Slab
+tile.wallGranite.0.name=Granite Wall
+tile.wallGranite.1.name=Polished Granite Wall
+tile.pillarGranite.0.name=Granite Pillar
+
+tile.stairsDiorite.name=Diorite Stairs
+tile.stairsDioriteSmooth.name=Polished Diorite Stairs
+tile.slabSingleDiorite.0.name=Diorite Slab
+tile.slabSingleDiorite.1.name=Polished Diorite Slab
+tile.slabSingleDiorite.2.name=Diorite Pillar Slab
+tile.slabSingleDiorite.3.name=Smooth Diorite Slab
+tile.slabSingleDiorite.4.name=Cracked Diorite Slab
+tile.wallDiorite.0.name=Diorite Wall
+tile.wallDiorite.1.name=Polished Diorite Wall
+tile.pillarDiorite.0.name=Diorite Pillar
+
+tile.stairsAndesite.name=Andesite Stairs
+tile.stairsAndesiteSmooth.name=Polished Andesite Stairs
+tile.slabSingleAndesite.0.name=Andesite Slab
+tile.slabSingleAndesite.1.name=Polished Andesite Slab
+tile.slabSingleAndesite.2.name=Andesite Pillar Slab
+tile.slabSingleAndesite.3.name=Smooth Andesite Slab
+tile.slabSingleAndesite.4.name=Cracked Andesite Slab
+tile.wallAndesite.0.name=Andesite Wall
+tile.wallAndesite.1.name=Polished Andesite Wall
+tile.pillarAndesite.0.name=Andesite Pillar
 
 tile.blockLummond.0.name=Lummond Brick
 tile.blockLummond.1.name=Carved Lummond Brick
@@ -1700,6 +1774,16 @@ tile.stairsRockAngband.name=Angband Rock Stairs
 
 tile.basalt.0.name=Basalt
 tile.basalt.1.name=Polished Basalt
+
+tile.pressurePlateAngband.0.name=Pressure Plate
+tile.pressurePlateLithond.0.name=Pressure Plate
+tile.pressurePlateLummond.0.name=Pressure Plate
+tile.pressurePlateBlackstone.0.name=Pressure Plate
+
+tile.buttonAngband.0.name=Button
+tile.buttonLithond.0.name=Button
+tile.buttonLummond.0.name=Button
+tile.buttonBlackstone.0.name=Button
 
 tile.magma.name=Magma Block
 tile.activemagma.name=Awoken Magma Block
@@ -1887,6 +1971,10 @@ lotr.achievement.wearFullBrethilRanger.title=Hidden in the Birches
 lotr.achievement.wearFullBrethilRanger.desc=Equip a full suit of Brethil Ranger armor
 lotr.achievement.wearFullDragonguard.title=The King’s Warrior
 lotr.achievement.wearFullDragonguard.desc=Equip a full suit of Belegost Dragonguard armor
+lotr.achievement.wearFullNogrod.title=Warrior of the Firebeards
+lotr.achievement.wearFullNogrod.desc=Equip a full suit of Nogrod armor
+lotr.achievement.wearFullNogrodRanger.title=Telchar’s Craft
+lotr.achievement.wearFullNogrodRanger.desc=Equip a full suit of Nogrod Ranger armor
 
 lotr.achievement.enterNanElmoth.title=The Dark Elf
 lotr.achievement.enterNanElmoth.desc=Enter Nan Elmoth
@@ -2570,4 +2658,4 @@ lotr.road.Falas=Brithombar-Talath Dirnen
 lotr.road.Falas2=Eglarest-Talah Dirnen
 lotr.road.BaradNimras= Barad Nimras-Brithombar
 
-lotrfa.miniquest.welcome.speak=Speak with Ulmo
+lotrfa.miniquest.welcome.speak=Speak with Ulmo's Specter

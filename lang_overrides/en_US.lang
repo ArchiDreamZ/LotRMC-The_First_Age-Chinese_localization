@@ -118,3 +118,27 @@ lotr.faction.FANGORN.rank.master.f=Entwood Master
 lotr.faction.FANGORN.rank.elder=Elder
 lotr.faction.FANGORN.rank.elder.f=Entwood Elder
 
+item.lotr:maceMallornCharred.name=Charred Mace
+
+tile.lotr:blueDwarvenCraftingTable.name=Belegost Crafting Table
+container.lotr.crafting.blueDwarven=Belegost Crafting
+
+entity.lotr.BlueDwarf.name=Blue Mountains Dwarf
+entity.lotr.BlueDwarfWarrior.name=Belegost Warrior
+entity.lotr.BlueDwarfAxeThrower.name=Belegost Axe-thrower
+entity.lotr.BlueDwarfBannerBearer.name=Blue Mountains Banner Bearer
+entity.lotr.BlueDwarfCommander.name=Blue Mountains Commander
+entity.lotr.BlueDwarfMiner.name=Blue Mountains Miner
+
+item.lotr:swordBlueDwarven.name=Belegost Sword
+item.lotr:daggerBlueDwarven.name=Belegost Dagger
+item.lotr:daggerBlueDwarvenPoisoned.name=Poisoned Belegost Dagger
+item.lotr:battleaxeBlueDwarven.name=Belegost Battleaxe
+item.lotr:hammerBlueDwarven.name=Belegost Warhammer
+item.lotr:throwingAxeBlueDwarven.name=Blue Dwarven Throwing Axe
+item.lotr:helmetBlueDwarven.name=Belegost Helmet
+item.lotr:bodyBlueDwarven.name=Belegost Chestplate
+item.lotr:legsBlueDwarven.name=Belegost Leggings
+item.lotr:bootsBlueDwarven.name=Belegost Boots
+item.lotr:spearBlueDwarven.name=Belegost Spear
+item.lotr:pikeBlueDwarven.name=Belegost Pike
