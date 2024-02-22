@@ -1,9 +1,15 @@
-﻿Why should I sell my weapons to one who I do not trust?
-If you desire to purchase my blades, you must first prove your loyatly to the Laegrim.
-Only a friend of Ossiriand may wield our weapons.
-You are not worthy to wield my swords.
-In this dark age, I cannot trust any man that I see.
-I know of the treachery of men. Do not take me for a fool!
-War is returning to Beleriand. I cannot afford to give my wares to any traveler that I meet.
-How do I know you shall not strike me down with my own weapons?
-Prove your loyatly and I will consider selling you my greatest works.
+我不与任何过路外人贸易……
+#，如果你想用我们的威刃，你必证明你效忠我们的族人。
+在我的内心你的存在尚且秊轻。你尙未向我们的族人证明你自己。
+仅有绿精灵之友可用我们的威兵！
+如果你想用我们的兵器，你必向绿精灵证明你自己。
+我族人的铁匠技充满了绿精灵独有的知识技术……
+我们周围的世界日子越来越黑暗，但我们将在此乐土与世长存。
+如果你希望用我们的威兵，你必为我们的族人作更多。
+邪恶突破重围了。
+你尙不值得受托我们的弓与剑。
+无邪恶敢在我的族人的捍卫下入欧西瑞安德。
+战争在孕育。我可觉于气，安格班的邪恶将攻我们土地。
+如果你想与我贸易，你必向我们的族人证明自己。
+#，这是黑暗时代。我不能轻易相信任何流浪到我们土地的外人。
+我不向任何过路外人送出我段的威兵！

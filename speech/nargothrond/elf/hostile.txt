@@ -1,20 +1,16 @@
-No evil may set foot on our land!
-You may not enter Nargothrond.
-#, you may not set foot in Nargothrond!
-You breathe so loudly I could have shot you with my eyes closed. 
-You are unwelcome in our lands.
-Your presence is unwelcome here.
-You are no friend of Finrod, #!
-The Enemy has no hold over Nargothrond!
-You may not bring evil here, #!
-Your darkness shall not poison the Fairest Realm!
-To Udûn with you!
-Go and kiss an Orc!
-Death to the foes of Finrod!
-Who brings to us this token of doom?
-Begone, servant of the Enemy!
-Go back to the shadow whence you came!
-We shall not allow evil to enter our realm. Leave now or face our wrath!
-You bring great evil here, #. You can go no further.
-How dare you poison this fair realm with your foul feet?
-We out to use you as huting bait, #!
+没有邪恶可踏入这片土地！
+你不可进入这片土地。
+#，你不可踏足纳国斯隆德的领地！
+你的呼吸声大到我可在黑暗中射中你。
+这里不欢迎你。
+这不欢迎你的存在。
+#，你不是精灵之友！
+#，你不可带邪恶至此！
+去找你的魔君摇尾乞求吧！
+吻个奥克吧！
+精灵之敌，去死吧！
+邪魔仆从，滚！
+滚回你的乌图姆诺！
+我们不许邪恶入我们的领土。现在离开，或直面我们的愤怒！
+#，你把邪恶带到此处。你不能在往前半步。
+你怎敢以你的臭脚毒害这片土地？

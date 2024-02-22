@@ -1,13 +1,12 @@
-Do you wish to lead the Sindar, #?
-These Elves will follow your command for a small price.
-Bring some silver coins and you can lead an army of Elves.
-My soldiers would gladly follow your leadership, #.
-For a small price, these Elves will fight for you.
-Your reputation has reached even into the forests of Doriath, #. My troops are yours to command.
-We Sindar have heard the news of your mighty deeds, #. We would happily fight for you.
-My soldiers will fight alongside you for a price, #.
-We are yours to command, #.
-Do you need soldiers, #?
-These are the finest fighters this side of the Esgladuin.
-A few silver coins will grant you many a fine Elf to fight alongside.
-Were you looking to hire an army, #?
+#，我麾下有许多战斗好手。
+你若为崇高的目标而搏斗，那我的战士将助你。
+#，即使是我们精灵旳战士也需要薪金。
+在中洲中少有敌人能在搏斗中匹敌精灵旳战斗造诣。
+你想与多瑞亚斯结盟？这样旳事很少见。
+愿美丽安在战斗中保护你。
+愿你旳箭飞速致命，愿你旳剑削铁如泥！
+你若真为良善而战，我旳精灵会跟随你到任何地方。
+我佣给你多瑞亚斯最佳战士！
+伟人旳目光投向他处时，是那些微渺之手感到责无旁贷而采取行动。
+愿星光照耀你旳脸！
+愿精灵、人类、所有自由子民旳祝福与你同在！

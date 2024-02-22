@@ -1,31 +1,5 @@
-The Valar banished us from Valinor, they are no better than the Enemy.
-The Elves of Thingol refuse to aid us in our struggle against the Enemy, they are no friends of mine!
-Soon, we shall march upon the Gates of Angband, and reclaim what is ours!
-We do not easily forget treachery, #.
-Be they foe or friend, any who deny us of a Silmaril will face the wrath of the Sons of Fëanor!
-Morgoth's treachery shall not be forgotten!
-Under the command of Maedhros, we shall reclaim what is ours!
-Will you face the Enemy with us, #?
-We swore an oath of vengeance, #. We intend to keep it.
-Soon, we shall march against the forces of the Enemy.
-The Valar abandoned us long ago, #.
-The Valar are not our allies, #.
-Nothing will stop us from recovering what is rightfully ours!
-The Teleri refused to aid our righteous cause, and they paid for that treachery.
-Do not believe the lies of other Elven kingdoms, only the Sons of Fëanor have claim to the Silmarils.
-If any stand in the way of our quest, we will not hestitate to raze their homes to the ground...
-No man, woman, or child, will deter us from our oath.
-We faced the Enemy under the stars, and pursued his wretched armies back to their foul pits.
-I will pry the Silmarils from Morgoth's crown myself!
-The men of the House of Bór swore allegiance to Maedhros. Let us hope they keep their word.
-Darkness brews in the north, #. Be wary when you travel.
-The forces of the Enemy grow bolder by the day, and attack closer to our borders.
-Do not fear the eyes of the Dark Lord, #.
-We shall tear the Iron Crown from Morgoth's skull! Let him be punished for all of his crimes!
-We are those who followed Fëanor under the stars, #.
-The wrath of Fëanor was so great, his body burned to ash when he succumbed to his wounds.
-Have you sworn an oath, #?
-I see your blade is stained with the blood of our foes, #!
-What brings you to our lands, #?
-Where do you hail from, #?
-We will not forgive nor forget the treachery of Morgoth, #!
+#，你好。
+#，你看起很友善。
+愿维拉旳恩典保衛你。
+如果你为自由而战，那我与你同在。
+许久以前，我旳人民与你们之间存在过联盟。你打算再现那时的辉煌吗？

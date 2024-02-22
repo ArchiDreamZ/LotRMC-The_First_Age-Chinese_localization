@@ -1,30 +1,28 @@
-Welcome, #! What can I get for you today?
-If you want delicious food, you've come to the right place!
-Our pastries are the finest in all of Middle-earth!
-Have a look around, #. See anything you like?
-It may not be cheap, but it's certainly tasty!
-Welcome to @, home of the tastiest cakes in the whole wide world!
-You do look hungry, #.
-Got a family to feed? I'm sure they'll love something from @!
-Well, #, you look just like someone who'd enjoy one of my freshly baked pies!
-Dear oh dear, you do look hungry!
-Everything is freshly baked and made with only the finest ingredients!
-Are you hungry, #?
-So, #, which cake will it be for you?
-What's that? Yes, of course I put new cakes out on display every day, #.
-Don't think you can get away with eating any of the displays!
-Don't go to that other bakery down the road, #. I've heard bad things about their cakes. They'll rot your teeth, they will.
-Who would waste their money on a blacksmith when you can come here instead?
-Buy something!
-Come back any time you like. I'm here all day, every day.
-I'm starting to get tired of holding this loaf.
-No, the stuff in the barrel isn't for sale.
-What? No, of course I'm not going to tell you how to make a real pastry!
-Cram! Tasty, filling, and refreshing. Great for long journeys. Much better than that Elvish rubbish.
-Going on an adventure? Then you'll want to take some cram with you, my friend!
-Not another bleeding Dwarf! We've had quite enough - oh, it's you, #. Please forgive me.
-I'm sure your children would love to come here!
-Please don't walk on the displays.
-Go on, buy a cake!
-You won't find baking quite like this in Dor-lómin!
-I hear the men of House Ulfang make a delicious spit-roasted pork.. perhaps I am on the wrong side of this war?
+欢迎, #! 今天需要些什么?如果你想来些新出炉的喷香面包,那你来对地方了!
+我的糕点是中洲最佳!
+看看周围, #. 有什么勾起你的食欲了么?它们可能不便宜, 但味道绝对值这个价!
+欢迎来到 @, 驰名中洲的糕点之家!
+你看起来饥肠辘辘, #.
+采购今晚的晚餐? 我相信你会喜欢@!
+害, #, 你看起来对我刚出炉的派垂涎不已啊!
+哦！我的柠檬面包啊, 你看起来饿的皮包骨头!而这里的各类糕点看起来正够填你的肚子!
+吃完中饭了吗, #?
+那么, #, 看上那块小蛋糕了?
+没见过? 哈！ 我这里每天都有新花样, #.
+别在柜台前选择了，都买上不就好了？
+别再去那头的糕饼屋了, #. 我听说他们的蛋糕都用奥克骨发酵. 也许在啃他们的面包时还会嚼到蛆！
+花钱锻装备不如来几个喷香的软面包！
+是吧？
+什么时候来找我都行！我整天都在这里, 每一天.
+我已经开始厌倦整天拿着面包了！现在它们应该填在你的肚子里！
+啊！不对！桶子里的东西是秘方，它是非卖品！
+什么? 蟹皇堡秘方？我这没有，但如果你想吃，我可以试着做一下!
+美味糕点! 美味, 耐潮, 无论多久仍旧柔软！长途旅行选它就对了！
+这些当然比兰巴斯好多了！
+打算去探险? 带上这些糕点以丰富无趣的路途, 朋友！
+别又是那些卑劣的人..!哦是你啊！#，那没事了。
+请别在柜台上踩踏.
+去吧！从这些蛋糕里挑一个！
+我来给你烤个面包，啊好，没烤呢。
+我听说乌方家族能制上好的烤肉..但糕点永远是最受欢迎的，对吧?
+你问我怎么把生意做得这么红火？四个字，漏斗蛋糕！

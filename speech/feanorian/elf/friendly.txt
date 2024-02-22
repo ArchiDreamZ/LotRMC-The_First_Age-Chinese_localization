@@ -1,30 +1,52 @@
-The Valar banished us from Valinor, they are no better than the Enemy.
-The Elves of Thingol refuse to aid us in our struggle against the Enemy, they are no friends of mine!
-Soon, we shall march upon the Gates of Angband, and reclaim what is ours!
-We do not easily forget treachery, #.
-Be they foe or friend, any who deny us of a Silmaril will face the wrath of the Sons of Fëanor!
-Morgoth's treachery shall not be forgotten!
-The Sons of Fëanor will lead us to victory.
-Will you face the Enemy with us, #?
-We swore an oath of vengeance, #. We intend to keep it.
-Soon, we shall march against the forces of the Enemy.
-The Valar abandoned us long ago, #.
-The Valar are not our allies, #.
-Nothing will stop us from recovering what is rightfully ours!
-The Teleri refused to aid our righteous cause, and they paid for that treachery.
-We faced the Enemy under the stars, and pursued his wretched armies back to their foul pits.
-I will pry the Silmarils from Morgoth's crown myself!
-These are the lands of the Sons of Fëanor, #.
-The men of the House of Bór swore allegiance to Maedhros. Let us hope they keep their word.
-Darkness brews in the north, #. Be wary when you travel.
-The forces of the Enemy grow bolder by the day, and attack closer to our borders.
-Do not fear the eyes of the Dark Lord, #.
-What news do you bring from the other Noldorin realms, #?
-When Lord Finwë was slain, we chased the Enemy to Middle-Earth.
-We are those who followed Fëanor under the stars, #.
-The wrath of Fëanor was so great, his body burned to ash when he succumbed to his wounds.
-Have you sworn an oath, #?
-I see your blade is stained with the blood of our foes, #!
-What brings you to our lands, #?
-Where do you hail from, #?
-We will not forgive nor forget the treachery of Morgoth, #!
+你为费艾诺的子民带来了什么消息？
+#，你带来了什么消息？
+西方的那些大能者是卑劣的叛徒！
+西方的维拉们企图夺走我们美丽的宝钻，我们永不忘记他们的恶行！
+你好啊，#！
+其余诺多族精灵大多软弱，早晚自甘堕落。
+#，我们自西方而反。
+Elen síla lúmenn’ omentielvo！
+#，一颗星照燿着我们相遇的时刻。
+我们度过大海来此尘世之地，只为寻回我们一族的珍宝。
+你好啊，精灵之双！
+我必警告你，今四面八方皆有邪祟。
+精灵少有信口开河给予建议。
+即便是智者之间，建议也是累赘。
+精灵有自己的负担与悲伤。
+勇气将在意想不到之处找得。
+Mae govannen！
+#，幸会！
+要我们分辨凡人之间的差别，可不容易。
+在绵羊目中，其他绵羊无疑长得各有千秋。
+等到戈洛锥姆崩毁之际，邪恶必永远终结，而我们也必寻回我们一族的宝物。
+我见证了西部世界的兴衰，目睹了众多败绩，众多徒劳无功的胜利。
+世间再也不会重现精灵最初的盛世。
+我们在星辉下迎来了与魔苟斯的第一战，那时日月尚未升起，而你们也尚未到来。
+无仑出于善恶，过度深入硏究大敌的技艺皆有危险。
+如今魔苟斯已突破重围，安格班向南即将失去阻拦。
+他说过，我们的事迹将被记成史诗，源远流长，直至世界终结之期。
+万物伊始，皆为无邪，米尔寇亦是如此。
+#，这世上尙有其他力量与疆域而不知，它们隐匿在高山以东。
+费艾诺曾打造三枚宝钻，闪烁着时间最璨烂的光辉，可恨魔苟斯将它抢去。
+费艾诺与他的七子曾立下誓言，定要夺回精灵宝钻。我们必遵从他的誓言，直至宝钻全部归还！
+安格班的威势今攻陷了多松尼安，我们和彼地的诺多精灵虽不交好，却仍令人痛心。
+魔影笼罩之处，一切皆是晦暗不明。
+不要使不曽见识夜色之人誓摸黑行路。
+#，愿精灵、人类、所有自由子民的祝福与你同在！
+#，愿星光照耀你的前路！
+#啊，希望消逝的秊月至矣，此后如何我也是倍感迷茫。
+诺多族至高王费艾诺曾让我们一窥未来的希望，我们也因此决定追随他直至世界的终结。
+你应警戒米尔寇的众多爪牙耳目。
+向诺多族永远的至高王，费艾诺致敬！
+Navaer。
+Namárië。
+西方的维拉们是卑劣的小偷，企图抢走我们一族的精灵宝钻。
+西方有我族人的土地，然而那却是一片被强盗与骗子主宰的土地。
+魔影自安格班而起。
+你好，自远方的旅者！你自人类的土地为我们带来了什么新闻？
+欢迎来到费艾诺众子的土地！
+所有诺多族都应归于费艾诺所治。但世事难料，在精灵宝钻的圣战中，他陨落了。
+我仍记得他的演讲，"让我们紧追魔苟斯，直到大地的尽头！"
+那让我们踏上圣战的启示，"他必要面对永无休止的战争和永不消逝的仇恨。"
+让我们脱离骗子的土地，"...但当我们得胜，重新夺回精灵宝钻..."
+让我们看见希望的曙光，"...那时，我们，独独我们，将成为那无瑕之光的主人，成为福乐美丽的阿尔达的主宰。别的种族休想驱逐我们！"

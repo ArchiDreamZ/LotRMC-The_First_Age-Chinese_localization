@@ -1,16 +1,16 @@
-#title:The Trees of Eressëa: Nessamelda
+#title:赞托尔埃瑞西亚之木: 列斯忒达
 #
-#author:Aldandur
+#author:阿勒丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
-Circling glades and meadows fair,
-Nessamelda the green grows there.
-Whispering songs and rustling leaves,
-Like unto water over smooth stones,
-Wind in the netted branches weaves,
-Dancing to gentle breeze’s tones.
-Sweet scented breeze from swaying trees,
-Drifting across the grassy leas.
+环绕密林中的空地,
+绿木列斯忒达生长.
+枝叶摩挲如同低语,
+好似山泉浇灌美石,
+枝条围绕密环曲谱,
+随微风的旋律舞动.
+摇曳的树飘散清香,
+在心中的草地流连.

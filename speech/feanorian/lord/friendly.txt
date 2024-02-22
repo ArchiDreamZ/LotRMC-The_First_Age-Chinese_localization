@@ -1,11 +1,12 @@
-Will you lead our forces to the Gates of Angband?
-The Sons of Fëanor are eager to achieve our revenge. Will you be the one to lead us?
-My warriors have ravaged the plains of Lothlann. Yet, even this, has not satisfied them...
-The only thing that we desire is the head of Morgoth and our rightful treasure.
-If you seek aid in defeating the Dark Lord, the Sons of Fëanor will assist you in your quest!
-Promise the safe return of the Silmarils, and we will glady lay down our lives for you!
-Soon, we shall march upon the Gates of Angband, and reclaim what is ours!
-Will you face the Enemy with us, #?
-We swore an oath of vengeance, #. We intend to keep it.
-Soon, we shall march against the forces of the Enemy.
-We do not easily forget treachery, #.
+#，我麾下有许多战斗好手。
+你若为崇高的目标而搏斗，那我旳战士将助你。
+#，即使是我们精灵旳战士也需要薪金。
+在中洲中少有敌人能在搏斗中匹敌精灵旳战斗造诣。
+你想与费艾诺结盟？这样旳事很少见。
+愿维拉在战斗中保护你。
+愿你旳箭飞速致命，愿你旳剑削铁如泥！
+你若真为良善而战，我旳精灵会跟随你到任何地方。
+我佣给你费艾诺最佳战士！
+伟人旳目光投向他处时，是那些微渺之手感到责无旁贷而采取行动。
+愿星光照耀你旳脸！
+愿精灵、人类、所有自由子民旳祝福与你同在！
