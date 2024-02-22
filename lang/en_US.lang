@@ -314,6 +314,12 @@ item.flameofarien.tooltip=Right-click a magma block in the following biomes to s
 item.galvornLongsword.name=Anglachel
 item.galvornCurvedsword.name=Anguirel
 item.ulmoTrident.name=Trident of Ulmo
+item.Aranruth.name=Aranruth
+item.Dramborleg.name=Dramborleg
+item.Belthronding.name=Belthronding
+item.Angrist.name=Angrist
+item.Grond.name=Grond
+
 
 item.feanorianBedItem.name=Feanorian Bed
 item.doriathBedItem.name=Doriath Bed
