@@ -1,55 +1,31 @@
-#，欢迎来到七河之地。
-欢迎来到我们的欧西瑞安德。
-我们一起畅饮酒作乐吧！
-#，你从人类的世界帯来了什么消息？
-此地称为欧西瑞安德，在你们的语言里叫七河之地。
-#，在森林中要当心。你可能迷路……
-#，什么风把你吹到这片土地？
-我们绿精灵不需像北方诸国一样时刻警戒，但我们并不懈怠。
-北方的土地充满了堕落。但过去非一直如此……
-#，森林居民的弓比任何其他的弓迅速。
-我们是欧西瑞安德的绿精灵。
-不管未来如何，伟大功绩的价值皆不有所减色。
-我们多年前追随德内梭尔来到这片土地。
-常言道：绝境之中，常有希望出生。
-Navaer。
-Namárië。
-奥克必付他们的代价，我们必为德内梭尔复仇。
-精灵盛世不再，昔日将尽。
-安格班的阴影日渐伸长。我们恐惧未来。
-又及海濒长浪涨退。
-德内梭尔，向你致敬！
-#，欢迎来到我们的森林。
-欢迎来到欧西瑞安德，七河之地！
-#，不要漫不经心的游荡在贝烈瑞安德。有恶事物潜伏在内。
-尽管我们绿精灵的武器较差，我们仍打退了奥克，尽管我们失去了德内梭尔...
-长期以来，森林众木保卫我们免受外界恐吓。
-米尔寇已经突破了合围。
-#，愿伱于美丽绿木之冕下平安！
-在这黑暗的时代，北方必警戒。
-#，我们中的一部分人迁去了多瑞亚斯。
-#，辛葛王是我们永远的挚友。
-我们和多瑞亚斯精灵可算同族。
-我们本是泰勒瑞族。
-#，我们在西迁的途中掉队了，但我们还是来到了这片土地。
-矮人与他们的倔脾气，真叫人头疼！
-#，逝者如斯夫，不舍昼夜。
-生长与变化的情况，不是万物各地千篇一律。
-精灵看来，世界在运行，运行的既非常速又极其迟缓。
-世界运作的速度，是我们自身近乎不变，但其他一切皆像白驹过隙：这令我们非常悲伤。
-世界运行的迟缓，是我们不需要计算流逝岁月，至少不为自己计算。
-你们人类对于我们精灵来说寿命还不及一年呢，尽管如此，你们仍令人印象深刻。
-你们人类或许会死，但是你们的种族却坚韧不拔源远流长，真令人生畏...
-你们人类作为一个整体是永恒且强大的。
-#，四时更替不过是永流内的恒重复涟漪而已。
-在日光下，万物最后必有耗尽之时。
-啊！绿意盎然的气息！
-我们的森林里面有奇怪的生物，他们形如木，是百树的牧人，称为恩特。
-哪怕森林中的红叶落下五百次，我们看不过是短暂一瞬而已。
-#，矮人是怪种族。
-#，人类的事迹将会比我们存留的更长。
-当我们在西迁受阻的时候，兰威带领我们离开了大迁徙。
-兰威之子德内梭尔领导我们来到了这里。
-我们听欧尔威和埃尔威讲述西方蒙福之地的大美盛景，开始了迁徙，不过我们终没能得见。
-埃尔威是我们泰勒瑞族最初的领袖之一，他现在以辛葛之名被人熟知。
-欧尔威是我们泰勒瑞族最初的领袖之一，他成功到达了蒙福之地。
+﻿#, welcome to the lands of Ossiriand.
+Why must the strength of the elves of diminish. Let us drink to the last days of Beleriand...
+#, what news have you brought from the human world?
+These lands are called Ossiriand, in your language, the land of the seven rivers.
+#, be careful in the forest. You may get lost...
+Greetings, #. What brings you to our lands?
+We, Green-elves, don't need to be vigilant like the northern kingdoms. However, that does not mean we shall do nothing.
+Before the arrival of the Dark Lord, the lands of Beleriand were at peace.
+#, the arrows of the Laegrim are quicker than any other.
+We are the Green-elves of Ossiriand.
+No matter what the future may be, the value of great achievements will never diminish.
+Our last king, Denethor, died bravely in the first battles of Beleriand. Even now, we refuse to name another king in his honour.
+As the saying goes: in desperate circumstances, there is often hope to be born.
+Navaer.
+Namárië.
+The forces of Morgoth will pay the price for Denethor's death.
+Orcs will pay their price, and we will avenge Denethor.
+The Laegrim has forseen the end of our age long ago... The other elven kingdoms refuse to acknowledge it.
+The shadow of Angband grows longer and more powerful. I cannot help but fear the future...
+Our forest, our home.
+#, welcome to our forest.
+Welcome to Ossiriand, the land of the seven rivers!
+#, do not wander around the lands of Beleriand. The shadow of Morgoth is too strong...
+The Orcs of Morgoth underestimated us due to the quality of our arms, and they paid dearly.
+For a long time, the forests of Ossiriand have protected us from the threat of the Dark Lord.
+Some of our kin have ventured to Doriath in hopes of protection for the forces of evil.
+Long has King Thingol been a friend to our kin.
+You humans are less than a year old for us elves, but you are still impressive.
+Men may die, but your race is tough and daunting...
+The Dwarves claim to be allies, yet I still cannot trust them.
+When we left the east, Denethor, son of Lenwë, led us to these blessed lands.

@@ -1,23 +1,21 @@
-#author:莱奥纳多·格雷
-#title:埃斯托拉德的马
+#author:Leonard Grey
+#title:Horses of Estolad
 #types:gardh_boren,march_maedhros
 #By Skullcatron
-曾经有一段时间，人类没有驯服野兽以为己用。
-野兽将驮着他们的包袱，并帮助他们旅行得更远。
-走远路到达某个地方，这是乏味且可怕的旅程。而只有我们发现了这种独特的动物。
-这是一种对我们有极大帮助的动物。我们能让它做什么，以及如何管理它，都与其他动物不同。
-这是一个非常特别，独特的故事，影响了我们：这就是埃斯托拉德的马。
-它们非常有价值，而且很重要。它们是我们的骄傲，我们的荣耀。
-马匹非常有帮助，有许多用处。可以让他们驼包袱，侦察或载人。
-我们无法想象没有马匹的世界。想象一下所有的恐怖的敌人，以及我们的速度有多慢！
-马比步行和奔跑得比人更好。被授予骑马的权利，是一项荣誉。
-这很有趣。我们的祖先在精灵王介绍马匹之前从未交易过，也从未听说过马匹。
-他的建议表明，我们进入了某些新的领域。
-我们的祖先没有满足，而是钻研了这个全新的事物。他们来到了肥沃的土地，后来被称为埃斯托拉德。然后，发现了一大群良马。
-一开始，他们可能认为马像鹿一样是动物。只有被煮熟，才能吃！
-但后来他们发现，他们可以驯服他们！我们之前从不知道马的这些用途。我们提升了自己交通运输的能力。
-要了解为什么我们不应该无情地追捕我们看到的每个猎物。作为埃斯托拉德人，这对我们来说是非常宝贵的一课。
-要知道，对于每种动物，都有一种方法可以使它们处于我们的控制之下。
-学习驯服野兽，并控制它。这就是成为真正的埃斯托拉德人所需要的。
+There was a time, where Man had no luxury of having a beast that'll carry them. 
+Where the beast'll carry their burden, and help them travel distance greater than expected. 
+It was tedious, and terrifying journey to try, and get to places. It was only that we, Man, discovered the unique animal. 
+An animal that grandly assisted us, in what we are. In what we can do, and how it is managed. Unlike any other animals. 
+This is one of the very special, and unique story that've influenced what we are. The Horses of Estolad. 
+They're extremely valuable, and important. They're shining star of what we are. Our pride, and our glory. 
+The horses are extremely helpful, and great for many roles. They can be designated as packmule, scouting, and simply reaching destinations. 
+We cannot imagine a future where horses do not exist. Imagine all the terror, and how short our distance would've been! 
+The horses are better alternative than walking, and definitely running! Being granted the right to ride a beautiful steed, is a worthy honour alone enough. 
+It's funny enough. Our ancestors must've never dealt, and or heard of horses. Until the Elven King's Advice. His advice stated that we goes to certain realm. 
+A certain land. Our ancestors did not halt, and delved into this brand new opportunity. They came to fertile land, that came to be known as Estolad. Then a tremendous stampede of horses came their way! 
+An amazing discovery. Perhaps a source of food for them? They never knew what they were in for! They might've thought horses as animal like the deer. Only to be cooked, and eaten! 
+Though they soon realized they could do something. They could tame them! We were slow. We never knew the capabilities. We've ascended our abilities. We were, and now able to understands. 
+To understands why we shouldn't mercilessly hunt down every prey we see. It was valuable lesson to us, as Eestoladrim people, of today. To know that in every animals, there is a way to get them under our control. 
+Learning to tame the beast, and control it. That is what it takes to become a -- True Estoladrim. 
 
-作者的注释：我听说，除了马还有别的坐骑，有故事说精灵骑着强大的麋鹿，奥克骑着危险的狼。
+Author's Note: We have heard that horses are not all there is to be tamed. There are stories of Elves riding mighty elks, and orcs riding dangerous, and terrifying larger wolves called Wargs. 

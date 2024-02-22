@@ -1,16 +1,16 @@
-#title:赞托尔埃瑞西亚之木: 雅凡娜的珍宝
+#title:The Trees of Eressëa: Yavannamírë
 #
-#author:阿勒丹杜尔
+#author:Aldandur
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
-猩猩珍果,
-茁自须中.
-葱葱蜜林,
-延植丘上.
-流露琼浆,
-自绿叶上.
-芬胜百果,
-神肴惭让.
+Sweet is the swelling crimson fruit,
+Grown from Yavannamírë’s root.
+Fair-scented groves of verdant trees,
+Climbing the slopes above the seas.
+Finer than pear, apple, plum or cherry,
+Finer than sweetest wild berry.
+Soft rounded fruit with nectar dripping,
+Red jewels from the green leaves dropping.

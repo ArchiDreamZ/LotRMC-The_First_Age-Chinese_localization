@@ -1,2 +1,3 @@
-$怎么样了?
-你找到那恶棍了吗, #? 你杀掉他了吗？
+What news do you bring of our enemy $?
+Have you found the villain, #? Have you slain them?
+What news do you bring of our foe?

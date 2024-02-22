@@ -1,10 +1,11 @@
-#，纳国斯隆德能信任你吗？
-你若想领导我们的人民作战，先提高你的名望再说。
-只有纳国斯隆德之友能在战场上与我们并肩搏斗。
-#，没有精灵愿意同你这样的人上战场。
-#，证明你效忠纳国斯隆德，我们将与你并肩搏斗。
-#，我们精灵要为另一场战斗作准备。
-#，你，想号令纳国斯隆德战士？维拉啊！这就是人类的傲慢无礼吗？
-我们精灵是稳健勇敢的战士，你没有命令我们上战场的资格。
-命令纳国斯隆德战士需要伟大领导力。没有凡人可以成就。我相信你可以。
-没有凡人能命令我的战士。纳国斯隆德信任你前，你要做的事众多。
+Can we trust you, #?
+If you wish to lead my Elves into battle, you must increase your standing among our people.
+Only the greatest of Elf-friends may fight alongside us in battle.
+No Elf would follow one as young in deeds as you into war, #.
+Prove beyond doubt your allegiance to the Elves, #, and we will fight with you.
+We Elves do not go idly to war, #.
+You, #, would seek to command my warriors? By the Valar! Does the arrogance of Men know no end?
+We Elves are skilful and valiant warriors. But you do not have what it takes to command us in battle, #.
+We do not yet trust you enough to follow you to war. Prove yourself to my kin!
+It takes great leadership to command an army of Elves. No ordinary Man can achieve that. Can you?
+Our soldiers have prepared for battle against the Evil One, they are ready if you prove your worth, #.

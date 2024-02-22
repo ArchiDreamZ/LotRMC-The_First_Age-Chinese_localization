@@ -1,18 +1,14 @@
-#，我什么也不会卖给你。
-#，抱歉，我不与恶棍贸易。
-#，我的集市不欢迎你！
-如果我能作主，我要叫警卫爪你……
-#，如果我见过废物的话你就是一个。
-我不与坏人贸易。
-#，这不需要你这类的人。
-#，我是诚信商人，但你不是诚信家伙。
-我想我是诚信商人。#，抱歉，我不会与你贸易。
-#，你以为你是什么？鲜花与歌声？你讨人厌。
-#，不谢！
-#，我拒绝。我仅与诚信民族贸易。
-我仅与刚铎的好人作买卖。
-我不要像你的顾客。
-嗯，我不会买你的东西。
-你这类人不应被禁入这片吗？
-抱歉，#，但我不与废物像你贸易！
-守卫！守卫！这家伙盗了我的货！
+Don't expect food from me.
+You are an enemy of Brethil!
+You are an enemy of the Edain!
+I refuse to trade with scoundrels like you, #.
+I will give you nothing, #.
+How dare you enter these lands!
+Leave this place, #, before more Woodmen come.
+Now that you have defiled these woods, you will not leave alive.
+The Haladin want no business with you, #!
+Our soldiers are hunting you down as we speak.
+Spawn of Morgoth! We do not want you here!
+My wares are too good for the likes of you!
+I do not supply servants of the Enemy.
+These knives can cut more than just carcasses!

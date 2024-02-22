@@ -1,7 +1,4 @@
-#，感谢你的好意。但你身上的担子够重了。
-#，我们寿命悠长，但那不意味着我们喜欢等待。你有许多事要去作。
-他已答复你了吗？我不会让我的请求使你更加负重。
-#，你向我其他族人作出承诺了。
-#，先为其他精灵族人完成你的任务。完成了再来助我。
-我不想耽误其他人的时间。先去完成它们再来吧。
-#，真是个大忙人啊。我不想让你旳任务堆的更高。
+Your oaths must be kept before you may take new ones, #.
+I dare not ask of you to do any more, #. 
+Do not burden yourself with more tasks until you complete the ones you have set out to do!
+You have a lot yet left unfinished, friend. Do not leave what may be done today for tomorrow!

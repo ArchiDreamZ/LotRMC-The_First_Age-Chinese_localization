@@ -1,7 +1,13 @@
-最新消息，有新货啦！
-我的货物为你准备，我的朋友。
-拿着这些东西，上阵杀精灵吧！
-你要去砍精灵？哈哈，拿着这些！
-价格不贵，给你打折也不是不行...
-哈哈，看看谁来了！
-我最喜欢的邪恶混蛋回来了，最近过的怎么样？
+Greetings, #!
+Welcome, #! What can I get for you today?
+I sell the finest goods in this land! What is it you want, #?
+I'll give you a good bargain for just a few silver coins.
+Want anything special, #? I just need some silver coins.
+And here's #! What can I do for you today?
+You looking for a good trade?
+The House of Ulfang likes a good bargain, #.
+Got any silver coins?
+My goods are the best that you can find!
+Welcome, #! How can I assist you! 
+Looking for anything? My traders will satisfy all your needs! Ha! Ha!
+For a few silver coins you can get your hands on the greatest goods in Beleriand!

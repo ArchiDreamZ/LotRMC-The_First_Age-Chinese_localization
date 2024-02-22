@@ -1,9 +1,15 @@
-我不与任何过路老外贸易……
-#，你若想用我们旳威刃，你必先证明你效忠我们旳族人。
-你尚未向我们族人证明自己。
-仅有精灵之双可用我们旳威兵！
-如果你希望运用我们旳威兵，你必须先为我们旳族人付出更多。
-邪恶复返了。
-你尚不能驾驭我们的弓和剑。
-如果你想与我贸易，你必先向我们族人证明自己。
-你进入了环带是没错，但你也得先证明你对辛葛的忠诚。
+The Sindar do not know you, #.
+Are you friend or foe?
+How did one unknown to us pass through the Girdle of Melian?
+We do not want a part in the affairs of the Noldor.
+Do you bring evil into Doriath, #?
+I do not sell my blades to any passer-by.
+Prove yourself, then we'll talk.
+My arms are not for strangers.
+Add some deeds to your name before asking again.
+What brings you to Doriath, #?
+Why would you expect me to trust someone like you?
+Who are you, #?
+What is your business in these lands?
+I do not trust you yet, #.
+You are yet to prove your worth, #.

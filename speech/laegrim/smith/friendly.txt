@@ -1,18 +1,12 @@
-#，你好。我可为你段什么？
-我们的手艺仅次于费艾诺众子！
-我有多样威兵可供你！
-无奥克箭矢可刺穿我段的铠甲！
-Mellon-nin，你需要什么？
-无恶怪物可反抗我们的弓刃！
-#，你需要什么兵器？
-#，这伟大纪元的末日。邪恶复返了。我们必捍卫我们的国境。为吾友供兵器是我的职守。
-无奥克刃可与我的刃的锋利与威力相比！
-这是湮灭的时代。战士在我们的国境上看见了奥克……他们必被赶走，否则魔苟斯将赢得胜利。
-我族人之敌将在我段刃的锋利与威力下颤抖！
-自人类和精灵诸多领地被黑暗笼罩后，我们收不到多少新金属。我们历来需要更多。
-邪恶冲破了合围。我的族人将参战。我必具兵甲。
-我的段件历来需要更多金属。如果你帯给我些，我将赏赐你。
-我在步于此世界的千秊中学成了大多段与铸之技。
-我们精灵冗杂悠长的一生很快，也很慢，我们需要给自己找点事做，这也是我们工艺超群的秘密。
-我们精灵可以通过精神的力量制造水晶灯，我希望有朝一日我可以教我的子嗣们这种工艺，而不是武器锻造...
-尽管你们会死，但是你们的锻与铸之技将源远流长，我们对此深感兴趣。
+﻿Welcome, #. What can I forge for you?
+Our craft is second only to Gondolin's!
+I have a variety of weapons for you!
+No Orc-arrow can pierce my armor!
+Mellon-nin. What can I do for you, #?
+No foul creature can resist the wrath of my blades!
+#，are there any weapons you require?
+The forces of evil are growing stronger everyday. It is the duty of smiths, like me, to ensure our armies are strong enough to protect our forest.
+A wicked blade of Angband can never compare to my blades!
+An era of darkness is upon us... We must do our best to resist it.
+Any enemy of the Laegrim will tremble in fear upon seeing the power of my swords!
+My long life has rewarded me with the greatest skills in all of Arda.

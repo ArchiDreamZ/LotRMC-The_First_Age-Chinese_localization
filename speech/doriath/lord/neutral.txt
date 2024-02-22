@@ -1,10 +1,16 @@
-#，辛葛能信任你吗？
-你若想领导我们的人民作战，先提高你的名望再说。
-只有辛葛之友能在战场上与我们并肩搏斗。
-#，没有精灵愿意同你这样的人上战场。
-#，证明你效忠多瑞亚斯，我们将与你并肩搏斗。
-#，我们精灵要为另一场战斗作准备。
-#，你，想号令多瑞亚斯战士？维拉啊！这就是人类旳傲慢无礼吗？
-我们精灵是稳健勇敢旳战士，你没有命令我们上战场旳资格。
-命令多瑞亚斯战士需要伟大领导力。没有凡人可以成就。我相信你可以。
-没有凡人能命令我旳战士。辛葛信任你前，你要做的事众多。
+Only the strongest friends of the Sindar may fight with us in battle, #.
+If you wish to captain the Sindar, you must prove your worth.
+Are you friend or foe, #?
+Who are you to lead us in battle, #?
+Go and kill some more orcs, #, and than we will talk.
+What claim do you have to the friendship of the Sindar, #?
+What deeds do you have to your name, #?
+You are not yet thought of highly enough to fight with my Elves in battle, #.
+Show us that you can be trusted, #, and we will fight alongside you.
+You will have to prove yourself to our kin, if you wish to command the Sindar.
+We Elves do not follow any stranger into battle. You must prove your worth first.
+Prove your allegiance to us, and we shall ally with you.
+You must prove yourself worthy first, if you wish to lead us to battle.
+Only a true friend of our folk may lead us against the servants of Morgoth.
+We Sindar are yet to hear of great deeds by you, #. Show your worth and we will follow you.
+Do not ask for the fellowship of the Sindar, #. We do not readily ally with strangers.

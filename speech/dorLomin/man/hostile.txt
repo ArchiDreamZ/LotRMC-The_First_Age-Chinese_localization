@@ -1,17 +1,22 @@
-你个安格班恶魔，逃亡这片乐土吧！
-返回你来的那片腐败之土！
-#，这不欢迎你！
-你不是哈多家族之友！
-#，你不应来此！
-愿你被大敌的邪祟吞噬！
-#，不要把邪恶帯到我们的土地！
-哈！你比不过我们的刀剑！
-下乌顿吧！
-吻个奥克吧！
-自由之敌死吧！
-谁给我们帯来了这末日的征兆？
-邪恶之仆，滚吧。
-魔苟斯的无赖，你将直面你主子的末日！
-我不许你腐化这片净土！
-你即将在我们强弓下迎你的死期。
-奥克污垢，不要以为我不会杀你！
+You're no friend of mine, #.
+You're a villain!
+Get out of my sight, #.
+Run along, #, else I'll call the guards on you.
+You won't be doing any crimes here!
+You're a nasty piece of work, #.
+You are no friend of the House of Hador, #.
+You shall get no welcome here.
+You'd best be careful around here. It's not safe for criminals like you.
+Leave Dor-lómin while you still can, #.
+We don't look kindly on criminals here!
+I suggest you leave this place, #.
+Away with you!
+Our people have no love for villains like you!
+The heroes of Dor-lómin will strike you down, #.
+You'd be best to leave, #. Or would you rather be forced out?
+You belong in the stocks, #!
+Don't look at me like that.
+What do you want from me, you scoundrel?
+We have no love for people of your sort.
+You're a ne'er-do-well, #, that's for sure.
+Off with you, #! We don't welcome ne'er-do-wells in Dor-lómin.
