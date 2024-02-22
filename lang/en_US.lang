@@ -395,6 +395,7 @@ item.gondolinAxe.name=Gondolinian Axe
 item.gondolinHoe.name=Gondolinian Hoe
 item.gondolinBattleaxe.name=Gondolinian Battleaxe
 
+item.valinorBattleaxe.name=Valinorean Battleaxe
 item.valinorBow.name=Valinorean Bow
 item.valinorBattlestaff.name=Valinorean Glaive
 item.valinorLongspear.name=Valinorean Longspear
@@ -603,7 +604,7 @@ item.falathrimHorseArmor.name=Falathrim Horse Armor
 item.ulfangBattleaxe.name=House Ulfang Battleaxe
 item.ulfangThrowingAxe.name=House Ulfang Throwing Axe
 item.ulfangBow.name=House Ulfang Bow
-item.ulfangPike.name=House Ulfang Warscythe
+item.ulfangPike.name=House Ulfang Pike
 item.ulfangPoleaxe.name=House Ulfang Poleaxe
 item.ulfangSpear.name=House Ulfang Spear
 item.ulfangSword.name=House Ulfang Sword
@@ -919,6 +920,8 @@ lotrfa.structure.TestRandomWall.name=Test Random Wall
 lotr.dimension.MiddleEarth.good=Free Peoples
 lotr.dimension.MiddleEarth.evil=Forces of Darkness
 lotr.dimension.MiddleEarth.neutral=Neutral Factions
+
+lotr.faction.UNALIGNED.name=The Valar
 
 lotr.faction.ANGBAND.name=Angband
 lotr.faction.ANGBAND.entity=Spawn of Angband
@@ -1308,7 +1311,8 @@ lotr.shields.ALIGNMENT_NOGROD.name=Shield of Nogrod
 lotr.shields.ALIGNMENT_NOGROD.desc=Awarded for reaching +1000 alignment with the Dwarves of the Blue Mountains
 
 lotr.shields.SUPPORTER.name=Supporter's Shield
-lotr.shields.SUPPORTER.desc=Awarded for supporting the First Age Mod
+lotr.shields.SUPPORTER.desc= Awarded for supporting the First Age Mod
+lotr.shields.category.EXCLUSIVE_EOA=EoA Exclusive
 lotrfa.title.supporter=FA Supporter
 lotrfa.title.angband=Angband
 lotrfa.title.dornadaerachas=Dor-na-Daerachas
@@ -1691,6 +1695,7 @@ tile.slabSingleDirt.0.name=Angband Dirt Slab
 tile.angbandIronOre.0.name=Angband Iron Ore
 tile.angbandIronOre.1.name=Angband Iron Ore
 tile.angbandNauriteOre.name=Angband Durnor Ore
+tile.slabSingleGranite.5.name=Scorched Stone Slab 
 
 tile.angbandFireJar.name=Angband Hellfire
 
