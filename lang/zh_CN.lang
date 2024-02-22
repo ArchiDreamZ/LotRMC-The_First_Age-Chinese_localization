@@ -2,6 +2,12 @@
 lotr.creativetab.tabFA=第一纪元物品
 
 chat.lotrfa.update.client=%s 发现一个可获取的 LOTR：FirstAge 更新！ 版本: %s
+chat.lotrfa.negativeAlignmentRequired=你需要与 %s 具有负的结盟值才能执行此操作
+chat.lotrfa.wrongBiome=你需要身处 %s 才能执行此操作
+chat.lotrfa.nightRequired=你只能在夜晚执行此操作
+chat.lotrfa.skyRequired=此方块需要在天空下
+chat.lotrfa.list.separator=，
+chat.lotrfa.list.or=或
 
 entity.lotrfa.BlackSwan.name=黑天鹅
 entity.lotrfa.Melkor.name=米尔寇
@@ -15,8 +21,11 @@ entity.lotrfa.PettyDwarfWarrior.name=小矮人战士
 
 entity.lotrfa.Ent.name=恩特
 entity.lotrfa.EntBoss.name=群木守卫
+entity.lotrfa.MountainTrollChieftain.name=山区食人妖酋长
+entity.lotrfa.AngbandBalrogBoss.name=魔苟斯的维拉劳卡
+entity.lotrfa.BalrogGuard.name=食人妖炎魔守卫
 
-entity.lotrfa.FalathrimElf.name=法拉斯民精灵
+entity.lotrfa.FalathrimElf.name=法拉斯民
 entity.lotrfa.FalathrimArcher.name=法拉斯民弓箭手
 entity.lotrfa.FalathrimSailor.name=法拉斯民船员
 entity.lotrfa.FalathrimMariner.name=法拉斯民海员
@@ -25,6 +34,7 @@ entity.lotrfa.FalathrimFishmonger.name=法拉斯民鱼贩
 entity.lotrfa.FalathrimLumberman.name=法拉斯民木材商
 entity.lotrfa.FalathrimSmith.name=法拉斯民铁匠
 entity.lotrfa.FalathrimBannerBearer.name=法拉斯民旗手
+entity.lotrfa.FalathrimTrader.name=法拉斯民漫游者
 lotr.unit.FalathrimMariner_Horse=法拉斯民船员骑兵
 lotr.unit.FalathrimArcher_Horse=法拉斯民骑射手
 lotr.unit.FalathrimBannerBearer_Horse=法拉斯民乘旗手
@@ -75,6 +85,7 @@ entity.lotrfa.HithlumBannerBearer.name=希斯路姆旗手
 entity.lotrfa.HithlumSmith.name=希斯路姆铁匠
 entity.lotrfa.HithlumLord.name=希斯路姆领主
 entity.lotrfa.HithlumRider.name=希斯路姆骑兵
+entity.lotrfa.HithlumTrader.name=希斯路姆漫游者
 lotr.unit.HithlumWarrior_Horse=希斯路姆骑兵
 lotr.unit.HithlumBannerBearer_Horse=希斯路姆乘旗手
 
@@ -149,6 +160,7 @@ entity.lotrfa.UtumnoRemnantArcher.name=乌图姆诺奥克弓箭手
 entity.lotrfa.UtumnoRemnantOrcCaptain.name=乌图姆诺奥克头领
 entity.lotrfa.UtumnoRemnantBannerBearer.name=乌图姆诺残党旗手
 entity.lotrfa.UtumnoRemnantBerserker.name=乌图姆诺狂战士
+entity.lotrfa.UtumnoRemnantTrader.name=乌图姆诺商贩
 lotr.unit.UtumnoRemnantOrc_Warg=乌图姆诺狼骑兵
 lotr.unit.UtumnoRemnantOrcCrossbower_Warg=乌图姆诺骑射手
 lotr.unit.UtumnoRemnantBannerBearer_Warg=乌图姆诺乘旗手
@@ -253,6 +265,7 @@ entity.lotrfa.UlfangBerserker.name=乌方家族狂战士
 entity.lotrfa.UlfangWarlord.name=乌方家族首领
 entity.lotrfa.UlfangWarrior.name=乌方家族战士
 entity.lotrfa.UlfangBrewer.name=乌方家族酿酒商
+entity.lotrfa.UlfangTrader.name=乌方家族朝贡者
 lotr.unit.UlfangWarrior_Horse=乌方家族骑兵
 lotr.unit.UlfangArcher_Horse=骑乘乌方家族弓箭手
 lotr.unit.UlfangBannerBearer_Horse=骑乘乌方家族旗手
@@ -277,13 +290,17 @@ container.lotr.crafting.laegrim=绿精灵工作台
 container.lotr.crafting.gondolin=刚多林工作台
 container.lotr.crafting.tolInGaurhoth=托尔-因-皋惑斯工作台
 
+item.lotr:bossTrophy.angbandBalrog.name=灭却的炎魔头颅
+
 item.silmaril.sky.name=§e精灵宝钻
 item.silmaril.fire.name=§6精灵宝钻
 item.silmaril.water.name=§b精灵宝钻
 item.nauglamir.name=瑙格拉弥尔
 item.dragonHelm.name=多尔罗明的龙盔
-item.corruptItem.name=已腐蚀的圣光
-item.flameofarien.name=阿瑞恩之焰
+item.corruptItem.name=腐化之光
+item.corruptItem.tooltip=右击以下生物群落中的榆树树苗召唤群木守卫：
+item.flameofarien.name=不灭之火
+item.flameofarien.tooltip=右击以下生物群落中的岩浆块召唤炎魔：
 
 item.feanorianBedItem.name=费艾诺众子床
 item.doriathBedItem.name=多瑞亚斯床
@@ -300,9 +317,13 @@ item.belegostDragonguardHelmet.name=龙卫头盔
 item.belegostDragonguardChestplate.name=龙卫胸甲
 item.belegostDragonguardLeggings.name=龙卫护腿
 item.belegostDragonguardBoots.name=龙卫靴子
-item.belegostDragonguardPolearm.name=贝烈戈斯特战戟
+item.belegostDragonguardPolearm.name=贝烈戈斯特长矛
 item.belegostCrossbow.name=贝烈戈斯特弩
 
+item.nogrodHelmet.name=诺格罗德头盔
+item.nogrodChestplate.name=诺格罗德胸甲
+item.nogrodLeggings.name=诺格罗德护腿
+item.nogrodBoots.name=诺格罗德靴子
 
 item.pettyDwarfSword.name=小矮人剑
 item.pettyDwarfWarhammer.name=小矮人战锤
@@ -348,6 +369,9 @@ item.valinorHelmet.name=维林诺头盔
 item.valinorChestplate.name=维林诺胸甲
 item.valinorLeggings.name=维林诺护腿
 item.valinorBoots.name=维林诺靴子
+
+lotr.achievement.wearFullValinor.title=维拉的使者
+lotr.achievement.wearFullValinor.desc=装备全套的维林诺铠甲
 
 item.feanorianSword.name=费艾诺民剑
 item.feanorianSabre.name=费艾诺民刀
@@ -404,6 +428,7 @@ item.borHelmet.name=波尔家族头盔
 item.borChestplate.name=波尔家族胸甲
 item.borLeggings.name=波尔家族护腿
 item.borBoots.name=波尔家族靴子
+item.borGambeson.name=波尔家族软甲
 item.borCaptainHelmet.name=波尔家族队长头盔
 item.borCaptainChestplate.name=波尔家族队长胸甲
 item.borCaptainLeggings.name=波尔家族队长护腿
@@ -433,6 +458,7 @@ item.dorLominHelmet.name=多尔罗明头盔
 item.dorLominChestplate.name=多尔罗明胸甲
 item.dorLominLeggings.name=多尔罗明护腿
 item.dorLominBoots.name=多尔罗明靴子
+item.dorLominGambeson.name=多尔罗明软甲
 item.dorLominHorseArmor.name=多尔罗明马铠
 
 item.brethilSword.name=布瑞希尔剑
@@ -450,6 +476,7 @@ item.brethilRangerHelmet.name=布瑞希尔突击队员头盔
 item.brethilRangerChestplate.name=布瑞希尔突击队员胸甲
 item.brethilRangerLeggings.name=布瑞希尔突击队员护腿
 item.brethilRangerBoots.name=布瑞希尔突击队员靴子
+item.brethilGambeson.name=布瑞希尔软甲
 
 item.hithlumSword.name=希斯路姆剑
 item.hithlumDagger.name=希斯路姆匕首
@@ -673,7 +700,7 @@ item.banner.utumnoRemnant.name=乌图姆诺的旗帜
 item.banner.dorNaDaerachas.name=多尔-纳-达尔阿喀斯的旗帜
 item.banner.anfauglith.name=安法乌格砾斯的旗帜
 
-item.structureSpawner.name=建造
+item.structureSpawner.name=建筑
 item.rowanBerries.name=花楸浆果
 item.strScanner.name=结构扫描仪
 
@@ -697,9 +724,9 @@ lotrfa.structure.AngbandFort.name=安格班堡垒
 lotrfa.structure.BelegostDwarfHouse.name=贝烈戈斯特宅
 lotrfa.structure.BelegostSmithy.name=贝烈戈斯特铁匠铺
 lotrfa.structure.BelegostTower.name=贝烈戈斯特塔
-lotrfa.structure.NogrodDwarfHouse.name=诺格隆德宅
-lotrfa.structure.NogrodSmithy.name=诺格隆德铁匠铺
-lotrfa.structure.NogrodTower.name=诺格隆德塔
+lotrfa.structure.NogrodDwarfHouse.name=诺格罗德宅
+lotrfa.structure.NogrodSmithy.name=诺格罗德铁匠铺
+lotrfa.structure.NogrodTower.name=诺格罗德塔
 lotrfa.structure.EredLuinMineEntrance.name=蓝色山脉矿井 
 
 lotrfa.structure.BrethilTower.name=布瑞希尔塔
@@ -1229,9 +1256,13 @@ lotr.shields.ALIGNMENT_NOGROD.desc=为蓝色山脉矮人结盟值至 + 1000 而�
 
 lotr.shields.SUPPORTER.name=支持者之盾
 lotr.shields.SUPPORTER.desc=为第一纪元的支持者而赏
+lotrfa.title.supporter=第一纪元支持者
 
 lotr.shields.TRANSLATOR_FA.name=第一纪元翻译者之盾
 lotr.shields.TRANSLATOR_FA.desc=为翻译第一纪元的翻译者而赏
+
+lotr.shields.SLAY_BALROG_BOSS_FA.name=余烬之盾
+lotr.shields.SLAY_BALROG_BOSS_FA.desc=为击败魔苟斯的维拉劳卡者而赏
 
 lotr.invasion.ANGBAND_angbandWarg=安格班座狼
 lotr.invasion.ANGBAND_anfauglith=安法乌格砾斯
@@ -1269,11 +1300,11 @@ tile.aeglos.name=艾格洛斯
 tile.seregon.name=色瑞刚
 
 tile.graniteRough.name=花岗岩
-tile.granite磨制.name=平滑花岗岩
+tile.graniteSmooth.name=平滑花岗岩
 tile.andesiteRough.name=安山岩
-tile.andesite磨制.name=平滑安山岩
+tile.andesiteSmooth.name=平滑安山岩
 tile.dioriteRough.name=闪长岩
-tile.diorite磨制.name=平滑闪长岩
+tile.dioriteSmooth.name=平滑闪长岩
 
 tile.craftingTableBrethil.name=布瑞希尔工作台
 tile.craftingTableDorLomin.name=多尔罗明工作台
@@ -1316,7 +1347,7 @@ tile.brickCracked1.nargothrond.name=裂纳国斯隆德砖
 tile.brickCracked1.pettyDwarf.name=裂小矮人砖
 tile.brickCracked1.tolInGaurhoth.name=裂托尔-因-皋惑斯砖
 
-tile.corruptElm.name=腐化榆树树苗
+tile.corruptElm.name=腐化榆木树苗
 
 tile.brickMossy1.brethil.name=苔布瑞希尔砖
 tile.brickMossy1.dorLomin.name=苔多尔罗明砖
@@ -1443,7 +1474,7 @@ tile.falathrimGate.name=法拉斯民大门
 tile.feanorianGate.name=费艾诺民大门
 tile.gondolinGate.name=刚多林大门
 tile.laegrimGate.name=绿精灵大门
-tile.nogrodGate.name=诺格隆德大门
+tile.nogrodGate.name=诺格罗德大门
 tile.belegostGate.name=贝烈戈斯特大门
 tile.angbandGate.name=安格班大门
 tile.doriathGate.name=多瑞亚斯大门
@@ -1812,6 +1843,10 @@ lotr.achievement.smeltAngbandSteel.title=黑暗锻厂
 lotr.achievement.smeltAngbandSteel.desc=在奥克锻炉中熔炼一枚安格班钢锭
 lotr.achievement.smeltPettyDwarfSteel.title=小矮人铁匠
 lotr.achievement.smeltPettyDwarfSteel.desc=在小矮人锻炉中熔炼一枚小矮人钢锭
+lotr.achievement.killBalrogBoss.title=黑暗之火恩
+lotr.achievement.killBalrogBoss.desc=杀死魔苟斯的维拉劳卡
+lotr.achievement.killBalrogGuard.title=禁止传火
+lotr.achievement.killBalrogGuard.desc=杀死食人妖炎魔守卫
 
 lotr.achievement.useBrethilTable.title=布瑞希尔工匠
 lotr.achievement.useBrethilTable.desc=在布瑞希尔工作台上合成物品
@@ -1831,6 +1866,8 @@ lotr.achievement.wearFullBrethil.title=绿林勇士
 lotr.achievement.wearFullBrethil.desc=装备全套的布瑞希尔盔甲
 lotr.achievement.wearFullBrethilRanger.title=隐入林叶
 lotr.achievement.wearFullBrethilRanger.desc=装备全套的布瑞希尔突击队员盔甲
+lotr.achievement.wearFullDragonguard.title=王者的战士
+lotr.achievement.wearFullDragonguard.desc=装备全套的贝烈戈斯特龙卫铠甲
 
 lotr.achievement.enterNanElmoth.title=黑暗精灵
 lotr.achievement.enterNanElmoth.desc=进入南埃尔暮斯森林
@@ -2034,8 +2071,8 @@ lotr.achievement.wearFullTolInGaurhoth.desc=整备全套的托尔-因-皋惑斯�
 
 lotr.achievement.enterOssiriand.title=七河之地
 lotr.achievement.enterOssiriand.desc=进入绿林
-lotr.achievement.enterDorFirniGuinar.title=死而复生者的居土
-lotr.achievement.enterDorFirniGuinar.desc=进入多尔费恩-伊-圭纳
+lotr.achievement.enterDorFirniGuinar.title=死而复生者之地
+lotr.achievement.enterDorFirniGuinar.desc=进入多尔费恩-伊-圭纳的被祝福之地
 
 lotr.achievement.useLaegrimTable.title=绿精灵工匠
 lotr.achievement.useLaegrimTable.desc=在绿精灵工作台合成物品
@@ -2379,8 +2416,8 @@ lotr.waypoint.HIMLAD=希姆拉德路口
 lotr.waypoint.HIMLAD.info=阿洛斯河东部、凯隆河西部的平原。
 lotr.waypoint.BRITHIL=布瑞希尔
 lotr.waypoint.BRITHIL.info=辛葛赠给哈烈丝族人的地区。
-lotr.waypoint.TAUR_IM_DUINATH=陶尔-伊姆-都因那斯
-lotr.waypoint.TAUR_IM_DUINATH.info=纳国斯隆德西部丘陵，此地的森林经常有猎人来往。
+lotr.waypoint.TAUR_EN_FAROTH=陶尔-恩-法洛斯
+lotr.waypoint.TAUR_EN_FAROTH.info=纳国斯隆德西部丘陵，此地的森林经常有猎人来往。
 lotr.waypoint.TALATH_DIRNEN=塔拉斯迪尔能
 lotr.waypoint.TALATH_DIRNEN.info=“被守护的平原”，被纳国斯隆德的斥候监视。
 lotr.waypoint.DOR_DAEDELOTH=多尔戴歹洛斯
