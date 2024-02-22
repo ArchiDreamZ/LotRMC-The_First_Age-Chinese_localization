@@ -44,6 +44,26 @@ lotr.achievement.enterForodwaith.desc=Enter the region of Dor-na-Daerachas
 lotr.faction.FANGORN.entity=Tree-things of Yavanna
 lotr.faction.FANGORN.name=Ents
 
+lotr.faction.ANGMAR.name=Melkor’s Lieutenants
+lotr.faction.ANGMAR.entity=
+lotr.faction.ANGMAR.subtitle=
+lotr.faction.ANGMAR.achieveRank=
+lotr.faction.ANGMAR.achieveRankPledge=
+lotr.faction.ANGMAR.rank.thrall=
+lotr.faction.ANGMAR.rank.thrall.f=
+lotr.faction.ANGMAR.rank.servant=
+lotr.faction.ANGMAR.rank.servant.f=
+lotr.faction.ANGMAR.rank.kinsman=
+lotr.faction.ANGMAR.rank.kinsman.f=
+lotr.faction.ANGMAR.rank.warrior=
+lotr.faction.ANGMAR.rank.warrior.f=
+lotr.faction.ANGMAR.rank.champion=
+lotr.faction.ANGMAR.rank.champion.f=
+lotr.faction.ANGMAR.rank.warlord=
+lotr.faction.ANGMAR.rank.warlord.f=
+lotr.faction.ANGMAR.rank.chieftain=
+lotr.faction.ANGMAR.rank.chieftain.f=
+
 lotr.faction.UTUMNO.entity=Servant of Utumno
 lotr.faction.UTUMNO.name=Legions of Utumno
 lotr.faction.UTUMNO.subtitle=The creatures of the Underworld

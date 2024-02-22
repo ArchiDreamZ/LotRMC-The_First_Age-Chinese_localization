@@ -13,7 +13,10 @@ entity.lotrfa.PettyDwarf.name=小矮人
 entity.lotrfa.PettyDwarfBannerBearer.name=小矮人旗手
 entity.lotrfa.PettyDwarfWarrior.name=小矮人战士
 
-entity.lotrfa.FalathrimElf.name=法拉斯民
+entity.lotrfa.Ent.name=恩特
+entity.lotrfa.EntBoss.name=群木守卫
+
+entity.lotrfa.FalathrimElf.name=法拉斯民精灵
 entity.lotrfa.FalathrimArcher.name=法拉斯民弓箭手
 entity.lotrfa.FalathrimSailor.name=法拉斯民船员
 entity.lotrfa.FalathrimMariner.name=法拉斯民海员
@@ -147,7 +150,7 @@ entity.lotrfa.UtumnoRemnantOrcCaptain.name=乌图姆诺奥克头领
 entity.lotrfa.UtumnoRemnantBannerBearer.name=乌图姆诺残党旗手
 entity.lotrfa.UtumnoRemnantBerserker.name=乌图姆诺狂战士
 lotr.unit.UtumnoRemnantOrc_Warg=乌图姆诺狼骑兵
-lotr.unit.UtumnoRemnantOrcArcher_Warg=乌图姆诺骑射手
+lotr.unit.UtumnoRemnantOrcCrossbower_Warg=乌图姆诺骑射手
 lotr.unit.UtumnoRemnantBannerBearer_Warg=乌图姆诺乘旗手
 
 entity.lotrfa.BelegostGoldsmith.name=贝烈戈斯特金匠
@@ -256,6 +259,7 @@ lotr.unit.UlfangBannerBearer_Horse=骑乘乌方家族旗手
 entity.lotrfa.UlfangSlaver.name=乌方家族奴隶主
 entity.lotrfa.UlfangSlave.name=乌方家族奴隶
 
+
 container.lotr.pettyDwarvenForge=小矮人锻炉
 container.lotr.crafting.falas=法拉斯民工作台
 container.lotr.crafting.pettyDwarf=小矮人工作台
@@ -278,6 +282,8 @@ item.silmaril.fire.name=§6精灵宝钻
 item.silmaril.water.name=§b精灵宝钻
 item.nauglamir.name=瑙格拉弥尔
 item.dragonHelm.name=多尔罗明的龙盔
+item.corruptItem.name=已腐蚀的圣光
+item.flameofarien.name=阿瑞恩之焰
 
 item.feanorianBedItem.name=费艾诺众子床
 item.doriathBedItem.name=多瑞亚斯床
@@ -294,8 +300,9 @@ item.belegostDragonguardHelmet.name=龙卫头盔
 item.belegostDragonguardChestplate.name=龙卫胸甲
 item.belegostDragonguardLeggings.name=龙卫护腿
 item.belegostDragonguardBoots.name=龙卫靴子
-item.belegostDragonguardPolearm.name=贝烈戈斯特长矛
+item.belegostDragonguardPolearm.name=贝烈戈斯特战戟
 item.belegostCrossbow.name=贝烈戈斯特弩
+
 
 item.pettyDwarfSword.name=小矮人剑
 item.pettyDwarfWarhammer.name=小矮人战锤
@@ -504,7 +511,6 @@ item.laegrimChestplate.name=绿精灵胸甲
 item.laegrimLeggings.name=绿精灵护腿
 item.laegrimBoots.name=绿精灵靴子
 item.laegrimBattleaxe.name=绿精灵战斧
-item.laegrimElkArmor.name=绿精灵麋鹿铠
 
 item.falathrimSword.name=法拉斯民剑
 item.falathrimDagger.name=法拉斯民匕首
@@ -667,7 +673,7 @@ item.banner.utumnoRemnant.name=乌图姆诺的旗帜
 item.banner.dorNaDaerachas.name=多尔-纳-达尔阿喀斯的旗帜
 item.banner.anfauglith.name=安法乌格砾斯的旗帜
 
-item.structureSpawner.name=建筑
+item.structureSpawner.name=建造
 item.rowanBerries.name=花楸浆果
 item.strScanner.name=结构扫描仪
 
@@ -691,9 +697,9 @@ lotrfa.structure.AngbandFort.name=安格班堡垒
 lotrfa.structure.BelegostDwarfHouse.name=贝烈戈斯特宅
 lotrfa.structure.BelegostSmithy.name=贝烈戈斯特铁匠铺
 lotrfa.structure.BelegostTower.name=贝烈戈斯特塔
-lotrfa.structure.NogrodDwarfHouse.name=诺格罗德宅
-lotrfa.structure.NogrodSmithy.name=诺格罗德铁匠铺
-lotrfa.structure.NogrodTower.name=诺格罗德塔
+lotrfa.structure.NogrodDwarfHouse.name=诺格隆德宅
+lotrfa.structure.NogrodSmithy.name=诺格隆德铁匠铺
+lotrfa.structure.NogrodTower.name=诺格隆德塔
 lotrfa.structure.EredLuinMineEntrance.name=蓝色山脉矿井 
 
 lotrfa.structure.BrethilTower.name=布瑞希尔塔
@@ -1263,11 +1269,11 @@ tile.aeglos.name=艾格洛斯
 tile.seregon.name=色瑞刚
 
 tile.graniteRough.name=花岗岩
-tile.graniteSmooth.name=平滑花岗岩
+tile.granite磨制.name=平滑花岗岩
 tile.andesiteRough.name=安山岩
-tile.andesiteSmooth.name=平滑安山岩
+tile.andesite磨制.name=平滑安山岩
 tile.dioriteRough.name=闪长岩
-tile.dioriteSmooth.name=平滑闪长岩
+tile.diorite磨制.name=平滑闪长岩
 
 tile.craftingTableBrethil.name=布瑞希尔工作台
 tile.craftingTableDorLomin.name=多尔罗明工作台
@@ -1309,6 +1315,8 @@ tile.brickCracked1.laegrim.name=裂绿精灵砖
 tile.brickCracked1.nargothrond.name=裂纳国斯隆德砖
 tile.brickCracked1.pettyDwarf.name=裂小矮人砖
 tile.brickCracked1.tolInGaurhoth.name=裂托尔-因-皋惑斯砖
+
+tile.corruptElm.name=腐化榆树树苗
 
 tile.brickMossy1.brethil.name=苔布瑞希尔砖
 tile.brickMossy1.dorLomin.name=苔多尔罗明砖
@@ -1435,7 +1443,7 @@ tile.falathrimGate.name=法拉斯民大门
 tile.feanorianGate.name=费艾诺民大门
 tile.gondolinGate.name=刚多林大门
 tile.laegrimGate.name=绿精灵大门
-tile.nogrodGate.name=诺格罗德大门
+tile.nogrodGate.name=诺格隆德大门
 tile.belegostGate.name=贝烈戈斯特大门
 tile.angbandGate.name=安格班大门
 tile.doriathGate.name=多瑞亚斯大门
@@ -1644,6 +1652,8 @@ tile.basalt.0.name=玄武岩
 tile.basalt.1.name=磨制玄武岩
 
 tile.magma.name=熔岩块
+tile.activemagma.name=活化熔岩块
+
 
 tile.beamFaction1.brethil.name=布瑞希尔木梁
 tile.beamFaction1.bor.name=玻尔家族木梁
@@ -2024,6 +2034,9 @@ lotr.achievement.wearFullTolInGaurhoth.desc=整备全套的托尔-因-皋惑斯�
 
 lotr.achievement.enterOssiriand.title=七河之地
 lotr.achievement.enterOssiriand.desc=进入绿林
+lotr.achievement.enterDorFirniGuinar.title=死而复生者的居土
+lotr.achievement.enterDorFirniGuinar.desc=进入多尔费恩-伊-圭纳
+
 lotr.achievement.useLaegrimTable.title=绿精灵工匠
 lotr.achievement.useLaegrimTable.desc=在绿精灵工作台合成物品
 lotr.achievement.doMiniquestLaegrim.title=绿精灵之友
@@ -2259,6 +2272,7 @@ lotr.biome.forodwaithFoothills.name=多尔-纳-达尔阿喀斯山脉山麓
 lotr.biome.beleriandIsland.name=岛屿
 lotr.biome.dryRiverVale.name=干河谷
 lotr.biome.echoriathVale.name=环抱山谷
+lotr.biome.dorfirniguinar.name=多尔费恩-伊-圭纳
 
 
 lotr.waypoint.RIVILS_WELL=瑞微尔溪源

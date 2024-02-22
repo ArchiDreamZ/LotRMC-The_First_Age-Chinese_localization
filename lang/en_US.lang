@@ -13,6 +13,9 @@ entity.lotrfa.PettyDwarf.name=Petty-dwarf
 entity.lotrfa.PettyDwarfBannerBearer.name=Petty-dwarf Banner Bearer
 entity.lotrfa.PettyDwarfWarrior.name=Petty-dwarf Warrior
 
+entity.lotrfa.Ent.name=Ent
+entity.lotrfa.EntBoss.name=Tree-Guard
+
 entity.lotrfa.FalathrimElf.name=Falathrim Elf
 entity.lotrfa.FalathrimArcher.name=Falathrim Archer
 entity.lotrfa.FalathrimSailor.name=Falathrim Sailor
@@ -96,7 +99,7 @@ entity.lotrfa.TormentedElf.name=Tormented Elf
 entity.lotrfa.TormentedElfSmith.name=Tormented Elf Miner
 entity.lotrfa.TormentedElfFarmer.name=Tormented Elf Slave
 entity.lotrfa.TormentedElfStonemason.name=Tormented Elf Stonemason
-entity.lotrfa.AngbandBalrog.name=Angband Balrog
+entity.lotrfa.AngbandBalrog.name=Valarauko of Melkor 
 entity.lotrfa.AngbandBoldog.name=Boldog
 entity.lotrfa.AngbandOrc.name=Angband Orc
 entity.lotrfa.AngbandOrcArcher.name=Angband Orc Archer
@@ -279,6 +282,8 @@ item.silmaril.fire.name=§6Silmaril
 item.silmaril.water.name=§bSilmaril
 item.nauglamir.name=Nauglamír
 item.dragonHelm.name=Dragon-helm of Dor-lómin
+item.corruptItem.name=Corrupted Light
+item.flameofarien.name=Flame of Arien
 
 item.feanorianBedItem.name=Fëanorian Bed
 item.doriathBedItem.name=Doriath Bed
@@ -1010,9 +1015,9 @@ lotr.faction.GONDOLIN.rank.guard.f=Gondolin Tirista
 lotr.faction.GONDOLIN.rank.warrior=Mahtar
 lotr.faction.GONDOLIN.rank.warrior.f=Gondolin Mahtar
 lotr.faction.GONDOLIN.rank.friend=Nilmo
-lotr.faction.GONDOLIN.rank.friend.f=Nilmo 
+lotr.faction.GONDOLIN.rank.friend.f=Nilmo
 lotr.faction.GONDOLIN.rank.guest=Guest
-lotr.faction.GONDOLIN.rank.guest.f=Aino 
+lotr.faction.GONDOLIN.rank.guest.f=Aino
 
 lotr.faction.HITHLUM.name=Hithlum
 lotr.faction.HITHLUM.entity=Hithlum Elves
@@ -1310,6 +1315,8 @@ tile.brickCracked1.laegrim.name=Cracked Laegrim Brick
 tile.brickCracked1.nargothrond.name=Cracked Nargothrond Brick
 tile.brickCracked1.pettyDwarf.name=Cracked Petty-dwarven Brick
 tile.brickCracked1.tolInGaurhoth.name=Cracked Tol-in-Gaurhoth Brick
+
+tile.corruptElm.name=Corrupted Elm Sapling
 
 tile.brickMossy1.brethil.name=Mossy Brethil Brick
 tile.brickMossy1.dorLomin.name=Mossy Dor-lómin Brick
@@ -1645,6 +1652,8 @@ tile.basalt.0.name=Basalt
 tile.basalt.1.name=Polished Basalt
 
 tile.magma.name=Magma Block
+tile.activemagma.name=Awoken Magma Block
+
 
 tile.beamFaction1.brethil.name=Brethil Wood Beam
 tile.beamFaction1.bor.name=House Bór Wood Beam
@@ -2025,6 +2034,9 @@ lotr.achievement.wearFullTolInGaurhoth.desc=Equip a full suit of Tol-in-Gaurhoth
 
 lotr.achievement.enterOssiriand.title=Land of Seven Rivers
 lotr.achievement.enterOssiriand.desc=Enter the forests of the Laegrim
+lotr.achievement.enterDorFirniGuinar.title=Land of the Dead that Live
+lotr.achievement.enterDorFirniGuinar.desc=Enter the blessed lands of Dor Firn-i-Guinar
+
 lotr.achievement.useLaegrimTable.title=Laegrim Crafter
 lotr.achievement.useLaegrimTable.desc=Craft an item on the Laegrim Crafting Table
 lotr.achievement.doMiniquestLaegrim.title=Friend of the Green-elves
@@ -2140,7 +2152,7 @@ lotr.achievement.tradeDorNaDaerachasOrcTrader.title=Frozen Goods
 lotr.achievement.tradeDorNaDaerachasOrcTrader.desc=Trade with a Dor-na-Daerachas Orc Trader
 lotr.achievement.wearFullDorNaDaerachas.title=Frozen Coverings
 lotr.achievement.wearFullDorNaDaerachas.desc=Equip a full suit of Dor-na-Daerachas armor
-lotr.achievement.wearFullUtumnoRemnant.title=
+lotr.achievement.wearFullUtumnoRemnant.title=The Frozen Forge
 lotr.achievement.wearFullUtumnoRemnant.desc=Equip a full suit of Utumno Remnant armor
 
 
@@ -2260,6 +2272,7 @@ lotr.biome.forodwaithFoothills.name=Dor-na-Daerachas Mountains Foothills
 lotr.biome.beleriandIsland.name=Island
 lotr.biome.dryRiverVale.name=Dry River Vale
 lotr.biome.echoriathVale.name=Echoriath
+lotr.biome.dorfirniguinar.name=Dor Firn-i-Guinar 
 
 
 lotr.waypoint.RIVILS_WELL=Rivil's Well
