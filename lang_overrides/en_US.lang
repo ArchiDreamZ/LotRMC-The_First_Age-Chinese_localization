@@ -31,8 +31,6 @@ lotr.date.shire.month.yule2=Yestarë
 
 lotr.gui.daleCracker=Party Cracker
 
-container.lotr.hobbitOven=Oven
-
 lotr.biome.forodwaith.name=Dor-na-Daerachas
 lotr.biome.forodwaithCoast.name=Dor-na-Daerachas Coastline
 lotr.biome.forodwaithGlacier.name=Dor-na-Daerachas Glacier
@@ -70,7 +68,6 @@ tile.lotr:fenceGateMirkOak.name=Galadhmor Fence Gate
 tile.lotr:fenceGateShirePine.name=Dorthonion Pine Fence Gate
 tile.lotr:gateElven.name=Galadhrim Gate
 tile.lotr:gateHighElven.name=High Elven Gate
-tile.lotr:hobbitOven.name=Cooking Oven
 tile.lotr:leaves.0.name=Dorthonion Pine Leaves
 tile.lotr:leaves.2.name=Galadhmor Leaves
 tile.lotr:mirkVines.name=Galadhmor Vines
@@ -123,9 +120,11 @@ item.lotr:maceMallornCharred.name=Charred Mace
 tile.lotr:blueDwarvenCraftingTable.name=Belegost Crafting Table
 container.lotr.crafting.blueDwarven=Belegost Crafting
 
+tile.lotr:trapdoorMirkOak.name=Galadhmor Trapdoor
+
 entity.lotr.BlueDwarf.name=Blue Mountains Dwarf
-entity.lotr.BlueDwarfWarrior.name=Belegost Warrior
-entity.lotr.BlueDwarfAxeThrower.name=Belegost Axe-thrower
+entity.lotr.BlueDwarfWarrior.name=Blue Mountains Warrior
+entity.lotr.BlueDwarfAxeThrower.name=Blue Mountains Axe-thrower
 entity.lotr.BlueDwarfBannerBearer.name=Blue Mountains Banner Bearer
 entity.lotr.BlueDwarfCommander.name=Blue Mountains Commander
 entity.lotr.BlueDwarfMiner.name=Blue Mountains Miner
@@ -144,3 +143,6 @@ item.lotr:spearBlueDwarven.name=Belegost Spear
 item.lotr:pikeBlueDwarven.name=Belegost Pike
 
 item.lotr:redBook.name=Golden Book
+
+item.lotr:mallornNut.name=Elm Nut
+tile.lotr:highElvenTorch.name=Elven Torch
