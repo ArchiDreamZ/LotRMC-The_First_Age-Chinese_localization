@@ -8,9 +8,11 @@ chat.lotrfa.nightRequired=You can only perform this action at night
 chat.lotrfa.skyRequired=This block needs access to the sky
 chat.lotrfa.list.separator=, 
 chat.lotrfa.list.or=or
+chat.lotrfa.wrongHeight=You can't perform this action below height %s
 
 entity.lotrfa.BlackSwan.name=Black Swan
 entity.lotrfa.Melkor.name=Melkor
+entity.lotrfa.UlmoImage.name=Ulmo
 
 entity.lotrfa.PettyDwarfAxeThrower.name=Petty-dwarf Axe-thrower
 entity.lotrfa.PettyDwarfCommander.name=Petty-dwarf Chieftain
@@ -302,7 +304,8 @@ item.corruptItem.tooltip=Right-click an elm sapling in the following biomes to s
 item.flameofarien.name=Void Fire
 item.flameofarien.tooltip=Right-click a magma block in the following biomes to summon a boss:
 item.galvornLongsword.name=Anglachel
-item.galvornCurvedsword.name=Anguriel
+item.galvornCurvedsword.name=Anguirel
+item.ulmoTrident.name=Trident of Ulmo
 
 item.feanorianBedItem.name=Feanorian Bed
 item.doriathBedItem.name=Doriath Bed
@@ -313,7 +316,7 @@ item.laegrimBedItem.name=Laegrim Bed
 item.nargothrondBedItem.name=Nargothrond Bed
 
 item.pettyDwarfSteel.name=Petty-dwarven Steel Ingot
-item.angbandSteel.name=Angband Steel Ingot
+item.angbandSteel.name=Reinforced Orc Steel Ingot
 
 item.belegostDragonguardHelmet.name=Dragonguard Helmet
 item.belegostDragonguardChestplate.name=Dragonguard Chestplate
@@ -375,6 +378,8 @@ item.valinorBoots.name=Valinorean Boots
 
 lotr.achievement.wearFullValinor.title=Envoy of the Valar
 lotr.achievement.wearFullValinor.desc=Equip a full suit of Valinorean armor
+lotr.achievement.wearFullFAMorgul.title=Warrior of the Lieutenant
+lotr.achievement.wearFullFAMorgul.desc=Equip a full suit of Tol-in-Gaurhoth Morgul armor
 
 item.feanorianSword.name=Fëanorian Sword
 item.feanorianSabre.name=Fëanorian Sabre
@@ -602,6 +607,12 @@ item.tolInGaurhothLeggings.name=Tol-in-Gaurhoth Leggings
 item.tolInGaurhothBoots.name=Tol-in-Gaurhoth Boots
 item.tolInGaurhothCleaver.name=Tol-in-Gaurhoth Berserker Cleaver
 item.tolInGaurhothWargArmor.name=Tol-in-Gaurhoth Warg Armor
+item.tolInGaurhothMorgulDagger.name=Tol-in-Gaurhoth Morgul Dagger
+item.tolInGaurhothMorgulHelmet.name=Tol-in-Gaurhoth Morgul Helmet
+item.tolInGaurhothMorgulChestplate.name=Tol-in-Gaurhoth Morgul Chestplate
+item.tolInGaurhothMorgulLeggings.name=Tol-in-Gaurhoth Morgul Leggings
+item.tolInGaurhothMorgulBoots.name=Tol-in-Gaurhoth Morgul Boots
+item.tolInGaurhothMorgulHorseArmor.name=Tol-in-Gaurhoth Morgul Horse Armor
 
 item.angbandSword.name=Angband Sword
 item.angbandDagger.name=Angband Dagger
@@ -810,6 +821,9 @@ lotrfa.structure.NargothrondHall.name=Nargothrond Hall
 lotrfa.structure.NargothrondHouse.name=Nargothrond House
 lotrfa.structure.NargothrondForge.name=Nargothrond Smithy
 lotrfa.structure.NargothrondMerchantStall.name=Nargothrond Merchant Stall
+lotrfa.structure.NargothrondCamp.name=Nargothrond Ranger Camp
+lotrfa.structure.NargothrondTent.name=Nargothrond Tent
+
 
 lotrfa.structure.PettyDwarfTent.name=Petty-dwarven Tent
 lotrfa.structure.PettyDwarfSmithy.name=Petty-dwarven Smithy
@@ -1175,7 +1189,7 @@ lotr.faction.PETTY_DWARF.rank.axebearer.f=Azaghâl-Burku
 lotr.faction.PETTY_DWARF.rank.oathfriend=Recruit
 lotr.faction.PETTY_DWARF.rank.oathfriend.f=Petty Dwarf Idmul
 lotr.faction.PETTY_DWARF.rank.friend=Friend
-lotr.faction.PETTY_DWARF.rank.friend.f=Bâha 
+lotr.faction.PETTY_DWARF.rank.friend.f=Bâha
 lotr.faction.PETTY_DWARF.rank.guest=Stranger
 lotr.faction.PETTY_DWARF.rank.guest.f=Durj
 
@@ -1297,7 +1311,7 @@ lotr.invasion.TOL_IN_GAURHOTH.horn=Warhorn of Tol-in-Gaurhoth
 lotr.invasion.TOL_IN_GAURHOTH_tolInGaurhothWarg.horn=Warghorn of Tol-in-Gaurhoth
 
 tile.barrier.name=Barrier Block
-tile.oreStorage.0.name=Block of Angband Steel
+tile.oreStorage.0.name=Block of Reinforced Orc Steel
 
 tile.rottenFleshBlock.name=Rotten Flesh Block
 
@@ -1831,7 +1845,7 @@ lotr.achievement.killAngbandOrc.desc=Kill an Angband Orc
 lotr.achievement.killBoldog.title=Boldog Slayer
 lotr.achievement.killBoldog.desc=Kill a Boldog
 lotr.achievement.killWerewolf.title=Werewolf Slayer
-lotr.achievement.killWerewolf.desc=Kill a Werwolf
+lotr.achievement.killWerewolf.desc=Kill a Werewolf
 lotr.achievement.killAnfauglithOrc.title=Anfauglith Orc Slayer
 lotr.achievement.killAnfauglithOrc.desc=Kill a Anfauglith Orc
 lotr.achievement.tradeTormentedElf.title=Lost Souls
@@ -1845,7 +1859,7 @@ lotr.achievement.wearFullAngband.desc=Equip a full suit of Angband armor
 lotr.achievement.wearFullAnfauglith.title=An Orc of Anfauglith
 lotr.achievement.wearFullAnfauglith.desc=Equip a full suit of Anfauglith armor
 lotr.achievement.smeltAngbandSteel.title=Black Smithery
-lotr.achievement.smeltAngbandSteel.desc=Smelt an ingot of Angband Steel in the Orc Forge
+lotr.achievement.smeltAngbandSteel.desc=Smelt an ingot of Reinforced Orc Steel in the Orc Forge
 lotr.achievement.smeltPettyDwarfSteel.title=Petty-dwarven Smith
 lotr.achievement.smeltPettyDwarfSteel.desc=Smelt an ingot of Petty-dwarven Steel in the Petty-dwarven Forge
 lotr.achievement.killBalrogBoss.title=Fire and Darkness
@@ -2380,7 +2394,7 @@ lotr.waypoint.HAVENS_OF_SIRION.info=A town near the mouth of the river Sirion.
 lotr.waypoint.NAN_ELMOTH=Nan Elmoth
 lotr.waypoint.NAN_ELMOTH.info=A forest east of Doriath, once inhabited by Eöl the Dark Elf.
 lotr.waypoint.NOGROD_FA=Nogrod
-lotr.waypoint.NOGROD_FA.info=The southern city of the dwarves of the Ered Luin. Here live the dwavres of the Firebeard clan.
+lotr.waypoint.NOGROD_FA.info=The southern city of the dwarves of the Ered Luin. Here live the dwarves of the Firebeard clan.
 lotr.waypoint.BELEGOST_FA=Belegost
 lotr.waypoint.BELEGOST_FA.info=The northern city of the dwarves of the Ered Luin, inhabited by the Broadbeam dwarves.
 lotr.waypoint.LAKE_HELEVORN=Lake Helevorn
@@ -2471,6 +2485,8 @@ lotr.waypoint.TEVILDO_CASTLE=Tevildo's Castle
 lotr.waypoint.TEVILDO_CASTLE.info=The great fortress of Tevildo, the "Prince of Cats", who guards the pass of Nan Duaith under Morgoth's orders.
 lotr.waypoint.PITS_OF_UTUMNO=Annui Dúath-Annon
 lotr.waypoint.PITS_OF_UTUMNO.info=A hidden entrance into the ruined fortress of Morgoth.
+lotr.waypoint.nanguruthos=The Frozen North
+lotr.waypoint.nanguruthos.info=It is rumored the last survivors of Morgoth’s fortress dwell here.
 
 lotr.map.hidden=
 lotr.map.doriath=Doriath
@@ -2553,3 +2569,5 @@ lotr.road.Lothlann=The Forest Road
 lotr.road.Falas=Brithombar-Talath Dirnen
 lotr.road.Falas2=Eglarest-Talah Dirnen
 lotr.road.BaradNimras= Barad Nimras-Brithombar
+
+lotrfa.miniquest.welcome.speak=Speak with Ulmo

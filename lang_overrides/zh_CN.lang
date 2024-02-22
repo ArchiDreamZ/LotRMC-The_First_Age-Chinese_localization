@@ -92,6 +92,7 @@ tile.lotr:woodBeam1.2.name=加拉德木梁
 tile.lotr:woodSlabSingle.0.name=多松尼安松木台阶
 tile.lotr:woodSlabSingle.2.name=加拉德木台阶
 
+tile.lotr:rock.1.name=石灰岩
 lotr.structure.RuinedRohanWatchtower.name=瞭望塔废墟
 
 entity.lotr.IronHillsMerchant.name=卡扎督姆商贩
@@ -103,4 +104,17 @@ lotr.achievement.openDaleCracker.desc=开启一个派对礼炮
 
 tile.lotr:hobbitOven.name=伊甸人烤炉
 container.lotr.hobbitOven=伊甸人烤炉
+lotr.achievement.useDunlendingTrident.title=安知鱼之祸
+lotr.achievement.useDunlendingTrident.desc=用法拉斯民鱼叉捕获一条鱼
+
+lotr.faction.FANGORN.rank.newcomer=过客
+lotr.faction.FANGORN.rank.newcomer.f=恩特森林的过客
+lotr.faction.FANGORN.rank.friend=朋友
+lotr.faction.FANGORN.rank.friend.f=恩特森林的过客
+lotr.faction.FANGORN.rank.treeherd=树的牧人
+lotr.faction.FANGORN.rank.treeherd.f=恩特森林牧树者
+lotr.faction.FANGORN.rank.master=植橡者
+lotr.faction.FANGORN.rank.master.f=恩特森林植橡者
+lotr.faction.FANGORN.rank.elder=长老
+lotr.faction.FANGORN.rank.elder.f=恩特森林长老
 

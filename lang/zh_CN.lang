@@ -8,9 +8,11 @@ chat.lotrfa.nightRequired=你只能在夜晚执行此操作
 chat.lotrfa.skyRequired=此方块需要在天空下
 chat.lotrfa.list.separator=，
 chat.lotrfa.list.or=或
+chat.lotrfa.wrongHeight=在高度%s以下不能执行此操作
 
 entity.lotrfa.BlackSwan.name=黑天鹅
 entity.lotrfa.Melkor.name=米尔寇
+entity.lotrfa.UlmoImage.name=乌欧牟
 
 entity.lotrfa.PettyDwarfAxeThrower.name=小矮人投斧手
 entity.lotrfa.PettyDwarfCommander.name=小矮人族长
@@ -301,6 +303,9 @@ item.corruptItem.name=腐化之光
 item.corruptItem.tooltip=右击以下生物群落中的榆树树苗召唤群木守卫：
 item.flameofarien.name=不灭之火
 item.flameofarien.tooltip=右击以下生物群落中的岩浆块召唤炎魔：
+item.galvornLongsword.name=安格拉赫尔
+item.galvornCurvedsword.name=安古瑞尔
+item.ulmoTrident.name=乌欧牟的三叉戟
 
 item.feanorianBedItem.name=费艾诺众子床
 item.doriathBedItem.name=多瑞亚斯床
@@ -311,7 +316,7 @@ item.laegrimBedItem.name=绿精灵床
 item.nargothrondBedItem.name=纳国斯隆德床
 
 item.pettyDwarfSteel.name=小矮人钢锭
-item.angbandSteel.name=安格班钢锭
+item.angbandSteel.name=强化奥克钢锭
 
 item.belegostDragonguardHelmet.name=龙卫头盔
 item.belegostDragonguardChestplate.name=龙卫胸甲
@@ -357,6 +362,7 @@ item.gondolinShovel.name=刚多林锹
 item.gondolinPickaxe.name=刚多林镐
 item.gondolinAxe.name=刚多林斧
 item.gondolinHoe.name=刚多林锄
+item.gondolinBattleaxe.name=刚多林战斧
 
 item.valinorBow.name=维林诺弓
 item.valinorBattlestaff.name=维林诺长刀
@@ -372,6 +378,8 @@ item.valinorBoots.name=维林诺靴子
 
 lotr.achievement.wearFullValinor.title=维拉的使者
 lotr.achievement.wearFullValinor.desc=装备全套的维林诺铠甲
+lotr.achievement.wearFullFAMorgul.title=副官的战士
+lotr.achievement.wearFullFAMorgul.desc=装备全套的托尔-因-皋惑斯魔古尔铠甲
 
 item.feanorianSword.name=费艾诺民剑
 item.feanorianSabre.name=费艾诺民刀
@@ -405,6 +413,7 @@ item.nargothrondAxe.name=纳国斯隆德斧
 item.nargothrondHoe.name=纳国斯隆德锄
 item.nargothrondBow.name=纳国斯隆德弓
 item.nargothrondLongsword.name=纳国斯隆德长剑
+item.nargothrondBattleaxe.name=纳国斯隆德战斧
 item.nargothrondMattock.name=纳国斯隆德鹤嘴锄
 item.nargothrondHelmet.name=纳国斯隆德头盔
 item.nargothrondChestplate.name=纳国斯隆德胸甲
@@ -550,6 +559,7 @@ item.falathrimPickaxe.name=法拉斯民镐
 item.falathrimAxe.name=法拉斯民斧
 item.falathrimHoe.name=法拉斯民锄
 item.falathrimBow.name=法拉斯民长弓
+item.falathrimHarpoon.name=法拉斯民鱼叉
 item.falathrimHelmet.name=法拉斯民头盔
 item.falathrimChestplate.name=法拉斯民胸甲
 item.falathrimLeggings.name=法拉斯民护腿
@@ -597,6 +607,12 @@ item.tolInGaurhothLeggings.name=托尔-因-皋惑斯护腿
 item.tolInGaurhothBoots.name=托尔-因-皋惑斯靴子
 item.tolInGaurhothCleaver.name=托尔-因-皋惑斯狂战士劈刀
 item.tolInGaurhothWargArmor.name=托尔-因-皋惑斯座狼铠
+item.tolInGaurhothMorgulDagger.name=托尔-因-皋惑斯魔古尔匕首
+item.tolInGaurhothMorgulHelmet.name=托尔-因-皋惑斯魔古尔头盔
+item.tolInGaurhothMorgulChestplate.name=托尔-因-皋惑斯魔古尔胸甲
+item.tolInGaurhothMorgulLeggings.name=托尔-因-皋惑斯魔古尔护腿
+item.tolInGaurhothMorgulBoots.name=托尔-因-皋惑斯魔古尔靴子
+item.tolInGaurhothMorgulHorseArmor.name=托尔-因-皋惑斯魔古尔马铠
 
 item.angbandSword.name=安格班剑
 item.angbandDagger.name=安格班匕首
@@ -805,6 +821,9 @@ lotrfa.structure.NargothrondHall.name=纳国斯隆德殿堂
 lotrfa.structure.NargothrondHouse.name=纳国斯隆德宅
 lotrfa.structure.NargothrondForge.name=纳国斯隆德铁匠铺
 lotrfa.structure.NargothrondMerchantStall.name=纳国斯隆德摊位
+lotrfa.structure.NargothrondCamp.name=纳国斯隆德游侠营地
+lotrfa.structure.NargothrondTent.name=纳国斯隆德帐篷
+
 
 lotrfa.structure.PettyDwarfTent.name=小矮人帐篷
 lotrfa.structure.PettyDwarfSmithy.name=小矮人铁匠铺
@@ -1292,7 +1311,7 @@ lotr.invasion.TOL_IN_GAURHOTH.horn=陶尔-努-浮阴的战争号角
 lotr.invasion.TOL_IN_GAURHOTH_tolInGaurhothWarg.horn=陶尔-努-浮阴的座狼号角
 
 tile.barrier.name=屏障
-tile.oreStorage.0.name=安格班钢块
+tile.oreStorage.0.name=强化奥克钢块
 
 tile.rottenFleshBlock.name=腐肉块
 
@@ -1840,7 +1859,7 @@ lotr.achievement.wearFullAngband.desc=整备全套的安格班盔甲
 lotr.achievement.wearFullAnfauglith.title=安法乌格砾斯的奥克
 lotr.achievement.wearFullAnfauglith.desc=整备全套的安法乌格砾斯盔甲
 lotr.achievement.smeltAngbandSteel.title=黑暗锻厂
-lotr.achievement.smeltAngbandSteel.desc=在奥克锻炉中熔炼一枚安格班钢锭
+lotr.achievement.smeltAngbandSteel.desc=在奥克锻炉中熔炼一枚强化奥克钢锭
 lotr.achievement.smeltPettyDwarfSteel.title=小矮人铁匠
 lotr.achievement.smeltPettyDwarfSteel.desc=在小矮人锻炉中熔炼一枚小矮人钢锭
 lotr.achievement.killBalrogBoss.title=黑暗之火恩
@@ -2466,6 +2485,8 @@ lotr.waypoint.TEVILDO_CASTLE=泰维多堡
 lotr.waypoint.TEVILDO_CASTLE.info=“猫王”泰维多的邪恶诡堡，在魔苟斯的命令下于此修筑守卫山口。
 lotr.waypoint.PITS_OF_UTUMNO=安维杜阿斯-阿农
 lotr.waypoint.PITS_OF_UTUMNO.info=通往已被摧毁的魔苟斯的古恶要塞的隐蔽入口。
+lotr.waypoint.nanguruthos=极霜北
+lotr.waypoint.nanguruthos.info=传说魔苟斯的邪黑要塞坍塌后，其幸存的追随者便蛰伏于此，等待祂的再度归来。
 
 lotr.map.hidden=
 lotr.map.doriath=多瑞亚斯
@@ -2548,3 +2569,5 @@ lotr.road.Lothlann=洛斯兰路
 lotr.road.Falas=法拉斯路
 lotr.road.Falas2=法拉斯路
 lotr.road.BaradNimras=巴拉德宁拉斯-贝松巴
+
+lotrfa.miniquest.welcome.speak=与乌欧牟对话

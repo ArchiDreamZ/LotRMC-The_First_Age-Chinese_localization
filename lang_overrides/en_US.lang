@@ -104,4 +104,17 @@ lotr.achievement.openDaleCracker.desc=Open a party cracker
 
 tile.lotr:hobbitOven.name=Edain Oven
 container.lotr.hobbitOven=Edain Oven
+lotr.achievement.useDunlendingTrident.title=Catch of the Day
+lotr.achievement.useDunlendingTrident.desc=Catch fish with a Falathrim Harpoon
+
+lotr.faction.FANGORN.rank.newcomer=Newcomer
+lotr.faction.FANGORN.rank.newcomer.f=Entwood Newcomer
+lotr.faction.FANGORN.rank.friend=Friend
+lotr.faction.FANGORN.rank.friend.f=Entwood Friend
+lotr.faction.FANGORN.rank.treeherd=Treeherd
+lotr.faction.FANGORN.rank.treeherd.f=Entwood Treeherd
+lotr.faction.FANGORN.rank.master=Master
+lotr.faction.FANGORN.rank.master.f=Entwood Master
+lotr.faction.FANGORN.rank.elder=Elder
+lotr.faction.FANGORN.rank.elder.f=Entwood Elder
 
