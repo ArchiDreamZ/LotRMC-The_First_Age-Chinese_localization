@@ -1,0 +1,12 @@
+﻿#, have you need of soldiers to slay the foul orcs? My warriors shall follow you into battle.
+I shall grant you command of my finest warriors, for a small fee, of course.
+The Elves of Ossiriand will follow any who oppose the Dark Lord.
+Long have the Laegrim desired peace. However, if the Great Enemy will not allow us, then we have no choice to defend our forest.
+#, if you protect our kind, we will fight by your side.
+The warriors under my command are the greatest in all of Ossiriand!
+#, you are a true friend of the Laegrim, I permit you to lead my warriors.
+I have the best warriors in the lands of Ossiriand!
+#, even my tireless soldiers require payment.
+You have proved that you are a true friend of our people. I will allow you to hire my brave warriors.
+In this dark age, we have no choice but to do nothing but defend. However, some of my warriors are willing to go on the offensive.
+Do you have what it takes to lead the strongest elves of Ossiriand?
