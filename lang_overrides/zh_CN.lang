@@ -31,13 +31,13 @@ lotr.date.shire.month.yule2=第一天
 
 lotr.gui.daleCracker=派对礼炮
 
-lotr.biome.forodwaith.name=多尔-纳-达尔阿喀斯
-lotr.biome.forodwaithCoast.name=多尔-纳-达尔阿喀斯海岸
-lotr.biome.forodwaithGlacier.name=多尔-纳-达尔阿喀斯冰川
-lotr.biome.forodwaithMountains.name=多尔-纳-达尔阿喀斯山脉
+lotr.biome.forodwaith.name=多尔-戴歹洛斯
+lotr.biome.forodwaithCoast.name=多尔-戴歹洛斯海岸
+lotr.biome.forodwaithGlacier.name=多尔-戴歹洛斯冰川
+lotr.biome.forodwaithMountains.name=多尔-戴歹洛斯山脉
 
-lotr.achievement.category.FORODWAITH=多尔-纳-达尔阿喀斯
-lotr.achievement.enterForodwaith.desc=进入多尔-纳-达尔阿喀斯的领地
+lotr.achievement.category.FORODWAITH=多尔-戴歹洛斯
+lotr.achievement.enterForodwaith.desc=进入多尔-戴歹洛斯的领地
 
 lotr.faction.FANGORN.entity=凡雅娜的树木子女
 lotr.faction.FANGORN.name=恩特
