@@ -31,8 +31,6 @@ lotr.date.shire.month.yule2=第一天
 
 lotr.gui.daleCracker=派对礼炮
 
-container.lotr.hobbitOven=烤炉
-
 lotr.biome.forodwaith.name=多尔-纳-达尔阿喀斯
 lotr.biome.forodwaithCoast.name=多尔-纳-达尔阿喀斯海岸
 lotr.biome.forodwaithGlacier.name=多尔-纳-达尔阿喀斯冰川
@@ -70,7 +68,6 @@ tile.lotr:fenceGateMirkOak.name=加拉德木栅栏门
 tile.lotr:fenceGateShirePine.name=多松尼安松木栅栏门
 tile.lotr:gateElven.name=西尔凡精灵大门
 tile.lotr:gateHighElven.name=高等精灵大门
-tile.lotr:hobbitOven.name=烤炉
 tile.lotr:leaves.0.name=多松尼安松木叶
 tile.lotr:leaves.2.name=加拉德木叶
 tile.lotr:mirkVines.name=加拉德木藤蔓
@@ -123,6 +120,8 @@ item.lotr:maceMallornCharred.name=焦钉头锤
 tile.lotr:blueDwarvenCraftingTable.name=贝烈戈斯特工作台
 container.lotr.crafting.blueDwarven=贝烈戈斯特制作
 
+tile.lotr:trapdoorMirkOak.name=加拉德木活板门
+
 entity.lotr.BlueDwarf.name=蓝色山脉矮人
 entity.lotr.BlueDwarfWarrior.name=贝烈戈斯特战士
 entity.lotr.BlueDwarfAxeThrower.name=贝烈戈斯特投斧手
@@ -142,3 +141,8 @@ item.lotr:legsBlueDwarven.name=贝烈戈斯特护腿
 item.lotr:bootsBlueDwarven.name=贝烈戈斯特靴子
 item.lotr:spearBlueDwarven.name=贝烈戈斯特矛
 item.lotr:pikeBlueDwarven.name=贝烈戈斯特长矛
+
+item.lotr:redBook.name=金皮书
+
+item.lotr:mallornNut.name=榆树坚果
+tile.lotr:highElvenTorch.name=精灵火把

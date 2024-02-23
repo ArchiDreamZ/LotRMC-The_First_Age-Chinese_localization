@@ -208,6 +208,7 @@ entity.lotrfa.BrethilLevyman.name=布瑞希尔赋人
 entity.lotrfa.BrethilMan.name=布瑞希尔人
 entity.lotrfa.BrethilSoldier.name=布瑞希尔士兵
 entity.lotrfa.BrethilBannerBearer.name=布瑞希尔旗手
+entity.lotrfa.BrethilRanger.name=布瑞希尔游侠
 
 entity.lotrfa.DoriathBaker.name=多瑞亚斯烘焙师
 entity.lotrfa.DoriathHuntsman.name=多瑞亚斯猎人
@@ -314,6 +315,12 @@ item.flameofarien.tooltip=右击以下生物群落中的岩浆块召唤炎魔:
 item.galvornLongsword.name=安格拉赫尔
 item.galvornCurvedsword.name=安古瑞尔
 item.ulmoTrident.name=乌欧牟的三叉戟
+item.Aranruth.name=阿兰如斯
+item.Dramborleg.name=德拉姆博烈格
+item.Belthronding.name=贝尔斯隆丁
+item.Angrist.name=安格锐斯特
+item.Grond.name=格龙得
+
 
 item.feanorianBedItem.name=费艾诺众子床
 item.doriathBedItem.name=多瑞亚斯床
@@ -388,6 +395,7 @@ item.gondolinAxe.name=刚多林斧
 item.gondolinHoe.name=刚多林锄
 item.gondolinBattleaxe.name=刚多林战斧
 
+item.valinorBattleaxe.name=维林诺战斧
 item.valinorBow.name=维林诺弓
 item.valinorBattlestaff.name=维林诺战杖
 item.valinorLongspear.name=维林诺长矛
@@ -404,6 +412,9 @@ lotr.achievement.wearFullValinor.title=维拉的使者
 lotr.achievement.wearFullValinor.desc=装备全套的维林诺铠甲
 lotr.achievement.wearFullFAMorgul.title=军团战将
 lotr.achievement.wearFullFAMorgul.desc=装备全套的托尔-因-皋惑斯魔古尔铠甲
+lotr.achievement.doUlmoQuest.title=贝烈瑞安德的传说
+lotr.achievement.doUlmoQuest.desc=和乌尔牟说话并完成他的小任务
+
 
 item.feanorianSword.name=费艾诺民剑
 item.feanorianSabre.name=费艾诺民军刀
@@ -910,6 +921,8 @@ lotr.dimension.MiddleEarth.good=自由人民
 lotr.dimension.MiddleEarth.evil=黑暗势力
 lotr.dimension.MiddleEarth.neutral=中立派系
 
+lotr.faction.UNALIGNED.name=维拉
+
 lotr.faction.ANGBAND.name=安格班
 lotr.faction.ANGBAND.entity=安格班的怪物
 lotr.faction.ANGBAND.subtitle=魔苟斯的怪物
@@ -1299,6 +1312,7 @@ lotr.shields.ALIGNMENT_NOGROD.desc=为蓝色山脉矮人结盟值至 + 1000 而�
 
 lotr.shields.SUPPORTER.name=支持者之盾
 lotr.shields.SUPPORTER.desc=为第一纪元的支持者而赏
+lotr.shields.category.EXCLUSIVE_EOA=专属于EoA制作组
 lotrfa.title.supporter=第一纪元支持者
 lotrfa.title.angband=安格班
 lotrfa.title.dornadaerachas=多尔-纳-达尔阿喀斯
@@ -1352,6 +1366,7 @@ lotr.invasion.TOL_IN_GAURHOTH_tolInGaurhothWarg.horn=托尔-因-皋惑斯的座�
 
 tile.barrier.name=屏障
 tile.oreStorage.0.name=强化奥克钢块
+tile.oreStorage.1.name=小矮人钢块
 
 tile.rottenFleshBlock.name=腐肉块
 
@@ -1680,6 +1695,7 @@ tile.slabSingleDirt.0.name=安格班泥土台阶
 tile.angbandIronOre.0.name=安格班铁矿石
 tile.angbandIronOre.1.name=安格班铁矿石
 tile.angbandNauriteOre.name=安格班督尔瑙尔矿石
+tile.slabSingleGranite.5.name=焦石台阶
 
 tile.angbandFireJar.name=安格班地狱火
 
@@ -1687,6 +1703,9 @@ tile.stairsGranite.name=花岗岩楼梯
 tile.stairsGraniteSmooth.name=磨制花岗岩楼梯
 tile.slabSingleGranite.0.name=花岗岩台阶
 tile.slabSingleGranite.1.name=磨制花岗岩台阶
+tile.slabSingleGranite.2.name=花岗岩柱台阶
+tile.slabSingleGranite.3.name=平滑花岗岩台阶
+tile.slabSingleGranite.4.name=裂花岗岩台阶
 tile.wallGranite.0.name=花岗岩墙
 tile.wallGranite.1.name=磨制花岗岩墙
 tile.pillarGranite.0.name=花岗岩柱
@@ -1695,6 +1714,9 @@ tile.stairsDiorite.name=闪长岩楼梯
 tile.stairsDioriteSmooth.name=磨制闪长岩楼梯
 tile.slabSingleDiorite.0.name=闪长岩台阶
 tile.slabSingleDiorite.1.name=磨制闪长岩台阶
+tile.slabSingleDiorite.2.name=闪长岩柱台阶
+tile.slabSingleDiorite.3.name=平滑闪长岩台阶
+tile.slabSingleDiorite.4.name=裂闪长岩台阶
 tile.wallDiorite.0.name=闪长岩墙
 tile.wallDiorite.1.name=磨制闪长岩墙
 tile.pillarDiorite.0.name=闪长岩柱
@@ -1703,6 +1725,9 @@ tile.stairsAndesite.name=安山岩楼梯
 tile.stairsAndesiteSmooth.name=磨制安山岩楼梯
 tile.slabSingleAndesite.0.name=安山岩台阶
 tile.slabSingleAndesite.1.name=磨制安山岩台阶
+tile.slabSingleAndesite.2.name=安山岩柱台阶
+tile.slabSingleAndesite.3.name=平滑安山岩台阶
+tile.slabSingleAndesite.4.name=裂安山岩台阶
 tile.wallAndesite.0.name=安山岩墙
 tile.wallAndesite.1.name=磨制安山岩墙
 tile.pillarAndesite.0.name=安山岩柱
@@ -1966,6 +1991,8 @@ lotr.achievement.wearFullNogrod.title=火须战士
 lotr.achievement.wearFullNogrod.desc=装备全套的诺格罗德铠甲
 lotr.achievement.wearFullNogrodRanger.title=铁尔哈的手艺
 lotr.achievement.wearFullNogrodRanger.desc=装备全套的诺格罗德突击队铠甲
+lotr.achievement.useNogrodTable.title=诺格罗德工匠
+lotr.achievement.useNogrodTable.desc=在诺格罗德工作台上合成物品
 
 lotr.achievement.enterNanElmoth.title=黑暗精灵
 lotr.achievement.enterNanElmoth.desc=进入南埃尔暮斯森林
@@ -2650,3 +2677,4 @@ lotr.road.Falas2=法拉斯路
 lotr.road.BaradNimras=巴拉德宁拉斯-贝松巴
 
 lotrfa.miniquest.welcome.speak=与乌尔牟的幻像对话
+lotrfa.miniquest.welcome.book=打开金皮书
