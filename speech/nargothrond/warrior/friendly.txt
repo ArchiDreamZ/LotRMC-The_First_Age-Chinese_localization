@@ -1,15 +1,5 @@
-The time of the Elves is growing, our strength grows.
-I defend the Elves of Nargothrond!
-Greetings, #.
-We defend all that is fair in Realm of Finrod!
-It seems you are a friend of Finrod, #.
-May the grace of the Valar protect you.
-How many Orcs have you ambushed today, #?
-The world is changing, #... I feel it in my heart.
-If you fight for freedom, then I am with you.
-An alliance is shared amongst our people. Will you honour that alliance?
-We will soon ready for battle against the Enemy.
-Welcome, #, to the land of Finrod, the realm of Nargothrond!
-You shall find no evil in Nargothrond, #! Our land is safe and fair.
-I have protected these caves for many a year.
-I protect the Elves of Nargothrond. No evil shall escape my wrath.
+#，你好。
+#，你看起很友善。
+愿维拉的恩典保卫你。
+如果你为自由而战，那我与你同在。
+许久以前，我的人民与你们之间存在过联盟。你打算再现那时的辉煌吗？

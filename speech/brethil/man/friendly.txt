@@ -1,30 +1,44 @@
-It is good to see you again, #.
-The Haladin have guarded these lands for nigh on 100 years.
-The Haladin welcome you to Brethil, friend.
-From the Crossings of Teiglin to the Sirion, the Haldin roam.
-We keep to our own. We do not want part in the quarrels of the Noldor.
-The arm of Morgoth grows longer, but Brethil will remain a haven against it.
-Minas Tirith has fallen, Dorthonion is overun. Yet of all the orcs that marched through Brethil, not one escaped.
-Rest a little while under the silver-birch, friend.
-Morgoth sends his orcs from Tor-in-Gaurhoth. They do not return.
-Let your axe be sharp and your breastplate stout, #.
-The struggles of the First House are not our struggles.
-We may not issue forth hosts, but do not underestimate our valour.
-What brings you to Brethil, #?
-What business have you in these lands, friend?
-Sharpen your blades and strengthen your shield, #.
-It is good to see a friend of the Haladin!
-I see you are a friend of Brethil, #.
-These forests are old and strong.
-Though we may be solitary, we do not lack for company.
-The Lady Haleth led us here. We shall not move again.
-This wood stretches south to the Teiglin and north to the Sirion.
-Do not bring me news of the outside world, #. I do not wish to hear it.
-Morgoth's power grows. Orcs march ever closer.
-If the Girdle of Melian will hold, so too shall Brethil.
-This is a safe haven for scattered peoples.
-Women and children of the First House flee here. Are we to deny them safety?
-Nargothrond should face all the power of Morgoth, were we not standing in his way.
-Doubt not the strength of the Haladin, #. We have heroes with us yet.
-The sun is not setting on the Haladin, #.
-I have heard of your deeds, #. It is an honour to meet you.
+#，欢迎来到哈烈斯家族的土地。
+歡迎來到我们的宁布瑞斯森林。
+我们一起畅饮美酒作乐吧！
+#，你从外面的世界带来了什么消息？
+我们中的一部分来自多松尼安，那曾是一片美丽的松林……但今魔影笼罩了它。
+当心乌苟利安特的后代！
+#，在森林中要当心。你可能迷路……
+#，什么风把你吹到这片土地？
+我们哈烈斯一族必须加强戒备，总有邪祟游荡在我们国土边境。
+#，我们必须时刻小心警备。
+我们的国境外充满了堕落。但过去并非一直如此……
+#，林中居民的弓比任何其他的弓更迅速。
+我们是宁布瑞希尔森林的哈烈斯一族。
+常言道：绝境之中，常有希望出生。
+Navaer。
+Namárië。
+第一纪元诸国皆尽沦丧矣，昔日将尽。
+安格班的阴影四起。这样宁静的日子恐怕再也不复返了。
+人类之友芬罗德，向你致敬！
+辛葛王，向你致敬！
+族长哈烈斯，向你致敬！
+#，警戒。离了我们的森林，邪祟无处不在。
+#，欢迎来到我们美丽的森林。
+欢迎来到宁布瑞希尔森林，哈烈斯家族的领地！
+#，不要漫不经心地游荡在贝烈瑞安德。有邪祟隐匿其中。
+多亏我们历代族长的指导与我们的狩猎技能，我们能在森林永世长存，尽管非常勉强。
+长久以来，森林一直是我们最后的屏障。
+黑暗席卷了贝烈瑞安德诸多领土。
+#，愿你于森林之冕下平安！
+在这个黑暗的时代，危险包围者我们的森林。#，警戒。
+多年前，女族长哈烈斯带领我们进入了这片土地。
+辛葛王的力量一直在保佑我们不受邪祟侵犯。
+泪雨之战是我们永恒的伤痕，#。
+我们被贝奥家族和哈多家族视为异族，我们不若他们那样好战。
+我们接纳了流亡的贝奥亲族。
+我们只想在森林里安宁的活下去。
+#，我们一定会死，但是人类的事迹将长世久存。
+这世界变了，精灵的时代正在结束。
+我自风中嗅到...
+我自水中察觉...
+我自大地看到...
+或许我们这个时代的故事会成为后辈们传颂的史诗，#。
+听说费艾诺的众子们一直在苦苦追寻他们的宝藏，精灵宝钻。
+我们同多瑞亚斯精灵一样不信任陌生人。但是，#，你不一样，你是我们的一员。

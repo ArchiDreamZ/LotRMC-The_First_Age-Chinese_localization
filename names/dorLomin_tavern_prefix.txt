@@ -1,64 +1,64 @@
-The Angry
-The Beckoning
-The Bloated
-The Busy
-The Calling
-The Cantering
-The Comely
-The Dancing
-The Dark
-The Dead
-The Dirty
-The Drunken
-The Dying
-The Faithful
-The Fallen
-The Fearsome
-The Fierce
-The Fiery
-The Filthy
-The Forgotten
-The Forsaken
-The Friendly
-The Galloping
-The Gilded
-The Golden
-The Greedy
-The Green
-The Groaning
-The Grumbling
-The Headless
-The Hearty
-The Heroic
-The Homely
-The Hungry
-The Jolly
-The Lonely
-The Lost
-The Merry
-The Mournful
-The Mustering
-The Noble
-The Old
-The Pale
-The Prancing
-The Pretty
-The Raging
-The Riding
-The Roaring
-The Rolling
-The Ruddy
-The Singing
-The Stable
-The Strong
-The Stumbling
-The Thatched
-The Thirsty
-The Tipsy
-The Ugly
-The Wandering
-The Warm
-The Weary
-The Welcoming
-The Wild
-The Young
+愤怒的
+招手的
+臃肿的
+忙碌的
+呼唤的
+慢跑的
+英俊的
+跳舞的
+黑暗的
+已死的
+肮脏的
+醉酒的
+将死的
+忠诚的
+坠落的
+可怖的
+凶猛的
+炽热的
+下流的
+被忘的
+被弃的
+友好的
+奔腾的
+镀金的
+金色的
+贪婪的
+绿色的
+呻吟的
+牢骚的
+无头的
+健壮的
+英雄的
+似家的
+饥饿的
+欢快的
+孤独的
+迷失的
+快乐的
+悲切的
+集结的
+高贵的
+古旧的
+苍白的
+跳跃的
+美丽的
+暴怒的
+奔驰的
+咆哮的
+滚动的
+红润的
+歌唱的
+稳重的
+强壮的
+蹒跚的
+茅草的
+饥渴的
+微醺的
+丑恶的
+游荡的
+温暖的
+困乏的
+好客的
+狂野的
+年轻的

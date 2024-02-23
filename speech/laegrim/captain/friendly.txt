@@ -1,12 +1,13 @@
-﻿#, have you need of soldiers to slay the foul orcs? My warriors shall follow you into battle.
-I shall grant you command of my finest warriors, for a small fee, of course.
-The Elves of Ossiriand will follow any who oppose the Dark Lord.
-Long have the Laegrim desired peace. However, if the Great Enemy will not allow us, then we have no choice to defend our forest.
-#, if you protect our kind, we will fight by your side.
-The warriors under my command are the greatest in all of Ossiriand!
-#, you are a true friend of the Laegrim, I permit you to lead my warriors.
-I have the best warriors in the lands of Ossiriand!
-#, even my tireless soldiers require payment.
-You have proved that you are a true friend of our people. I will allow you to hire my brave warriors.
-In this dark age, we have no choice but to do nothing but defend. However, some of my warriors are willing to go on the offensive.
-Do you have what it takes to lead the strongest elves of Ossiriand?
+#，你想佣战士吗？我的士兵将随从你。
+我可以授予你一部分绿精灵士兵的指挥权——当然，用小笔薪金换。
+你有任何银币买绿精灵的战士吗？
+#，我们绿精灵不是闹事者。
+你与我们浴血奋战，#，那我们将与你同浴血奋战。
+有多名熟练的战士在我的命令下。
+我们绿精灵的战士，经历了泪雨之战的伤痛，变的非常善于博斗了。
+#，绿精灵之友。我将许你领导我的战士。
+我有全欧西瑞安德最佳的战士！
+#，即使是我不知疲倦的战士也欲薪金。
+你证明了你是我们族人的真正朋双，我将许你佣一些我们的英勇战士。
+在这黑暗时代，我们必自己警戒，捍卫我们自己的王国。但我可有价地供你些我的战士。
+#，你好啊！你想命令这片王国强壮绿精灵战士吗？

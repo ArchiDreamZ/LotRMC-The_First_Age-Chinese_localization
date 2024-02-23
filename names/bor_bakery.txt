@@ -1,7 +1,7 @@
-Bakery
-Cakes
-Confections
-Kitchen
-Oven
-Pastries
-Treats
+面包房
+蛋糕店
+糕饼店
+厨房
+烘焙店
+馅饼店
+美食

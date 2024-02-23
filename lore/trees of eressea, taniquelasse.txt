@@ -1,14 +1,14 @@
-#title:The Trees of Eressëa: Taniquelassë
+#title:赞托尔埃瑞西亚之木: 泰列那斯
 #
-#author:Aldandur
+#author:阿勒丹杜尔
 #
 #types:gondolin,nargothrond,hithlum,march_maedhros
 #
 #By Sir Lazuli (SirLazuli)
 #
-Taniquelassë, towering tall tree,
-Climbing the steep slopes, branching in splendour. 
-Tower of mountains, among the loose scree,
-Ever white soft leaves, silver trunks slender,
-From Taniquetil, Valinor’s high peak,
-Clothed in its white leaves through wintertime bleak.
+泰列那斯, 高塔般的雄木,
+攀着陡峭的悬崖, 在劲风的洗礼中发芽. 
+在枯朽的碎石中, 它屹立地似高塔,
+白嫩的叶片装点荒野, 银色的树干直面风压,
+它是维林诺之峰上的守望者,
+断枝为眼,霜雪为衣.

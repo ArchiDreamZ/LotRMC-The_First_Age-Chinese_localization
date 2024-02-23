@@ -1,15 +1,5 @@
-The time of the Elves is growing, our strength grows.
-I defend the Elves of the Falas.
-Greetings, #.
-We defend all that is fair in Falas.
-It seems you are a friend of the Teleri, #.
-May the grace of the Valar protect you.
-How many Orcs have you slain today, #?
-The world is changing, #... I feel it in my heart.
-If you fight for freedom, then I am with you.
-An alliance is shared amongst our people. Will you honour that alliance?
-We will soon ready for battle against the Enemy.
-Welcome, #, to the land of Círdan the Shipwright!
-You shall find no evil in the Falas, #! Our land is safe and fair.
-I have protected these shores for many a year.
-I protect the Teleri of the Havens. No evil shall escape my wrath.
+#，你好。
+#，你看起很友善。
+愿维拉旳恩典保衛你。
+如果你为自由而战，那我与你同在。
+许久以前，我旳人民与你们之间存在过联盟。你打算再现那时的辉煌吗？

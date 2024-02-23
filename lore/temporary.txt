@@ -1,9 +1,9 @@
-#title:Temporary Book
+#title:临时笔记
 #
-#author:DwarfyAssassin
+#author:矮人刺客
 #
 #types:all
 #
 #By Sir Lazuli (SirLazuli)
 #
-This is a temporary book to stop crashes.
+这是一本为了防止意外发生的临时笔记。

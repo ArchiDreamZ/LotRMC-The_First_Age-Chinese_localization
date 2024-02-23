@@ -1,40 +1,17 @@
-You are an enemy of Brethil!
-You are an enemy of the Edain!
-How dare you enter these lands!
-Leave this place, #, before more Woodmen come.
-Now that you have defiled these woods, you will not leave alive.
-The Haladin want no business with you, #!
-Our soldiers are hunting you down as we speak.
-Spawn of Morgoth! We do not want you here!
-Our blades are sharp, and do not show mercy on the likes of you.
-Return to your master Morgoth!
-If the Enemy sent you, he will not hear back.
-These woods are not a place for you.
-Go back to your orc-friends, #.
-We know who you are, #. Leave here and never come back.
-Leave and never return to Brethil.
-You are no friend of the Haladin.
-We do not desire your presence, #.
-You ought to be killed for your crimes, #.
-Do not come any closer, #.
-What do you think you are doing here, #.
-The likes of you don't belong here.
-Begone, Orc-scum!
-What madness led you here?
-Crawl back into the night, #!
-These lands are guarded closely, #. You will find no refuge here!
-There is no refuge here for the likes of you!
-Villains like you are unwelcome here!
-I shall make an end of you!
-You are not welcome in these lands, #!
-What are you, #? Some Orc-spy?
-Do not underestimate the power of Brethil.
-Begone, #!
-You will leave these lands now!
-You cannot pass!
-What devilry do you bring here?
-Morgoth has no power here! Begone!
-Get yourself gone from these lands.
-You ruffian!
-Your villainry is not wanted here!
-Our armies are numerous and our swords keen. You will not escape!
+你个安格班恶魔，逃亡这片森林吧！
+返回你来的那片腐败之土！
+#，这不欢迎你！
+你不是哈烈斯家族之双！
+#，你不应来此！
+愿你被大敌的蜘蛛吞噬！
+#，不要把邪恶帯到我们的土地！
+哈！你比不过我们的弓箭！
+下乌顿吧！
+吻个奥克吧！
+自由之敌死吧！
+谁给我们帯来了这末日的征兆？
+邪恶之仆，滚吧。
+魔苟斯的无赖，你将直面你主子的末日！
+我不许你腐化这片森林！
+你即将在我们强弓下迎你的死期。
+奥克污垢，不要以为我不会杀你！
