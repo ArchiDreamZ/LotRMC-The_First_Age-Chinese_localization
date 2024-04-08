@@ -118,16 +118,16 @@ lotr.faction.FANGORN.rank.elder.f=恩特森林长老
 item.lotr:maceMallornCharred.name=焦钉头锤
 
 tile.lotr:blueDwarvenCraftingTable.name=贝烈戈斯特工作台
-container.lotr.crafting.blueDwarven=贝烈戈斯特制作
+container.lotr.crafting.blueDwarven=贝烈戈斯特合成
 
 tile.lotr:trapdoorMirkOak.name=加拉德木活板门
 
-entity.lotr.BlueDwarf.name=蓝色山脉矮人
+entity.lotr.BlueDwarf.name=蓝山矮人
 entity.lotr.BlueDwarfWarrior.name=贝烈戈斯特战士
 entity.lotr.BlueDwarfAxeThrower.name=贝烈戈斯特投斧手
-entity.lotr.BlueDwarfBannerBearer.name=蓝色山脉旗手
-entity.lotr.BlueDwarfCommander.name=蓝色山脉指挥官
-entity.lotr.BlueDwarfMiner.name=蓝色山脉矿工
+entity.lotr.BlueDwarfBannerBearer.name=蓝山矮人旗手
+entity.lotr.BlueDwarfCommander.name=蓝山矮人指挥官
+entity.lotr.BlueDwarfMiner.name=蓝山矮人矿工
 
 item.lotr:swordBlueDwarven.name=贝烈戈斯特剑
 item.lotr:daggerBlueDwarven.name=贝烈戈斯特匕首
