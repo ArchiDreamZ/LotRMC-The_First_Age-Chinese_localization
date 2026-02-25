@@ -1,4 +1,3 @@
-
 lotr.menu.title=魔戒Mod：第一纪元子模组
 
 lotr.date.shire=第一纪元
@@ -26,8 +25,8 @@ lotr.date.shire.month.solmath=二月
 lotr.date.shire.month.thrimidge=五月
 lotr.date.shire.month.wedmath=八月
 lotr.date.shire.month.winterfilth=十月
-lotr.date.shire.month.yule1=最后一天 
-lotr.date.shire.month.yule2=第一天 
+lotr.date.shire.month.yule1=最后一天
+lotr.date.shire.month.yule2=第一天
 
 lotr.gui.daleCracker=派对礼炮
 
@@ -74,13 +73,13 @@ tile.lotr:mirkVines.name=加拉德木藤蔓
 
 tile.lotr:mordorGrass.name=安格班荒草
 
-tile.lotr:planks.0.name=多松尼安松木木板
-tile.lotr:planks.2.name=加拉德木木板
+tile.lotr:planks.0.name=多松尼安松木板
+tile.lotr:planks.2.name=加拉德木板
 tile.lotr:sapling.0.name=多松尼安松木树苗
 tile.lotr:sapling.2.name=加拉德木树苗
 tile.lotr:shireHeather.name=石楠花
-tile.lotr:stairsMirkOak.name=加拉德木木楼梯
-tile.lotr:stairsPine.name=多松尼安松木木楼梯
+tile.lotr:stairsMirkOak.name=加拉德木楼梯
+tile.lotr:stairsPine.name=多松尼安松木楼梯
 
 tile.lotr:wood.0.name=多松尼安松木
 tile.lotr:wood.2.name=加拉德木
@@ -146,3 +145,4 @@ item.lotr:redBook.name=金皮书
 
 item.lotr:mallornNut.name=榆树坚果
 tile.lotr:highElvenTorch.name=精灵火把
+
