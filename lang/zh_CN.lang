@@ -1251,62 +1251,62 @@ lotr.faction.TOL_IN_GAURHOTH.rank.thrall=奴隶
 lotr.faction.TOL_IN_GAURHOTH.rank.thrall.f=索隆的奴隶
 
 lotr.shields.ALIGNMENT_FEANORIANS.name=费艾诺之盾
-lotr.shields.ALIGNMENT_FEANORIANS.desc=为费艾诺众子结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_FEANORIANS.desc=作为达到+1000点费艾诺众子结盟值的奖励
 
 lotr.shields.ALIGNMENT_NARGOTHROND.name=纳国斯隆德之盾
-lotr.shields.ALIGNMENT_NARGOTHROND.desc=为纳国斯隆德结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_NARGOTHROND.desc=作为达到+1000点纳国斯隆德结盟值的奖励
 
 lotr.shields.ALIGNMENT_FALAS.name=海岸之盾
-lotr.shields.ALIGNMENT_FALAS.desc=为法拉斯民结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_FALAS.desc=作为达到+1000点法拉斯民结盟值的奖励
 
 lotr.shields.ALIGNMENT_PETTY_DWARF.name=阿蒙如兹之盾
-lotr.shields.ALIGNMENT_PETTY_DWARF.desc=为小矮人结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_PETTY_DWARF.desc=作为达到+1000点小矮人结盟值的奖励
 
 lotr.shields.ALIGNMENT_GONDOLIN.name=刚多林之盾
-lotr.shields.ALIGNMENT_GONDOLIN.desc=为刚多林结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_GONDOLIN.desc=作为达到+1000点刚多林结盟值的奖励
 
 lotr.shields.ALIGNMENT_HITHLUM.name=芬国昐之盾
-lotr.shields.ALIGNMENT_HITHLUM.desc=为希斯路姆结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_HITHLUM.desc=作为达到+1000点希斯路姆结盟值的奖励
 
 lotr.shields.ALIGNMENT_ANGBAND.name=桑戈洛锥姆之盾
-lotr.shields.ALIGNMENT_ANGBAND.desc=为安格班结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_ANGBAND.desc=作为达到+1000点安格班结盟值的奖励
 
 lotr.shields.ALIGNMENT_UTUMNO_REMNANT.name=乌图姆诺之盾
-lotr.shields.ALIGNMENT_UTUMNO_REMNANT.desc=为多尔-戴歹洛斯结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_UTUMNO_REMNANT.desc=作为达到+1000点多尔-戴歹洛斯结盟值的奖励
 lotr.shields.ALIGNMENT_DOR_NA_DAERACHAS.name=极寒冻土之盾
-lotr.shields.ALIGNMENT_DOR_NA_DAERACHAS.desc=为多尔-戴歹洛斯结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_DOR_NA_DAERACHAS.desc=作为达到+1000点多尔-戴歹洛斯结盟值的奖励
 
 lotr.shields.ALIGNMENT_TOL_IN_GAURHOTH.name=皋惑斯之盾
-lotr.shields.ALIGNMENT_TOL_IN_GAURHOTH.desc=为托尔-因-皋惑斯结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_TOL_IN_GAURHOTH.desc=作为达到+1000点托尔-因-皋惑斯结盟值的奖励
 
 lotr.shields.ALIGNMENT_BRETHIL.name=哈烈斯之盾
-lotr.shields.ALIGNMENT_BRETHIL.desc=为布瑞希尔结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_BRETHIL.desc=作为达到+1000点布瑞希尔结盟值的奖励
 
 lotr.shields.ALIGNMENT_HOUSE_ULFANG.name=乌方家族之盾
-lotr.shields.ALIGNMENT_HOUSE_ULFANG.desc=为乌方家族结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_HOUSE_ULFANG.desc=作为达到+1000点乌方家族结盟值的奖励
 
 lotr.shields.ALIGNMENT_DORIATH.name=辛达之盾
-lotr.shields.ALIGNMENT_DORIATH.desc=为多瑞亚斯结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_DORIATH.desc=作为达到+1000点多瑞亚斯结盟值的奖励
 
 lotr.shields.ALIGNMENT_LAEGRIM.name=欧西瑞安德之盾
-lotr.shields.ALIGNMENT_LAEGRIM.desc=为绿精灵结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_LAEGRIM.desc=作为达到+1000点绿精灵结盟值的奖励
 
 lotr.shields.ALIGNMENT_DOR_LOMIN.name=哈多家族之盾
-lotr.shields.ALIGNMENT_DOR_LOMIN.desc=为多尔罗明结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_DOR_LOMIN.desc=作为达到+1000点多尔罗明结盟值的奖励
 lotr.shields.ALIGNMENT_HOUSE_BEOR.name=贝奥家族之盾
-lotr.shields.ALIGNMENT_HOUSE_BEOR.desc=为多尔罗明结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_HOUSE_BEOR.desc=作为达到+1000点多尔罗明结盟值的奖励
 
 lotr.shields.ALIGNMENT_HOUSE_BOR.name=玻尔家族之盾
-lotr.shields.ALIGNMENT_HOUSE_BOR.desc=为玻尔家族结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_HOUSE_BOR.desc=作为达到+1000点玻尔家族结盟值的奖励
 
 lotr.shields.ALIGNMENT_BLUE_MOUNTAINS.name=埃瑞德路因之盾
-lotr.shields.ALIGNMENT_BLUE_MOUNTAINS.desc=为蓝色山脉矮人结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_BLUE_MOUNTAINS.desc=作为达到+1000点蓝色山脉矮人结盟值的奖励
 
 lotr.shields.ALIGNMENT_BELEGOST.name=贝烈戈斯特之盾
-lotr.shields.ALIGNMENT_BELEGOST.desc=为蓝色山脉矮人结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_BELEGOST.desc=作为达到+1000点蓝色山脉矮人结盟值的奖励
 
 lotr.shields.ALIGNMENT_NOGROD.name=诺格罗德之盾
-lotr.shields.ALIGNMENT_NOGROD.desc=为蓝色山脉矮人结盟值至 + 1000 而赏
+lotr.shields.ALIGNMENT_NOGROD.desc=作为达到+1000点蓝色山脉矮人结盟值的奖励
 
 lotr.shields.SUPPORTER.name=支持者之盾
 lotr.shields.SUPPORTER.desc=为第一纪元的支持者而赏
