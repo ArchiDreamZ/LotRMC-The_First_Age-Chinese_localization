@@ -1,4 +1,3 @@
-
 lotr.creativetab.tabFA=第一纪元物品
 
 chat.lotrfa.update.client=%s 发现一个可获取的 LOTR：FirstAge 更新！ 版本: %s
@@ -38,8 +37,8 @@ entity.lotrfa.FalathrimSmith.name=法拉斯民铁匠
 entity.lotrfa.FalathrimBannerBearer.name=法拉斯民旗手
 entity.lotrfa.FalathrimTrader.name=法拉斯民漫游者
 lotr.unit.FalathrimMariner_Horse=法拉斯民海员骑手
-lotr.unit.FalathrimArcher_Horse=法拉斯民骑射手
-lotr.unit.FalathrimBannerBearer_Horse=法拉斯民掌旗骑手
+lotr.unit.FalathrimArcher_Horse=法拉斯民弓箭骑手
+lotr.unit.FalathrimBannerBearer_Horse=骑马法拉斯民旗手
 
 entity.lotrfa.FeanorianElf.name=费艾诺民
 entity.lotrfa.FeanorianSmith.name=费艾诺民铁匠
@@ -47,11 +46,11 @@ entity.lotrfa.FeanorianLord.name=费艾诺民领主
 entity.lotrfa.FeanorianWarrior.name=费艾诺民战士
 entity.lotrfa.FeanorianBannerBearer.name=费艾诺民旗手
 entity.lotrfa.FeanorianCavalryman.name=费艾诺民骑手
-entity.lotrfa.FeanorianMountedArcher.name=费艾诺民骑射手
+entity.lotrfa.FeanorianMountedArcher.name=费艾诺民弓箭骑手
 entity.lotrfa.FeanorianStablemaster.name=费艾诺民马厩主
 lotr.unit.FeanorianCavalryman_Horse=费艾诺民骑手
-lotr.unit.FeanorianMountedArcher_Horse=费艾诺民骑射手
-lotr.unit.FeanorianBannerBearer_Horse=费艾诺民掌旗骑手
+lotr.unit.FeanorianMountedArcher_Horse=费艾诺民弓箭骑手
+lotr.unit.FeanorianBannerBearer_Horse=骑马费艾诺民旗手
 
 entity.lotrfa.GondolinWarrior.name=刚多林战士
 entity.lotrfa.GondolinElf.name=刚多林精灵
@@ -61,7 +60,7 @@ entity.lotrfa.GondolinBannerBearer.name=刚多林旗手
 entity.lotrfa.GondolinFlorist.name=刚多林花匠
 entity.lotrfa.GondolinStonemason.name=刚多林石匠
 lotr.unit.GondolinWarrior_Horse=刚多林骑手
-lotr.unit.GondolinBannerBearer_Horse=刚多林掌旗骑手
+lotr.unit.GondolinBannerBearer_Horse=骑马刚多林旗手
 
 entity.lotrfa.NargothrondWarrior.name=纳国斯隆德战士
 entity.lotrfa.NargothrondElf.name=纳国斯隆德精灵
@@ -73,7 +72,7 @@ entity.lotrfa.NargothrondRanger.name=纳国斯隆德游侠
 entity.lotrfa.NargothrondGoldsmith.name=纳国斯隆德金匠
 entity.lotrfa.NargothrondStonemason.name=纳国斯隆德石匠
 lotr.unit.NargothrondWarrior_Horse=纳国斯隆德骑手
-lotr.unit.NargothrondBannerBearer_Horse=纳国斯隆德掌旗骑手
+lotr.unit.NargothrondBannerBearer_Horse=骑马纳国斯隆德旗手
 
 entity.lotrfa.HithlumVinekeeper.name=希斯路姆葡萄看守人
 entity.lotrfa.HithlumVinehand.name=希斯路姆葡萄农
@@ -89,7 +88,7 @@ entity.lotrfa.HithlumLord.name=希斯路姆领主
 entity.lotrfa.HithlumRider.name=希斯路姆骑手
 entity.lotrfa.HithlumTrader.name=希斯路姆漫游者
 lotr.unit.HithlumWarrior_Horse=希斯路姆骑手
-lotr.unit.HithlumBannerBearer_Horse=希斯路姆掌旗骑手
+lotr.unit.HithlumBannerBearer_Horse=骑马希斯路姆旗手
 
 entity.lotrfa.DorLominBrewer.name=多尔罗明酿酒商
 entity.lotrfa.DorLominSmith.name=多尔罗明铁匠
@@ -106,7 +105,7 @@ entity.lotrfa.DorLominFarmer.name=多尔罗明农场主
 entity.lotrfa.DorLominFarmhand.name=多尔罗明农工
 entity.lotrfa.DorLominBartender.name=多尔罗明酒保
 lotr.unit.DorLominSoldier_Horse=多尔罗明骑手
-lotr.unit.DorLominBannerBearer_Horse=多尔罗明掌旗骑手
+lotr.unit.DorLominBannerBearer_Horse=骑马多尔罗明旗手
 
 entity.lotrfa.TormentedElf.name=苦痛精灵
 entity.lotrfa.TormentedElfSmith.name=苦痛精灵铁匠
@@ -124,7 +123,7 @@ entity.lotrfa.AngbandOrcBombardier.name=安格班奥克投弹手
 entity.lotrfa.AngbandOrcFireThrower.name=安格班奥克投火手
 entity.lotrfa.AngbandMerchant.name=安格班奥克供应商
 lotr.unit.AngbandOrc_Warg=安格班座狼骑手
-lotr.unit.AngbandOrcArcher_Warg=安格班座狼骑射手
+lotr.unit.AngbandOrcArcher_Warg=安格班座狼弓箭骑手
 lotr.unit.AngbandBannerBearer_Warg=安格班座狼掌旗骑手
 entity.lotrfa.AngbandSlaver.name=安格班奴隶主
 entity.lotrfa.AngbandSlave.name=安格班奴隶
@@ -141,7 +140,7 @@ entity.lotrfa.AnfauglithTroll.name=食人妖
 entity.lotrfa.AnfauglithMountainTroll.name=山区食人妖
 entity.lotrfa.AnfauglithOrcBombardier.name=安法乌格砾斯奥克投弹手
 lotr.unit.AnfauglithOrc_Warg=安法乌格砾斯座狼骑手
-lotr.unit.AnfauglithOrcArcher_Warg=安法乌格砾斯座狼骑射手
+lotr.unit.AnfauglithOrcArcher_Warg=安法乌格砾斯座狼弓箭骑手
 lotr.unit.AnfauglithBannerBearer_Warg=安法乌格砾斯座狼掌旗骑手
 
 entity.lotrfa.DorNaDaerachasSnowTroll.name=雪地食人妖
@@ -152,7 +151,7 @@ entity.lotrfa.DorNaDaerachasOrcChieftain.name=多尔-戴歹洛斯奥克头领
 entity.lotrfa.DorNaDaerachasBannerBearer.name=多尔-戴歹洛斯旗手
 entity.lotrfa.DorNaDaerachasWarg.name=多尔-戴歹洛斯座狼
 lotr.unit.DorNaDaerachasOrc_Warg=多尔-戴歹洛斯座狼骑手
-lotr.unit.DorNaDaerachasOrcArcher_Warg=多尔-戴歹洛斯座狼骑射手
+lotr.unit.DorNaDaerachasOrcArcher_Warg=多尔-戴歹洛斯座狼弓箭骑手
 lotr.unit.DorNaDaerachasBannerBearer_Warg=多尔-戴歹洛斯座狼掌旗骑手
 
 entity.lotrfa.UtumnoRemnantWarg.name=乌图姆诺残党冰座狼
@@ -164,7 +163,7 @@ entity.lotrfa.UtumnoRemnantBannerBearer.name=乌图姆诺残党旗手
 entity.lotrfa.UtumnoRemnantBerserker.name=乌图姆诺残党狂战士
 entity.lotrfa.UtumnoRemnantTrader.name=乌图姆诺残党商人
 lotr.unit.UtumnoRemnantOrc_Warg=乌图姆诺残党座狼骑手
-lotr.unit.UtumnoRemnantOrcCrossbower_Warg=乌图姆诺残党座狼骑射手
+lotr.unit.UtumnoRemnantOrcCrossbower_Warg=乌图姆诺残党座狼弓箭骑手
 lotr.unit.UtumnoRemnantBannerBearer_Warg=乌图姆诺残党座狼掌旗骑手
 
 entity.lotrfa.BelegostGoldsmith.name=贝烈戈斯特金匠
@@ -191,13 +190,13 @@ entity.lotrfa.BorSmith.name=玻尔家族铁匠
 entity.lotrfa.BorCaptain.name=玻尔家族队长
 entity.lotrfa.BorMan.name=玻尔家族人
 entity.lotrfa.BorSoldier.name=玻尔家族士兵
-entity.lotrfa.BorKnifeThrower.name=玻尔家族掷刀者
+entity.lotrfa.BorKnifeThrower.name=玻尔家族掷刀手
 entity.lotrfa.BorArcher.name=玻尔家族弓箭手
 entity.lotrfa.BorBlacksmith.name=玻尔家族铁匠
 entity.lotrfa.BorLevyman.name=玻尔家族征兵
 entity.lotrfa.BorBannerBearer.name=玻尔家族旗手
 lotr.unit.BorSoldier_Horse=玻尔家族骑手
-lotr.unit.BorBannerBearer_Horse=玻尔家族掌旗骑手
+lotr.unit.BorBannerBearer_Horse=骑马玻尔家族旗手
 
 entity.lotrfa.BrethilButcher.name=布瑞希尔屠夫
 entity.lotrfa.BrethilLumberman.name=布瑞希尔木材商
@@ -220,7 +219,7 @@ entity.lotrfa.DoriathElf.name=多瑞亚斯精灵
 entity.lotrfa.DoriathLord.name=多瑞亚斯领主
 entity.lotrfa.DoriathSmith.name=多瑞亚斯铁匠
 lotr.unit.DoriathWarrior_Horse=多瑞亚斯骑手
-lotr.unit.DoriathBannerBearer_Horse=多瑞亚斯掌旗骑手
+lotr.unit.DoriathBannerBearer_Horse=骑马多瑞亚斯旗手
 
 entity.lotrfa.TolInGaurhothLumberman.name=托尔-因-皋惑斯木材商
 entity.lotrfa.TolInGaurhothWarg.name=托尔-因-皋惑斯座狼
@@ -236,7 +235,7 @@ entity.lotrfa.TolInGaurhothBannerBearer.name=托尔-因-皋惑斯旗手
 entity.lotrfa.TolInGaurhothTrader.name=托尔-因-皋惑斯商人
 entity.lotrfa.TolInGaurhothWerewolf.name=妖狼
 lotr.unit.TolInGaurhothOrc_Warg=托尔-因-皋惑斯座狼骑手
-lotr.unit.TolInGaurhothOrcArcher_Warg=托尔-因-皋惑斯座狼骑射手
+lotr.unit.TolInGaurhothOrcArcher_Warg=托尔-因-皋惑斯座狼弓箭骑手
 lotr.unit.TolInGaurhothBannerBearer_Warg=托尔-因-皋惑斯座狼掌旗骑手
 lotr.unit.TolInGaurhothBannerBearer=托尔-因-皋惑斯旗手
 
@@ -259,7 +258,6 @@ entity.lotrfa.NogrodAxeThrower.name=诺格罗德投斧手
 entity.lotrfa.NogrodCommander.name=诺格罗德指挥官
 entity.lotrfa.NogrodSmith.name=诺格罗德铁匠
 entity.lotrfa.NogrodDwarf.name=诺格罗德矮人
-entity.lotrfa.NogrodBannerBearer.name=诺格罗德旗手
 
 entity.lotrfa.UlfangLumberman.name=乌方家族木材商
 entity.lotrfa.UlfangButcher.name=乌方家族屠夫
@@ -277,8 +275,8 @@ entity.lotrfa.UlfangWarrior.name=乌方家族战士
 entity.lotrfa.UlfangBrewer.name=乌方家族酿酒商
 entity.lotrfa.UlfangTrader.name=乌方家族朝贡者
 lotr.unit.UlfangWarrior_Horse=乌方家族骑手
-lotr.unit.UlfangArcher_Horse=乌方家族骑射手
-lotr.unit.UlfangBannerBearer_Horse=乌方家族掌旗骑手
+lotr.unit.UlfangArcher_Horse=乌方家族弓箭骑手
+lotr.unit.UlfangBannerBearer_Horse=骑马乌方家族旗手
 entity.lotrfa.UlfangSlaver.name=乌方家族奴隶主
 entity.lotrfa.UlfangSlave.name=乌方家族奴隶
 
