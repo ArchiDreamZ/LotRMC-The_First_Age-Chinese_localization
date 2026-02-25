@@ -770,10 +770,10 @@ lotrfa.structure.AngbandForgeTent.name=安格班锻炉帐篷
 lotrfa.structure.AngbandOutpost.name=安格班前哨站
 lotrfa.structure.AngbandFort.name=安格班堡垒
 
-lotrfa.structure.BelegostDwarfHouse.name=贝烈戈斯特宅
+lotrfa.structure.BelegostDwarfHouse.name=贝烈戈斯特房屋
 lotrfa.structure.BelegostSmithy.name=贝烈戈斯特铁匠铺
 lotrfa.structure.BelegostTower.name=贝烈戈斯特塔
-lotrfa.structure.NogrodDwarfHouse.name=诺格罗德宅
+lotrfa.structure.NogrodDwarfHouse.name=诺格罗德房屋
 lotrfa.structure.NogrodSmithy.name=诺格罗德铁匠铺
 lotrfa.structure.NogrodTower.name=诺格罗德塔
 lotrfa.structure.EredLuinMineEntrance.name=蓝色山脉矿井 
@@ -788,7 +788,7 @@ lotrfa.structure.BrethilCamp.name=布瑞希尔营地
 
 lotrfa.structure.DorLominCamp.name=多尔罗明营地
 lotrfa.structure.DorLominTent.name=多尔罗明帐篷
-lotrfa.structure.DorLominHouse.name=多尔罗明宅
+lotrfa.structure.DorLominHouse.name=多尔罗明房屋
 lotrfa.structure.DorLominInn.name=多尔罗明旅店
 lotrfa.structure.DorLominSmithy.name=多尔罗明铁匠铺
 lotrfa.structure.DorLominBarn.name=多尔罗明谷仓
@@ -804,13 +804,13 @@ lotrfa.structure.DorNaDaerachasSmithy.name=多尔-戴歹洛斯铁匠铺
 
 lotrfa.structure.DoriathCamp.name=多瑞亚斯营地
 lotrfa.structure.DoriathTent.name=多瑞亚斯帐篷
-lotrfa.structure.DoriathHouse.name=多瑞亚斯宅
+lotrfa.structure.DoriathHouse.name=多瑞亚斯房屋
 lotrfa.structure.DoriathTower.name=多瑞亚斯塔
 lotrfa.structure.DoriathMerchantStall.name=多瑞亚斯商铺
 
 lotrfa.structure.FalathrimMerchantStall.name=法拉斯民商铺
 lotrfa.structure.FalathrimSmithy.name=法拉斯民铁匠铺
-lotrfa.structure.FalathrimHouse.name=法拉斯民宅
+lotrfa.structure.FalathrimHouse.name=法拉斯民房屋
 lotrfa.structure.FalathrimTurret.name=法拉斯民塔楼
 
 lotrfa.structure.FeanorianCamp.name=费艾诺民营地
@@ -820,18 +820,18 @@ lotrfa.structure.FeanorianHillTower.name=白垩费艾诺民塔
 lotrfa.structure.FeanorianTower.name=费艾诺民塔
 lotrfa.structure.FeanorianTent.name=费艾诺民帐篷
 lotrfa.structure.FeanorianCaptainTent.name=费艾诺民队长帐篷
-lotrfa.structure.FeanorianHouse.name=费艾诺民宅
+lotrfa.structure.FeanorianHouse.name=费艾诺民房屋
 lotrfa.structure.FeanorianStable.name=费艾诺民马厩
 
 lotrfa.structure.GardhBorenCamp.name=玻尔家族营地
 lotrfa.structure.GardhBorenWatchtower.name=玻尔家族瞭望塔
 lotrfa.structure.GardhBorenTent.name=玻尔家族帐篷
-lotrfa.structure.GardhBorenHouse.name=玻尔家族宅
+lotrfa.structure.GardhBorenHouse.name=玻尔家族房屋
 lotrfa.structure.GardhBorenFort.name=玻尔家族堡垒
 lotrfa.structure.GardhBorenTavern.name=玻尔家族酒馆
 
 lotrfa.structure.GondolinTower.name=刚多林塔
-lotrfa.structure.GondolinHouse.name=刚多林宅
+lotrfa.structure.GondolinHouse.name=刚多林房屋
 lotrfa.structure.GondolinMerchantStall.name=刚多林商铺
 lotrfa.structure.GondolinForge.name=刚多林铁匠铺
 lotrfa.structure.GondolinHall.name=刚多林殿堂
@@ -841,9 +841,9 @@ lotrfa.structure.HithlumHall.name=希斯路姆殿堂
 lotrfa.structure.HithlumForge.name=希斯路姆铁匠铺
 lotrfa.structure.HithlumBrewery.name=希斯路姆酿造坊
 lotrfa.structure.HithlumMerchantStall.name=希斯路姆商铺
-lotrfa.structure.HithlumHouse.name=希斯路姆宅
+lotrfa.structure.HithlumHouse.name=希斯路姆房屋
 
-lotrfa.structure.LaegrimHouseSimple.name=绿精灵宅
+lotrfa.structure.LaegrimHouseSimple.name=绿精灵房屋
 lotrfa.structure.LaegrimForge.name=绿精灵铁匠铺
 lotrfa.structure.LaegrimCamp.name=绿精灵营地
 lotrfa.structure.LaegrimMerchantStall.name=绿精灵商铺
@@ -851,7 +851,7 @@ lotrfa.structure.LaegrimTent.name=绿精灵帐篷
 lotrfa.structure.LaegrimCaptainTent.name=绿精灵队长帐篷
 
 lotrfa.structure.NargothrondHall.name=纳国斯隆德殿堂
-lotrfa.structure.NargothrondHouse.name=纳国斯隆德宅
+lotrfa.structure.NargothrondHouse.name=纳国斯隆德房屋
 lotrfa.structure.NargothrondForge.name=纳国斯隆德铁匠铺
 lotrfa.structure.NargothrondMerchantStall.name=纳国斯隆德商铺
 lotrfa.structure.NargothrondCamp.name=纳国斯隆德游侠营地
@@ -867,7 +867,7 @@ lotrfa.structure.ThargelionCamp.name=废费艾诺民帐篷
 lotrfa.structure.ThargelionHall.name=废费艾诺民殿堂
 lotrfa.structure.ThargelionCaptainTent.name=废费艾诺民队长帐篷
 lotrfa.structure.ThargelionTower.name=废费艾诺民塔
-lotrfa.structure.ThargelionHouse.name=废费艾诺民宅
+lotrfa.structure.ThargelionHouse.name=废费艾诺民房屋
 lotrfa.structure.ThargelionStable.name=废费艾诺民马厩
 lotrfa.structure.ThargelionTent.name=废费艾诺民帐篷
 
@@ -884,7 +884,7 @@ lotrfa.structure.UlfangCampfire.name=乌方家族营火
 lotrfa.structure.UlfangFort.name=乌方家族堡垒
 lotrfa.structure.UlfangWatchtower.name=乌方家族瞭望塔
 lotrfa.structure.UlfangTavern.name=乌方家族酒馆
-lotrfa.structure.UlfangHouse.name=乌方家族宅
+lotrfa.structure.UlfangHouse.name=乌方家族房屋
 lotrfa.structure.UlfangSmithy.name=乌方家族铁匠铺
 lotrfa.structure.UlfangHall.name=乌方家族殿堂
 
@@ -894,20 +894,20 @@ lotrfa.structure.UlfangHuntsman.name=乌方家族猎人摊
 lotrfa.structure.UlfangLumber.name=乌方家族木材商摊
 
 lotrfa.structure.UlfangHillmanVillage.name=乌方家族山地人村庄
-lotrfa.structure.UlfangHillmanHouse.name=乌方家族山地人宅
-lotrfa.structure.UlfangHillmanChieftainHouse.name=乌方家族山地人头领宅
+lotrfa.structure.UlfangHillmanHouse.name=乌方家族山地人房屋
+lotrfa.structure.UlfangHillmanChieftainHouse.name=乌方家族山地人头领房屋
 
 lotrfa.structure.UtumnoRemnantCamp.name=乌图姆诺残党营地
 lotrfa.structure.UtumnoRemnantWargPit.name=乌图姆诺残党座狼坑
 lotrfa.structure.UtumnoRemnantSmithy.name=乌图姆诺残党铁匠铺
 lotrfa.structure.UtumnoRemnantWarCamp.name=乌图姆诺残党战营
 
-lotrfa.structure.VinyamarHouse.name=温雅玛宅
+lotrfa.structure.VinyamarHouse.name=温雅玛房屋
 lotrfa.structure.VinyamarHall.name=温雅玛殿堂
 lotrfa.structure.VinyamarForge.name=温雅玛铁匠铺
 
 lotrfa.structure.TormentedElfSmithy.name=苦痛精灵铁匠铺
-lotrfa.structure.TormentedElfHouse.name=苦痛精灵宅
+lotrfa.structure.TormentedElfHouse.name=苦痛精灵房屋
 
 lotrfa.structure.TestHouseBig.name=测试-大房屋
 lotrfa.structure.TestHouseSmall.name=测试-小房屋
