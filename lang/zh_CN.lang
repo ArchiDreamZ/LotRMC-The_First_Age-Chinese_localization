@@ -1433,17 +1433,17 @@ tile.brickMossy1.laegrim.name=苔绿精灵砖
 tile.brickMossy1.nargothrond.name=苔纳国斯隆德砖
 tile.brickMossy1.tolInGaurhoth.name=苔托尔-因-皋惑斯砖
 
-tile.brickCarved1.angband.name=錾制安格班砖
-tile.brickCarved1.brethil.name=錾制布瑞希尔砖
-tile.brickCarved1.dorLomin.name=錾制多尔罗明砖
-tile.brickCarved1.doriath.name=錾制多瑞亚斯砖
-tile.brickCarved1.falathrim.name=錾制法拉斯民砖
-tile.brickCarved1.feanorian.name=錾制费艾诺民砖
-tile.brickCarved1.gondolin.name=錾制刚多林砖
-tile.brickCarved1.hithlum.name=錾制希斯路姆砖
-tile.brickCarved1.nargothrond.name=錾制纳国斯隆德砖
-tile.brickCarved1.pettyDwarf.name=錾制小矮人砖
-tile.brickCarved1.tolInGaurhoth.name=錾制托尔-因-皋惑斯砖
+tile.brickCarved1.angband.name=雕纹安格班砖
+tile.brickCarved1.brethil.name=雕纹布瑞希尔砖
+tile.brickCarved1.dorLomin.name=雕纹多尔罗明砖
+tile.brickCarved1.doriath.name=雕纹多瑞亚斯砖
+tile.brickCarved1.falathrim.name=雕纹法拉斯民砖
+tile.brickCarved1.feanorian.name=雕纹费艾诺民砖
+tile.brickCarved1.gondolin.name=雕纹刚多林砖
+tile.brickCarved1.hithlum.name=雕纹希斯路姆砖
+tile.brickCarved1.nargothrond.name=雕纹纳国斯隆德砖
+tile.brickCarved1.pettyDwarf.name=雕纹小矮人砖
+tile.brickCarved1.tolInGaurhoth.name=雕纹托尔-因-皋惑斯砖
 
 tile.brickSpecial1.angbandBurning.name=燃安格班砖
 tile.brickSpecial1.doriathGold.name=镶金多瑞亚斯砖
@@ -1731,7 +1731,7 @@ tile.wallAndesite.1.name=磨制安山岩墙
 tile.pillarAndesite.0.name=安山岩柱
 
 tile.blockLummond.0.name=路姆昂多砖
-tile.blockLummond.1.name=錾制路姆昂多砖
+tile.blockLummond.1.name=雕纹路姆昂多砖
 tile.blockLummond.2.name=磨制路姆昂多
 tile.blockLummond.3.name=路姆昂多
 tile.slabSingleLummond.0.name=路姆昂多台阶
