@@ -2390,7 +2390,7 @@ lotr.biome.eredLuinWasteland.name=蓝色山脉山麓荒地
 lotr.biome.balar.name=巴拉尔
 lotr.biome.balarHills.name=巴拉尔丘陵
 lotr.biome.arvernien.name=阿维尼恩
-lotr.biome.nimbrithil.name=宁布瑞希尔
+lotr.biome.nimbrethil.name=宁布瑞希尔
 lotr.biome.baradNimras.name=巴拉德宁拉斯
 lotr.biome.falathrimHeartland.name=法拉斯
 lotr.biome.falasHills.name=埃敏埃格兰
@@ -2666,7 +2666,7 @@ lotr.road.DwarfRoad3=诺格罗德-贝烈戈斯特路
 lotr.road.Menegroth=明霓国斯-埃斯托拉德路
 lotr.road.Menegroth2=明霓国斯-塔拉思迪尔能路
 lotr.road.FenSerech=奥克路
-lotr.road.Dorthonion1=多松尼安路
+lotr.road.Dorthonion=多松尼安路
 lotr.road.Dorthonion2=多松尼安路
 lotr.road.Ladros=荒野路
 lotr.road.Lothlann=洛丝蓝路
@@ -2676,3 +2676,6 @@ lotr.road.BaradNimras=巴拉德宁拉斯-布砾松巴尔路
 
 lotrfa.miniquest.welcome.speak=与乌欧牟的幻像对话
 lotrfa.miniquest.welcome.book=打开金皮书
+
+lotr.road.Dorthonion1=多松尼安路
+
