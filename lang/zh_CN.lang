@@ -1342,9 +1342,9 @@ lotr.invasion.DOR_NA_DAERACHAS_utumnoRemnant=乌图姆诺残党
 lotr.invasion.TOL_IN_GAURHOTH_tolInGaurhothWarg=托尔-因-皋惑斯座狼
 
 lotr.invasion.ANGBAND.horn=安格班的战争号角
-lotr.invasion.ANGBAND_angbandWarg.horn=安格班的座狼号角
+lotr.invasion.ANGBAND_angbandWarg.horn=安格班座狼的战争号角
 lotr.invasion.ANGBAND_anfauglith.horn=安法乌格砾斯的战争号角
-lotr.invasion.ANGBAND_anfauglithWarg.horn=安法乌格砾斯的座狼号角
+lotr.invasion.ANGBAND_anfauglithWarg.horn=安法乌格砾斯座狼的战争号角
 lotr.invasion.BRETHIL.horn=布瑞希尔的战争号角
 lotr.invasion.DORIATH.horn=多瑞亚斯的战争号角
 lotr.invasion.DOR_LOMIN.horn=多尔罗明的战争号角
@@ -1360,7 +1360,7 @@ lotr.invasion.LAEGRIM.horn=欧西瑞安德的战争号角
 lotr.invasion.NARGOTHROND.horn=纳国斯隆德的战争号角
 lotr.invasion.PETTY_DWARF.horn=阿蒙如兹的战争号角
 lotr.invasion.TOL_IN_GAURHOTH.horn=托尔-因-皋惑斯的战争号角
-lotr.invasion.TOL_IN_GAURHOTH_tolInGaurhothWarg.horn=托尔-因-皋惑斯的座狼号角
+lotr.invasion.TOL_IN_GAURHOTH_tolInGaurhothWarg.horn=托尔-因-皋惑斯座狼的战争号角
 
 tile.barrier.name=屏障
 tile.oreStorage.0.name=强化奥克钢块
