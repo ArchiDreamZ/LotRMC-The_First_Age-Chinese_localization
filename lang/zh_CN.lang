@@ -301,9 +301,9 @@ container.lotr.crafting.nogrod=诺格罗德合成
 
 item.lotr:bossTrophy.angbandBalrog.name=灭却的炎魔头颅
 
-item.silmaril.sky.name=§e精灵宝钻
-item.silmaril.fire.name=§6精灵宝钻
-item.silmaril.water.name=§b精灵宝钻
+item.silmaril.sky.name=§e穹苍高天之上的精灵宝钻
+item.silmaril.fire.name=§6地心火焰之中的精灵宝钻
+item.silmaril.water.name=§b汪洋深水之底的精灵宝钻
 item.nauglamir.name=瑙格拉弥尔
 item.dragonHelm.name=多尔罗明的龙盔
 item.corruptItem.name=腐化之光
